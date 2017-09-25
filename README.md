@@ -3,11 +3,11 @@ This project contains many methodologies that would assist in maintaining the KY
 
 
 There are a few main components to this system:
--FrontEnd
--Redis
--Pinger
--PowerShell Execution Console
--Docker Engine
+- FrontEnd
+- Redis
+- Pinger
+- PowerShell Execution Console
+- Docker Engine
 
 
 
@@ -29,6 +29,6 @@ This container manages the connections and logic between all other containers, a
 
 ## Redis
 This container is a database functioning in 3 different types- static, dynamic, and expiring.
--Static data is saved to disck automaticly
--dynamic data will be expected to change constantly
--expiring data is expected to expire after an arbitrary period of time
+- Static data is saved to disck automaticly
+- dynamic data will be expected to change constantly
+- expiring data is expected to expire after an arbitrary period of time
