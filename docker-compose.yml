@@ -16,13 +16,11 @@ services:
     build:
       context: ./Redis
       dockerfile: Dockerfile
-
   webapi:
     image: webapi
     build:
       context: ./WebAPI
       dockerfile: Dockerfile
-
   powershellexecutionconsole:
     image: powershellexecutionconsole
     build:
