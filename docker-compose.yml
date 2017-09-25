@@ -1,0 +1,30 @@
+version: '3.3'
+
+services:
+  operationsdashboard:
+    image: operationsdashboard
+    build:
+      context: ./OperationsDashboard
+      dockerfile: Dockerfile
+  pinger:
+    image: pinger
+    build:
+      context: ./Pinger
+      dockerfile: Dockerfile
+  redis:
+    image: redis
+    build:
+      context: ./Redis
+      dockerfile: Dockerfile
+
+  webapi:
+    image: webapi
+    build:
+      context: ./WebAPI
+      dockerfile: Dockerfile
+
+  powershellexecutionconsole:
+    image: powershellexecutionconsole
+    build:
+      context: .\PowerShellExecutionConsole
+      dockerfile: Dockerfile
