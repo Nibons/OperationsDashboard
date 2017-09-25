@@ -41,6 +41,9 @@ This container is a database functioning in 3 different types- static, dynamic, 
 3. Install DotNetCore2.0 https://aka.ms/dotnet-sdk-2.0.0-win-gs-x64 
 4. Install "Docker For Windows"
 
-powershellInstallation:
-~~~~ Set-ExecutionPolicy AllSigned; iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1')) #install Chocolatey
-~~~~ choco install git,vs2017,vscode,nodejs,docker,docker-compose,dotnetcore -y #install a few apps
+powershell Installation:
+~~~~ powershell
+Set-ExecutionPolicy AllSigned #allows chocolatey to be installed
+iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1')) #installs chocolatey
+choco install git,vs2017,vscode,nodejs,docker,docker-compose,dotnetcore -y #install a few apps
+~~~~ 
