@@ -3,15 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26730.16
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OperationsDashboard", "OperationsDashboard\OperationsDashboard.csproj", "{713AE4A5-7FB9-4792-B37D-F608FBFDF447}"
-EndProject
 Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{DB93C31C-C67E-4F0D-BA45-A43C27477261}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pinger", "..\Pinger\Pinger.csproj", "{5BB71B84-57D1-446D-84F6-41BA2EC15563}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pinger", "..\Pinger\Pinger.csproj", "{5BB71B84-57D1-446D-84F6-41BA2EC15563}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Redis", "Redis\Redis.csproj", "{7B7E366D-8D80-4DD9-9DA4-801645BE5D1D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPI", "WebAPI\WebAPI.csproj", "{65A216CA-0C3E-4A93-8971-DFB123B515B4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebAPI", "WebAPI\WebAPI.csproj", "{65A216CA-0C3E-4A93-8971-DFB123B515B4}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PowerShellExecutionConsole", "PowerShellExecutionConsole\PowerShellExecutionConsole.csproj", "{31360424-E5C5-4A1A-AF3A-49325DAC0F92}"
 EndProject
@@ -21,10 +19,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{713AE4A5-7FB9-4792-B37D-F608FBFDF447}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{713AE4A5-7FB9-4792-B37D-F608FBFDF447}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{713AE4A5-7FB9-4792-B37D-F608FBFDF447}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{713AE4A5-7FB9-4792-B37D-F608FBFDF447}.Release|Any CPU.Build.0 = Release|Any CPU
 		{DB93C31C-C67E-4F0D-BA45-A43C27477261}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{DB93C31C-C67E-4F0D-BA45-A43C27477261}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DB93C31C-C67E-4F0D-BA45-A43C27477261}.Release|Any CPU.ActiveCfg = Release|Any CPU
