@@ -34,3 +34,13 @@ This container is a database functioning in 3 different types- static, dynamic, 
  - dynamic data will be expected to change constantly
  - expiring data is expected to expire after an arbitrary period of time
 
+
+#Dev Installation
+1. Install VSCode and VS2017
+2. Install Node.JS
+3. Install DotNetCore2.0 https://aka.ms/dotnet-sdk-2.0.0-win-gs-x64 
+4. Install "Docker For Windows"
+
+powershellInstallation:
+~~~~ Set-ExecutionPolicy AllSigned; iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1')) #install Chocolatey
+~~~~ choco install git,vs2017,vscode,nodejs,docker,docker-compose,dotnetcore -y #install a few apps
