@@ -4,8 +4,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 15.0.26730.16
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{DB93C31C-C67E-4F0D-BA45-A43C27477261}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pinger", "..\Pinger\Pinger.csproj", "{5BB71B84-57D1-446D-84F6-41BA2EC15563}"
+	ProjectSection(ProjectDependencies) = postProject
+		{31360424-E5C5-4A1A-AF3A-49325DAC0F92} = {31360424-E5C5-4A1A-AF3A-49325DAC0F92}
+		{7652DBB9-142C-4D53-8867-F6AE6B4ACB67} = {7652DBB9-142C-4D53-8867-F6AE6B4ACB67}
+		{65A216CA-0C3E-4A93-8971-DFB123B515B4} = {65A216CA-0C3E-4A93-8971-DFB123B515B4}
+	EndProjectSection
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebAPI", "WebAPI\WebAPI.csproj", "{65A216CA-0C3E-4A93-8971-DFB123B515B4}"
 EndProject
@@ -18,6 +21,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Redis", "Redis", "{059042DB
 		Redis\Dockerfile = Redis\Dockerfile
 	EndProjectSection
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pinger", "Pinger\Pinger.csproj", "{889BE234-2C10-4E06-8B7D-EACA0C8599B5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -28,10 +33,6 @@ Global
 		{DB93C31C-C67E-4F0D-BA45-A43C27477261}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DB93C31C-C67E-4F0D-BA45-A43C27477261}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DB93C31C-C67E-4F0D-BA45-A43C27477261}.Release|Any CPU.Build.0 = Release|Any CPU
-		{5BB71B84-57D1-446D-84F6-41BA2EC15563}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5BB71B84-57D1-446D-84F6-41BA2EC15563}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5BB71B84-57D1-446D-84F6-41BA2EC15563}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5BB71B84-57D1-446D-84F6-41BA2EC15563}.Release|Any CPU.Build.0 = Release|Any CPU
 		{65A216CA-0C3E-4A93-8971-DFB123B515B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{65A216CA-0C3E-4A93-8971-DFB123B515B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{65A216CA-0C3E-4A93-8971-DFB123B515B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -44,6 +45,10 @@ Global
 		{7652DBB9-142C-4D53-8867-F6AE6B4ACB67}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7652DBB9-142C-4D53-8867-F6AE6B4ACB67}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7652DBB9-142C-4D53-8867-F6AE6B4ACB67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{889BE234-2C10-4E06-8B7D-EACA0C8599B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{889BE234-2C10-4E06-8B7D-EACA0C8599B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{889BE234-2C10-4E06-8B7D-EACA0C8599B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{889BE234-2C10-4E06-8B7D-EACA0C8599B5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
