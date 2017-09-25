@@ -30,12 +30,7 @@ This container manages the connections and logic between all other containers, a
 
 ## Redis
 This container is a database functioning in 3 different types- static, dynamic, and expiring.
-<<<<<<< HEAD
  - Static data is saved to disck automaticly
  - dynamic data will be expected to change constantly
  - expiring data is expected to expire after an arbitrary period of time
-=======
-- Static data is saved to disck automaticly
-- dynamic data will be expected to change constantly
-- expiring data is expected to expire after an arbitrary period of time
->>>>>>> 9729172dab9bccb7488987ed3c3af84bb5a799a5
+
