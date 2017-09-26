@@ -3,25 +3,14 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26730.16
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{DB93C31C-C67E-4F0D-BA45-A43C27477261}"
-	ProjectSection(ProjectDependencies) = postProject
-		{31360424-E5C5-4A1A-AF3A-49325DAC0F92} = {31360424-E5C5-4A1A-AF3A-49325DAC0F92}
-		{7652DBB9-142C-4D53-8867-F6AE6B4ACB67} = {7652DBB9-142C-4D53-8867-F6AE6B4ACB67}
-		{65A216CA-0C3E-4A93-8971-DFB123B515B4} = {65A216CA-0C3E-4A93-8971-DFB123B515B4}
-	EndProjectSection
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebAPI", "WebAPI\WebAPI.csproj", "{65A216CA-0C3E-4A93-8971-DFB123B515B4}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PowerShellExecutionConsole", "PowerShellExecutionConsole\PowerShellExecutionConsole.csproj", "{31360424-E5C5-4A1A-AF3A-49325DAC0F92}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperationsDashboard", "OperationsDashboard\OperationsDashboard.csproj", "{7652DBB9-142C-4D53-8867-F6AE6B4ACB67}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Redis", "Redis", "{059042DB-438F-4E32-92C5-61DE102A58CB}"
 	ProjectSection(SolutionItems) = preProject
 		Redis\Dockerfile = Redis\Dockerfile
 	EndProjectSection
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pinger", "Pinger\Pinger.csproj", "{889BE234-2C10-4E06-8B7D-EACA0C8599B5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
