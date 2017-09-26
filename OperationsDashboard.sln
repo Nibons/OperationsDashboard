@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pinger", "Pinger\Pinger.csproj", "{D03A8CEC-BDB2-41D4-A39C-0681C965417A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebAPI", "WebAPI\WebAPI.csproj", "{C2901668-838F-40FE-A48F-1A124DC38895}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D03A8CEC-BDB2-41D4-A39C-0681C965417A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D03A8CEC-BDB2-41D4-A39C-0681C965417A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D03A8CEC-BDB2-41D4-A39C-0681C965417A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D03A8CEC-BDB2-41D4-A39C-0681C965417A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2901668-838F-40FE-A48F-1A124DC38895}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2901668-838F-40FE-A48F-1A124DC38895}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2901668-838F-40FE-A48F-1A124DC38895}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2901668-838F-40FE-A48F-1A124DC38895}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {627E6007-2CA9-4045-97F6-3458E9FEC4AB}
+	EndGlobalSection
+EndGlobal
