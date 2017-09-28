@@ -1,0 +1,21 @@
+{
+  "profiles": {
+    "Development": {
+      "commandName": "Project",
+      "commandLineArgs": "NiceTest",
+      "environmentVariables": {
+        "redis_hostname": "redis",
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "redis_port": "6379"
+      }
+    },
+    "Production": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "redis_hostname": "redis",
+        "ASPNETCORE_ENVIRONMENT": "Production",
+        "redis_port": "6379"
+      }
+    }
+  }
+}

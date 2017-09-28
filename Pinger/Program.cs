@@ -6,7 +6,13 @@ namespace Pinger
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            //var redishost = Startup.getEnv();
+            //Console.WriteLine(redishost);
+            //Console.ReadLine();
+            var redisExample = new RedisExample();
+            Console.ReadLine();
         }
+
+
     }
 }
