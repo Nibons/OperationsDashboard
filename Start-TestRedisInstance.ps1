@@ -7,7 +7,8 @@ begin{
 }
 Process{
 	#start the instance
-	docker run -d --name redis -p 6379:6379 redis:nanoserver 
+	docker run -d --name redis --hostname redis -p 6379:6379 redis:nanoserver 
+
 
 	#retrieve data from the instance
 	$redis_inspection = docker inspect redis | ConvertFrom-Json
