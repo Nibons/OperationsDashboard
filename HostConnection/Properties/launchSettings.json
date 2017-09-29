@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "Development": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "BoM_CsvFileName": "BoM.csv",
+        "Redis_Hostname": "redis",
+        "Redis_Port": "6379"        
+      }
+    }
+  }
+}

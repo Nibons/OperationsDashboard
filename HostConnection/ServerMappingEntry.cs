@@ -1,10 +1,10 @@
-﻿using System;
-using ServiceStack.Redis;
+﻿using ServiceStack.Redis;
 using System.Collections.Generic;
+using CsvHelper.Configuration;
 
 namespace OperationsDashboard.Common
 {
-    class ServerMappingEntry
+    class ServerMappingEntry : CsvClassMap<ServerMappingEntry>
     {
         public long id;
         public string Servername;
@@ -15,14 +15,15 @@ namespace OperationsDashboard.Common
         public string IPAddress;
         public string dnsHost;
 
-        public ServerMappingEntry(string Servername, string friendlyname, string logicalEnvironment, string environment,string function, string iPAddress, string dnsHost)
+
+        public ServerMappingEntry()
         {
-            this.Servername = Servername;
-            this.FriendlyName = friendlyname;
-            this.LogicalEnvironment = logicalEnvironment;
-            this.Environment = environment;
-            this.Function = function;
-            this.IPAddress = iPAddress;
+            Map(m => m.Environment).Name("Environment");
+            Map(m => m.FriendlyName).Name("Physical Server");
+            Map(m => m.Servername).Name("Servername");
+            Map(m => m.LogicalEnvironment).Name("Logical Environment Abbiv.");
+            Map(m => m.IPAddress).Name("IP Address / Ports for Database");
+            Map(m => m.dnsHost).Name("DNSName");
         }
 
         public void AddToRedis()
