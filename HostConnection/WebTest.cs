@@ -6,37 +6,39 @@ namespace OperationsDashboard.Common
     public class WebTest
     {
         public WebClient WebClient { get; private set; }
-        private string IpAddress;
-        private string Hostname;
-        private string url;
-        public WebTest(string url,string originalHostname,string IpAddress)
+        public IPAddress IpAddress;
+        public string Hostname;
+        public Uri url;
+
+        public WebTest(string url, IPAddress IpAddress)
         {
             //set the objects properties
-            this.url = url;
-            this.Hostname = originalHostname;
+            this.url = new Uri(url);
+            this.Hostname = this.url.Host;
             this.IpAddress = IpAddress;
 
             //invoke the download
             this.StartDownload();
-        }       
+        }
 
         private void StartDownload()
         {
+            string ipUrl = this.url.OriginalString.Replace(this.Hostname, this.IpAddress.ToString());
+
             this.WebClient = new WebClient();
-            string newURL = url.Replace(this.Hostname, this.IpAddress);
+
             WebClient.Headers[HttpRequestHeader.Host] = this.Hostname;
-            WebClient.DownloadDataAsync(new Uri(newURL));
-        }        
-
-        public void CompleteEventSubscription()
-        {
-            this.WebClient.DownloadDataCompleted += HandleDownloadComplete;
+            WebClient.DownloadDataAsync(new Uri(ipUrl));
         }
+        public delegate void OnCompleteEventHandler(object obj, EventArgs e);
 
-        void HandleDownloadComplete( object sender, EventArgs e)
-        {
-            ResponseData responseData = new ResponseData();
-            responseData.IpAddress = 
-        }
+        public event OnCompleteEventHandler<EventArgs> OnComplete;
+        
+
+        //void HandleDownloadComplete( object sender, EventArgs e)
+        //{
+        //    ResponseData responseData = new ResponseData();
+        //    responseData.IpAddress = 
+        //}
     }
 }
