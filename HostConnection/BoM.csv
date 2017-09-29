@@ -1,0 +1,1358 @@
+Environment,Physical Server,Servername,Logical Environment,Logical Environment Abbiv.,Purpose,IP Address / Ports for Database,DNS Name,Virtual IP Address,,KHBE Environment Instance Name,"Data 
+Contained",Internet Connectivity
+Development,DEV-WEB,HFSNE121-037001,QA Sandbox,EXPL,SSP,172.26.24.204,expl.kyenroll.chfsinet.ky.gov,,,,,No
+Development,DEV-WEB,HFSNE121-037001,Development 1,DEV1,SSP,172.26.24.198,dev1.kyenroll.chfsinet.ky.gov,,,,,No
+Development,DEV-WEB,HFSNE121-037001,Development 2,DEV2,SSP,172.26.24.199,dev2.kyenroll.chfsinet.ky.gov,,,,,No
+Development,DEV-WEB,HFSNE121-037001,Development 3,DEV3,SSP,172.26.24.200,dev3.kyenroll.chfsinet.ky.gov,,,,,No
+Development,DEV-WEB,HFSNE121-037001,Development 4,DEV4,SSP,172.26.24.196,dev4.kyenroll.chfsinet.ky.gov,,,,,No
+Development,DEV-WEB,HFSNE121-037001,Development,DEV1,SSP,172.26.24.231,dev1.issuerportal.kynect.chfsinet.ky.gov ,,,,,No
+Development,DEV-WEB,HFSNE121-037001,Development,DEV2,SSP,172.26.24.37,dev2.issuerportal.kynect.chfsinet.ky.gov ,,,,,No
+Development,DEV-WEB,HFSNE121-037001,Mobile Web,webapi,Mobile Web,172.26.24.117,dev.webapi.kynect.ky.gov,,,,,No
+Development,DEV-WEB,HFSNE121-037001,Development 1,DEV1,WCM,172.26.24.216,dev1.kywaiver.chfsinet.ky.gov,,,,,No
+Development,DEV-WEB,HFSNE121-037001,Development 2,DEV2,WCM,172.26.24.220,dev2.kywaiver.chfsinet.ky.gov,,,,,No
+Development,DEV-WEB,HFSNE121-037001,Development 3,DEV3,WCM,172.26.24.221,dev3.kywaiver.chfsinet.ky.gov,,,,,No
+Development,DEV-WEB,HFSNE121-037001,Development 4,DEV4,WCM,172.26.24.252,dev4.kywaiver.chfsinet.ky.gov,,,,,No
+Development,DEV-WEB,HFSNE121-037001,Development,DEV,DBS,172.26.24.38,dev.dbservices.chfsinet.ky.gov,,,,,No
+Development,DEV-WEB,HFSNE121-037001,Development 1,DEV1,PMB,172.26.24.41,dev1.kyshop.chfsinet.ky.gov,,,,,No
+Development,DEV-WEB,HFSNE121-037001,Development 1,DEV1,PMB,172.26.24.42,dev1.kyshopping.chfsinet.ky.gov,,,,,No
+Development,DEV-WEB,HFSNE121-037001,Development 1,DEV1,PMB,172.26.24.137,dev1.kyplans.chfsinet.ky.gov,,,,,No
+Development,DEV-WEB,HFSNE121-037001,Development 2,DEV2,PMB,172.26.24.194,dev2.kyshop.chfsinet.ky.gov,,,,,
+Development,DEV-WEB,HFSNE121-037001,Development 2,DEV2,PMB,172.26.24.86,dev2.kyshopping.chfsinet.ky.gov,,,,,
+Development,DEV-WEB,HFSNE121-037001,Development 2,DEV2,PMB,172.26.24.87,dev2.kyplans.chfsinet.ky.gov,,,,,
+Development,DEV-WEB,HFSNE121-037001,Development 5,DEV5,SSP,172.26.36.14,dev5.kyenroll.chfsinet.ky.gov,,,,,
+Development,DEV-WEB,HFSNE121-037001,Development 5,DEV5,PMB,172.26.36.15,dev5.kyshop.chfsinet.ky.gov,,,,,
+Development,DEV-WEB,HFSNE121-037001,Development 5,DEV5,PMB,172.26.36.16,dev5.kyshopping.chfsinet.ky.gov,,,,,
+Development,DEV-WEB,HFSNE121-037001,Development 5,DEV5,PMB,172.26.36.17,dev5.kyplans.chfsinet.ky.gov,,,,,
+Development,DEV-WEB,HFSNE121-037001,Development 5,DEV5,ISSUER PORTAL,172.26.36.18,dev5.kyissuer.chfsinet.ky.gov,,,,,
+Development,DEV-WEB,HFSNE121-037001,Development 5,DEV5,WCM,172.26.36.30,dev5.kywaiver.chfsinet.ky.gov,,,,,
+Development,DEV-WEB,HFSNE121-037001,Development 3,DEV3,PMB,172.26.36.31,dev3.kyshop.chfsinet.ky.gov,,,,,
+Development,DEV-WEB,HFSNE121-037001,Development 4,DEV4,PMB,172.26.36.32,dev4.kyshop.chfsinet.ky.gov,,,,,
+Development,DEV-WEB,HFSNE121-037001,Development 3,DEV3,PMB,172.26.36.33,dev3.kyplans.chfsinet.ky.gov,,,,,
+Development,DEV-WEB,HFSNE121-037001,Development 4,DEV4,PMB,172.26.36.34,dev4.kyplans.chfsinet.ky.gov,,,,,
+Development,DEV-WEB,HFSNE121-037001,Development 3,DEV3,PMB,172.26.36.35,dev3.kyshopping.chfsinet.ky.gov,,,,,
+Development,DEV-WEB,HFSNE121-037001,Development 4,DEV4,PMB,172.26.36.36,dev4.kyshopping.chfsinet.ky.gov,,,,,
+Development,DEV-WEB,HFSNE121-037001,Development 2,DEV2,Mobile Web,172.26.36.37,dev2.webapi.kynect.chfsinet.ky.gov,,,,,
+Development,DEV-WEB,HFSNE121-037001,Development,DEV,Mobile Web,172.26.36.38,dev.webapi.kyshop.chfsinet.ky.gov,,,,,
+Development,DEV-WEB,HFSNE121-037001,Development 2,DEV2,Mobile Web,172.26.36.39,dev2.webapi.kyshop.chfsinet.ky.gov,,,,,
+Development,DEV-WEB,HFSNE121-037001,Development,DEV,Mobile Web,172.26.36.40,dev.webapi.kyshopping.chfsinet.ky.gov,,,,,
+Development,DEV-WEB,HFSNE121-037001,Development 2,DEV2,Mobile Web,172.26.36.41,dev2.webapi.kyshopping.chfsinet.ky.gov,,,,,
+Development,DEV-WEB,HFSNE121-037001,Development 1,DEV1,AGENT,172.26.36.42,dev1.kyagent.chfsinet.ky.gov ,,,,,
+Development,DEV-WEB,HFSNE121-037001,Development 2,DEV2,AGENT,172.26.36.43,dev2.kyagent.chfsinet.ky.gov ,,,,,
+Development,DEV-WEB,HFSNE121-037001,Development 3,DEV3,AGENT,172.26.36.44,dev3.kyagent.chfsinet.ky.gov ,,,,,
+Development,DEV-WEB,HFSNE121-037001,Development 4,DEV4,AGENT,172.26.36.45,dev4.kyagent.chfsinet.ky.gov ,,,,,
+Development,DEV-WEB,HFSNE121-037001,Development 5,DEV5,AGENT,172.26.36.46,dev5.kyagent.chfsinet.ky.gov ,,,,,
+Development,DEV-WEB,HFSNE121-037001,Development 1,DEV1,FORM1095,172.26.36.49,dev1.form1095.chfsinet.ky.gov,,,,,
+Development,DEV-WEB,HFSNE121-037001,Development 2,DEV2,FORM1095,172.26.36.50,dev2.form1095.chfsinet.ky.gov,,,,,
+Development,DEV-WEB,HFSNE121-037001,Development 3,DEV3,FORM1095,172.26.36.51,dev3.form1095.chfsinet.ky.gov,,,,,
+Development,DEV-WEB,HFSNE121-037001,Development 4,DEV4,FORM1095,172.26.36.52,dev4.form1095.chfsinet.ky.gov,,,,,
+Development,DEV-WEB,HFSNE121-037001,Development 5,DEV5,FORM1095,172.26.36.53,dev5.form1095.chfsinet.ky.gov,,,,,
+Development,DEV-APP,HFSNE121-037002,QA Sandbox,EXPL,WP,172.26.24.205,expl.kyserve.chfsinet.ky.gov,,,,,No
+Development,DEV-APP,HFSNE121-037002,Development 1,DEV1,WP,172.26.24.201,dev1.kyserve.chfsinet.ky.gov,,,,,No
+Development,DEV-APP,HFSNE121-037002,Development 2,DEV2,WP,172.26.24.202,dev2.kyserve.chfsinet.ky.gov,,,,,No
+Development,DEV-APP,HFSNE121-037002,Development 3,DEV3,WP,172.26.24.203,dev3.kyserve.chfsinet.ky.gov,,,,,No
+Development,DEV-APP,HFSNE121-037002,Development 4,DEV4,WP,172.26.24.253,dev4.kyserve.chfsinet.ky.gov,,,,,No
+Development,DEV-APP,HFSNE121-037002,Development 1,DEV1,PMB,172.26.24.141,dev1.kyshopwp.chfsinet.ky.gov,,,,,No
+Development,DEV-APP,HFSNE121-037002,Development 2,DEV2,PMB,172.26.24.23,dev2.kyshopwp.chfsinet.ky.gov,,,,,
+Development,DEV-APP,HFSNE121-037002,Development 5,DEV5,WP,172.26.36.19,dev5.kyserve.chfsinet.ky.gov,,,,,
+Development,DEV-BIZTALK-1,HFSSD121-03704,Development,DEV1,BizTalk,,,,,,,No
+Development,DEV-BIZTALK-2,HFSSD121-03705,Development,DEV1,BizTalk,,,,,,,No
+Development,DEV-BIZTALK-3,HFSSD121-03706,Development,DEV1,BizTalk,,,,,,,No
+Development,DEV-BIZTALK-4,HFSSD121-03707,Development,DEV1,BizTalk,,,,,,,No
+Development,DEV-FORMS-1,HFSNE121-037003,QA Sandbox,EXPL,HP Exstream,172.26.24.206,expl.kyforms.chfsinet.ky.gov,,,,,No
+Development,DEV-FORMS-1,HFSNE121-037003,Development 1,DEV1,HP Exstream,172.26.24.207,dev1.kyforms.chfsinet.ky.gov,,,,,No
+Development,DEV-FORMS-1,HFSNE121-037003,Development 2,DEV2,HP Exstream,172.26.24.208,dev2.kyforms.chfsinet.ky.gov,,,,,No
+Development,DEV-FORMS-1,HFSNE121-037003,Development 3,DEV3,HP Exstream,172.26.24.209,dev3.kyforms.chfsinet.ky.gov,,,,,No
+Development,DEV-FORMS-1,HFSNE121-037003,Development 4,DEV4,HP Exstream,172.26.24.197,dev4.kyforms.chfsinet.ky.gov,,,,,No
+Development,DEV-FORMS-1,HFSNE121-037003,Development 5,DEV5,HP Exstream,172.26.36.20,dev5.kyforms.chfsinet.ky.gov,,,,,
+Development,DEV-FORMS-2,HFSNE121-037213,,,,,,,,,,No
+Development,DEV-REPORTING-BO-1,HFSWP121-03706,,,,,,,,,,No
+Development,DEV-REPORTING-WI-2,TBD,,,,,,,,,,No
+Development,DEV-WEB-REPORTING,HFSIL121-03710,,,,,,,,,,No
+Development,DEV-UTILITY,HFSNE121-037006,QA Sandbox,EXPL,Corticon,172.26.24.210,expl.kyrules.chfsinet.ky.gov,,,,,No
+Development,DEV-UTILITY,HFSNE121-037006,Development 1,DEV1,Corticon,172.26.24.211,dev1.kyrules.chfsinet.ky.gov,,,,,No
+Development,DEV-UTILITY,HFSNE121-037006,Development 2,DEV2,Corticon,172.26.24.212,dev2.kyrules.chfsinet.ky.gov,,,,,No
+Development,DEV-UTILITY,HFSNE121-037006,Development 3,DEV3,Corticon,172.26.24.213,dev3.kyrules.chfsinet.ky.gov,,,,,No
+Development,DEV-UTILITY,HFSNE121-037006,Development 4,DEV4,Corticon,172.26.24.34,dev4.kyrules.chfsinet.ky.gov,,,,,No
+Development,DEV-UTILITY,HFSNE121-037006,QA Sandbox,EXPL,Corticon,172.26.24.242,expl.kyservices.chfsinet.ky.gov,,,,,No
+Development,DEV-UTILITY,HFSNE121-037006,Development 1,DEV1,Corticon,172.26.24.243,dev1.kyservices.chfsinet.ky.gov,,,,,No
+Development,DEV-UTILITY,HFSNE121-037006,Development 2,DEV2,Corticon,172.26.24.244,dev2.kyservices.chfsinet.ky.gov,,,,,No
+Development,DEV-UTILITY,HFSNE121-037006,Development 3,DEV3,Corticon,172.26.24.245,dev3.kyservices.chfsinet.ky.gov,,,,,No
+Development,DEV-UTILITY,HFSNE121-037006,Development 5,DEV5,Corticon,172.26.36.21,dev5.kyrules.chfsinet.ky.gov,,,,,
+Development,DEV-DB-1,HFSNE121-037007,QA Sandbox (Instance),EXPL,Database,,HFSNE121-037007\EXPL,,,EXPL,,No
+Development,DEV-DB-1,HFSNE121-037007,Development 1 (Instance),DEV1,Database,1961,HFSNE121-037007\DEV1,,,DEV1,,No
+Development,DEV-DB-1,HFSNE121-037007,Development 2 (Instance),DEV2,Database,1962,HFSNE121-037007\DEV2,,,DEV2,,No
+Development,DEV-DB-1,HFSNE121-037007,Development 3 (Instance),DEV3,Database,,HFSNE121-037007\DEV3,,,DEV3,,No
+Development,DEV-CONV-DB,HFSNE121-037008,Conversion 1,CON1,Conversion Environment,,HFSNE121-037008\CON1,,,CON1,,No
+Development,DEV-CONV-DB,HFSNE121-037008,Conversion 2,CON2,Conversion Environment,,HFSNE121-037008\CON2,,,CON2,,No
+Development,DEV-REPORTING-DB,HFSMO121-03750,,,,,,,,,,No
+Development,DEV-SCOM,HFSKS121-03720,,,,,,,,,,No
+Development,DEV-LOAD-1,HFSWP121-03710,,,,,,,,,,No
+Development,DEV-LOAD-2,HFSWP121-03711,,,,,,,,,,No
+Development,DEV-OPTIM,HFSNE121-037010,,,,,,,,,,No
+Development,DEV-INITIATE MDM,HFSNE121-037011,,,,,,,,,,No
+Development,IBM -INITIATE MDM-DB,HFSNE121-037012,,,,,,,,,,No
+Development,TFS BUILD SERVER,HFSNE121-037013,,,,,,,,UNKNOWN,,No
+Development,TFS BUILD SERVER,HFSNE121-037014,,,,,,,,,,No
+Development,DEV-SAS,HFSNE121-037005,,,,,,,,,,No
+Development,DEV-INITIATE,HFSNE121-037015,,,,,,,,,,No
+Development,DEV-INITIATE-WRAPPER,HFSNE121-037204,,,,172.26.24.99,dev.kymci.chfsinet.ky.gov,,,,,No
+Development,DEV-INITIATE-WRAPPER,HFSNE121-037204,,,,172.26.24.100,dev.kyprovmci.chfsinet.ky.gov,,,,,
+Development,DEV-INITIATE-DB,HFSNE121-037016,,,,,,,,MSSQLSERVER,,No
+Development,TFS Load Test Controller,HFSNE121-037017,,,,,,,,,,No
+Development,TFS Load Test Agent,HFSNE121-037184,,,,,,,,,,No
+Development,TFS Load Test Agent,HFSNE121-037183,,,,,,,,,,No
+Development,TFS Load Test Agent,HFSNE121-037018,,,,,,,,,,No
+Development,TFS Load Test Agent,HFSNE121-037019,,,,,,,,,,No
+Development,DEV-WF-1,HFSNE121-037207,,,,172.26.24.118,dev.workflow.chfsinet.ky.gov,,,,,No
+Development,DEV-WF-2,HFSNE121-037289,,,,172.26.36.24,dev2.workflow.chfsinet.ky.gov,,,,,No
+Development,DEV-WF-DB-1,HFSNE121-037224,,,,,,,,UNKNOWN,,No
+Development,DEV-PMB-DB-1,HFSNE121-037232,,,,,,,,,,No
+Development,DEV-K2-3,HFSNE121-037035,,,,172.26.36.29,dev3.workflow.chfsinet.ky.gov,,,,,
+Development,DEV-AF-HOST-1,HFSNE121-037233,,,,,,,,,,No
+Development,DEV-WF-3,HFSNE121-037333,,,,172.26.36.47 ,dev4.workflow.chfsinet.ky.gov,,,,,
+Development,DEV-WF-4,HFSNE121-037356,WorkFlow,WF,,172.26.36.48,dev5.workflow.chfsinet.ky.gov,,,,,No
+Testing,TEST-WEB-1,HFSNE121-037020,Integration Staging 1,STI1,SSP,172.26.25.177,sti1.kyenroll.chfsinet.ky.gov,,,,,No
+Testing,TEST-WEB-1,HFSNE121-037020,Integration 1,INT1,SSP,172.26.25.178,int1.kyenroll.chfsinet.ky.gov,,,Int1,,No
+Testing,TEST-WEB-1,HFSNE121-037020,System Staging 1,STS1,SSP,172.26.25.179,sts1.kyenroll.chfsinet.ky.gov,,,,,No
+Testing,TEST-WEB-1,HFSNE121-037020,System 1,SYS1,SSP,172.26.25.180,sys1.kyenroll.chfsinet.ky.gov,,,,,No
+Testing,TEST-WEB-1,HFSNE121-037020,WCM ,SYS1,WCM,172.26.25.28,sys1.kywaiver.chfsinet.ky.gov,,,,,No
+Testing,TEST-WEB-1,HFSNE121-037020,System 1,SYS1,ISSUER PORTAL,172.26.25.205,sys1.issuerportal.kynect.chfsinet.ky.gov,,,,,No
+Testing,TEST-WEB-1,HFSNE121-037020,System 2,SYS2,ISSUER PORTAL,172.26.25.198,sys2.issuerportal.kynect.chfsinet.ky.gov,,,,,No
+Testing,TEST-WEB-1,HFSNE121-037020,System 1,SYS1,PMB,172.26.25.218,sys1.kyshop.chfsinet.ky.gov,,,,,No
+Testing,TEST-WEB-1,HFSNE121-037020,System 1,SYS1,PMB,172.26.25.224,sys1.kyshopping.chfsinet.ky.gov,,,,,No
+Testing,TEST-WEB-1,HFSNE121-037020,System 1,SYS1,PMB,172.26.25.181,sys1.kyplans.chfsinet.ky.gov,,,,,
+Testing,TEST-WEB-1,HFSNE121-037020,System 1,SYS1,WCM,172.26.37.19,sts1.kywaiver.chfsinet.ky.gov,,,,,
+Testing,TEST-WEB-1,HFSNE121-037020,System 1,SYS1,PMB,172.26.37.20,sts1.kyshop.chfsinet.ky.gov,,,,,
+Testing,TEST-WEB-1,HFSNE121-037020,System 1,SYS1,PMB,172.26.37.21,sts1.kyshopping.chfsinet.ky.gov,,,,,
+Testing,TEST-WEB-1,HFSNE121-037020,System 1,SYS1,PMB,172.26.37.22,sts1.kyplans.chfsinet.ky.gov,,,,,
+Testing,TEST-WEB-1,HFSNE121-037020,System,SYS,PMB,172.26.37.23,sys.webapi.kyshop.chfsinet.ky.gov,,,,,
+Testing,TEST-WEB-1,HFSNE121-037020,System,SYS,PMB,172.26.37.24,sys.webapi.kyshopping.chfsinet.ky.gov,,,,,
+Testing,TEST-WEB-1,HFSNE121-037020,System,SYS,SYS,172.26.37.32,sys.webapi.kynect.chfsinet.ky.gov,,,,,
+Testing,TEST-WEB-1,HFSNE121-037020,System 1,SYS1,KYAGENT,172.26.37.33,sys1.kyagent.chfsinet.ky.gov,,,,,
+Testing,TEST-WEB-1,HFSNE121-037020,System Staging 1,STS1,KYAGENT,172.26.37.34,sts1.kyagent.chfsinet.ky.gov,,,,,
+Testing,TEST-WEB-1,HFSNE121-037020,System Staging 1,STS1,KYISSUER,172.26.25.50,sts1.kyissuer.chfsinet.ky.gov,,,,,No
+Testing,TEST-WEB-1,HFSNE121-037020,System 1,SYS1,FORM1095,172.26.37.40,sys1.form1095.chfsinet.ky.gov,,,,,
+Testing,TEST-WEB-1,HFSNE121-037020,System 1,STS1,FORM1095,172.26.37.41,sts1.form1095.chfsinet.ky.gov,,,,,
+Testing,TEST-WEB-1,HFSNE121-037020,Integration 1,INT1,PMB,172.26.37.53,int1.kyshop.chfsinet.ky.gov,,,Int1,,
+Testing,TEST-WEB-1,HFSNE121-037020,Integration 1,INT1,WCM,172.26.37.54,int1.kywaiver.chfsinet.ky.gov,,,Int1,,
+Testing,TEST-WEB-1,HFSNE121-037020,Integration 1,INT1,PMB,172.26.37.55,int1.kyshopping.chfsinet.ky.gov,,,Int1,,
+Testing,TEST-WEB-1,HFSNE121-037020,Integration 1,INT1,PMB,172.26.37.56,int1.kyplans.chfsinet.ky.gov,,,Int1,,
+Testing,TEST-WEB-1,HFSNE121-037020,Integration 1,INT1,KYAGENT,172.26.37.57,int1.kyagent.chfsinet.ky.gov,,,Int1,,
+Testing,TEST-WEB-1,HFSNE121-037020,Integration 1,INT1,KYISSUER,172.26.37.58,int1.kyissuer.chfsinet.ky.gov,,,Int1,,
+Testing,TEST-WEB-1,HFSNE121-037020,Integration 1,INT1,FORM1095,172.26.37.59,int1.form1095.chfsinet.ky.gov,,,Int1,,
+Testing,TEST-WEB-2,HFSNE121-037021,Integration Staging 2,STI2,SSP,172.26.25.207,sti2.kyenroll.chfsinet.ky.gov,,,,,No
+Testing,TEST-WEB-2,HFSNE121-037021,Integration 2,INT2,SSP,172.26.25.208,int2.kyenroll.chfsinet.ky.gov,,,Int2,,No
+Testing,TEST-WEB-2,HFSNE121-037021,System Staging 2,STS2,SSP,172.26.25.211,sts2.kyenroll.chfsinet.ky.gov,,,,,No
+Testing,TEST-WEB-2,HFSNE121-037021,System 2,SYS2,SSP,172.26.25.212,sys2.kyenroll.chfsinet.ky.gov,,,,,No
+Testing,TEST-WEB-2,HFSNE121-037021,WCM ,SYS2,WCM,172.26.25.29,sys2.kywaiver.chfsinet.ky.gov,,,,,No
+Testing,TEST-WEB-2,HFSNE121-037021,System 2,SYS2,PMB,172.26.25.230,sys2.kyshop.chfsinet.ky.gov,,,,,No
+Testing,TEST-WEB-2,HFSNE121-037021,System 2,SYS2,PMB,172.26.25.201,sys2.kyshopping.chfsinet.ky.gov,,,,,No
+Testing,TEST-WEB-2,HFSNE121-037021,System 2,SYS2,PMB,172.26.25.51,sys2.kyplans.chfsinet.ky.gov,,,,,
+Testing,TEST-WEB-2,HFSNE121-037021,System 2,SYS2,WCM,172.26.37.25,sts2.kywaiver.chfsinet.ky.gov,,,,,
+Testing,TEST-WEB-2,HFSNE121-037021,System 2,SYS2,PMB,172.26.37.26,sts2.kyshop.chfsinet.ky.gov,,,,,
+Testing,TEST-WEB-2,HFSNE121-037021,System 2,SYS2,PMB,172.26.37.27,sts2.kyshopping.chfsinet.ky.gov,,,,,
+Testing,TEST-WEB-2,HFSNE121-037021,System 2,SYS2,PMB,172.26.37.28,sts2.kyplans.chfsinet.ky.gov,,,,,
+Testing,TEST-WEB-2,HFSNE121-037021,System 2,SYS2,WCM,172.26.37.29,sys2.webapi.kynect.chfsinet.ky.gov,,,,,
+Testing,TEST-WEB-2,HFSNE121-037021,System 2,SYS2,WCM,172.26.37.30,sys2.webapi.kyshop.chfsinet.ky.gov,,,,,
+Testing,TEST-WEB-2,HFSNE121-037021,System 2,SYS2,WCM,172.26.37.31,sys2.webapi.kyshopping.chfsinet.ky.gov,,,,,
+Testing,TEST-WEB-2,HFSNE121-037021,System 2,SYS2,KYAGENT,172.26.37.35,sys2.kyagent.chfsinet.ky.gov,,,,,
+Testing,TEST-WEB-2,HFSNE121-037021,System Staging 2,STS2,KYAGENT,172.26.37.36,sts2.kyagent.chfsinet.ky.gov,,,,,
+Testing,TEST-WEB-2,HFSNE121-037021,System Staging 2,STS2,KYISSUER,172.26.37.38,sts2.kyissuer.chfsinet.ky.gov,,,,,No
+Testing,TEST-WEB-2,HFSNE121-037021,,SYS2,FORM1095,172.26.37.42,sys2.form1095.chfsinet.ky.gov,,,,,
+Testing,TEST-WEB-2,HFSNE121-037021,,STS2,FORM1095,172.26.37.43,sts2.form1095.chfsinet.ky.gov,,,,,
+Testing,TEST-WEB-2,HFSNE121-037021,Integration 2,INT2,PMB,172.26.37.60,int2.kyshop.chfsinet.ky.gov,,,Int2,,
+Testing,TEST-WEB-2,HFSNE121-037021,Integration 2,INT2,WCM,172.26.37.61,int2.kywaiver.chfsinet.ky.gov,,,Int2,,
+Testing,TEST-WEB-2,HFSNE121-037021,Integration 2,INT2,PMB,172.26.37.62,int2.kyshopping.chfsinet.ky.gov,,,Int2,,
+Testing,TEST-WEB-2,HFSNE121-037021,Integration 2,INT2,PMB,172.26.37.63,int2.kyplans.chfsinet.ky.gov,,,Int2,,
+Testing,TEST-WEB-2,HFSNE121-037021,Integration 2,INT2,KYAGENT,172.26.37.64,int2.kyagent.chfsinet.ky.gov,,,Int2,,
+Testing,TEST-WEB-2,HFSNE121-037021,Integration 2,INT2,KYISSUER,172.26.37.65,int2.kyissuer.chfsinet.ky.gov,,,Int2,,
+Testing,TEST-WEB-2,HFSNE121-037021,Integration 2,INT2,FORM1095,172.26.37.66,int2.form2095.chfsinet.ky.gov,,,Int2,,
+Testing,TEST-WEB-3,HFSNE121-037022,Integration Staging 3,STI3,SSP,172.26.25.214,sti3.kyenroll.chfsinet.ky.gov,,,,,No
+Testing,TEST-WEB-3,HFSNE121-037022,Integration 3,INT3,SSP,172.26.25.232,int3.kyenroll.chfsinet.ky.gov,,,Int3,,No
+Testing,TEST-WEB-3,HFSNE121-037022,System Staging 3,STS3,SSP,172.26.25.233,sts3.kyenroll.chfsinet.ky.gov,,,,,No
+Testing,TEST-WEB-3,HFSNE121-037022,System 3,SYS3,SSP,172.26.25.234,sys3.kyenroll.chfsinet.ky.gov,,,,,No
+Testing,TEST-WEB-3,HFSNE121-037022,Security and Accessability Testing,SECU,SSP,172.26.25.235,secu.kyenroll.chfsinet.ky.gov,,,,,No
+Testing,TEST-WEB-3,HFSNE121-037022,WCM ,SYS3,WCM,172.26.25.35,sys3.kywaiver.chfsinet.ky.gov,,,,,
+Testing,TEST-WEB-3,HFSNE121-037022,PMB,SYS3,PMB,172.26.25.52,sys3.kyshop.chfsinet.ky.gov,,,,,
+Testing,TEST-WEB-3,HFSNE121-037022,PMB,SYS3,PMB,172.26.25.203,sys3.kyshopping.chfsinet.ky.gov,,,,,
+Testing,TEST-WEB-3,HFSNE121-037022,PMB,SYS3,PMB,172.26.37.11,sys3.kyplans.chfsinet.ky.gov,,,,,
+Testing,TEST-WEB-3,HFSNE121-037022,PMB,SYS3,PMB,172.26.37.12,sys3.kyissuer.chfsinet.ky.gov,,,,,
+Testing,TEST-WEB-3,HFSNE121-037022,System 3,SYS3,KYAGENT,172.26.37.37,sys3.kyagent.chfsinet.ky.gov,,,,,No
+Testing,TEST-WEB-3,HFSNE121-037022,,SYS3,FORM1095,172.26.37.44,sys3.form1095.chfsinet.ky.gov,,,,,
+Testing,TEST-APP-1,HFSNE121-037023,Integration Staging 1,STI1,WP,172.26.25.182,sti1.kyserve.chfsinet.ky.gov,,,,,No
+Testing,TEST-APP-1,HFSNE121-037023,Integration 1,INT1,WP,172.26.25.183,int1.kyserve.chfsinet.ky.gov,,,Int1,,No
+Testing,TEST-APP-1,HFSNE121-037023,System Staging 1,STS1,WP,172.26.25.184,sts1.kyserve.chfsinet.ky.gov,,,,,No
+Testing,TEST-APP-1,HFSNE121-037023,System 1,SYS1,WP,172.26.25.185,sys1.kyserve.chfsinet.ky.gov,,,,,No
+Testing,TEST-APP-1,HFSNE121-037023,System 1,SYS1,PMB,172.26.25.221,sys1.kyshopwp.chfsinet.ky.gov,,,,,
+Testing,TEST-APP-1,HFSNE121-037023,Security and Accessability Testing,SECU,WP,172.26.25.186,secu.kyserve.chfsinet.ky.gov,,,,,No
+Testing,TEST-APP-2,HFSNE121-037024,Integration Staging 2,STI2,WP,172.26.25.236,sti2.kyserve.chfsinet.ky.gov,,,,,No
+Testing,TEST-APP-2,HFSNE121-037024,Integration 2,INT2,WP,172.26.25.237,int2.kyserve.chfsinet.ky.gov,,,Int2,,No
+Testing,TEST-APP-2,HFSNE121-037024,System Staging 2,STS2,WP,172.26.25.238,sts2.kyserve.chfsinet.ky.gov,,,,,No
+Testing,TEST-APP-2,HFSNE121-037024,System 2,SYS2,WP,172.26.25.239,sys2.kyserve.chfsinet.ky.gov,,,,,No
+Testing,TEST-APP-2,HFSNE121-037024,System 2,SYS2,PMB,172.26.25.54,sys2.kyshopwp.chfsinet.ky.gov,,,,,No
+Testing,TEST-APP-3,HFSNE121-037025,Integration Staging 3,STI3,WP,172.26.25.241,sti3.kyserve.chfsinet.ky.gov,,,,,No
+Testing,TEST-APP-3,HFSNE121-037025,Integration 3,INT3,WP,172.26.25.242,int3.kyserve.chfsinet.ky.gov,,,Int3,,No
+Testing,TEST-APP-3,HFSNE121-037025,System Staging 3,STS3,WP,172.26.25.243,sts3.kyserve.chfsinet.ky.gov,,,,,No
+Testing,TEST-APP-3,HFSNE121-037025,System 3,SYS3,WP,172.26.25.244,sys3.kyserve.chfsinet.ky.gov,,,,,No
+Testing,TEST-BIZTALK-1,HFSSD121-03714,Testing BizTalk Environment,TSBT,BizTalk,,,,,,,No
+Testing,TEST-BIZTALK-2,HFSSD121-03715,Testing BizTalk Environment,TSBT,BizTalk,,,,,,,No
+Testing,TEST-FORMS-1,HFSNE121-037026,Integration Staging 1,STI1,HP Exstream,172.26.25.187,sti1.kyforms.chfsinet.ky.gov,,,,,No
+Testing,TEST-FORMS-1,HFSNE121-037026,Integration 1,INT1,HP Exstream,172.26.25.188,int1.kyforms.chfsinet.ky.gov,,,Int1,,No
+Testing,TEST-FORMS-1,HFSNE121-037026,System Staging 1,STS1,HP Exstream,172.26.25.189,sts1.kyforms.chfsinet.ky.gov,,,,,No
+Testing,TEST-FORMS-1,HFSNE121-037026,System 1,SYS1,HP Exstream,172.26.25.190,sys1.kyforms.chfsinet.ky.gov,,,,,No
+Testing,TEST-FORMS-1,HFSNE121-037026,Integration Staging 3,STI3,HP Exstream,172.26.25.85,sti3.kyforms.chfsinet.ky.gov,,,,,No
+Testing,TEST-FORMS-1,HFSNE121-037026,Integration 3,INT3,HP Exstream,172.26.25.86,int3.kyforms.chfsinet.ky.gov,,,Int3,,No
+Testing,TEST-FORMS-1,HFSNE121-037026,Security and Accessability Testing,SECU,HP Exstream,172.26.25.87,secu.kyforms.chfsinet.ky.gov,,,,,No
+Testing,TEST-FORMS-2,HFSNE121-037027,Integration Staging 2,STI2,HP Exstream,172.26.25.250,sti2.kyforms.chfsinet.ky.gov,,,,,No
+Testing,TEST-FORMS-2,HFSNE121-037027,Integration 2,INT2,HP Exstream,172.26.25.251,int2.kyforms.chfsinet.ky.gov,,,Int2,,No
+Testing,TEST-FORMS-2,HFSNE121-037027,System Staging 2,STS2,HP Exstream,172.26.25.252,sts2.kyforms.chfsinet.ky.gov,,,,,No
+Testing,TEST-FORMS-2,HFSNE121-037027,System 2,SYS2,HP Exstream,172.26.25.253,sys2.kyforms.chfsinet.ky.gov,,,,,No
+Testing,TEST-FORMS-2,HFSNE121-037027,System Staging 3,STS3,HP Exstream,172.26.25.83,sts3.kyforms.chfsinet.ky.gov,,,,,No
+Testing,TEST-FORMS-2,HFSNE121-037027,System 3,SYS3,HP Exstream,172.26.25.84,sys3.kyforms.chfsinet.ky.gov,,,,,No
+Testing,TEST-REPORTING-WI-2,TBD,,,,,,,,,,No
+Testing,TEST-WEB-REPORTING-1,HFSIL121-03720,,,,,,,,,,No
+Testing,TEST-WEB-REPORTING-2,TBD,,,,,,,,,,No
+Testing,TEST-RULES-1,HFSNE121-037028,Integration Staging 1,STI1,Corticon,172.26.25.191,sti1.kyrules.chfsinet.ky.gov,,,,,No
+Testing,TEST-RULES-1,HFSNE121-037028,Integration 1,INT1,Corticon,172.26.25.192,int1.kyrules.chfsinet.ky.gov,,,Int1,,No
+Testing,TEST-RULES-1,HFSNE121-037028,System Staging 1,STS1,Corticon,172.26.25.193,sts1.kyrules.chfsinet.ky.gov,,,,,No
+Testing,TEST-RULES-1,HFSNE121-037028,System 1,SYS1,Corticon,172.26.25.194,sys1.kyrules.chfsinet.ky.gov,,,,,No
+Testing,TEST-RULES-1,HFSNE121-037028,Integration Staging 3,STI3,Corticon,172.26.25.96,sys3.kyrules.chfsinet.ky.gov,,,,,No
+Testing,TEST-RULES-1,HFSNE121-037028,Integration 3,INT3,Corticon,172.26.25.98,int3.kyrules.chfsinet.ky.gov,,,Int3,,No
+Testing,TEST-RULES-1,HFSNE121-037028,Security and Accessability Testing,SECU,Corticon,172.26.25.99,secu.kyrules.chfsinet.ky.gov,,,,,No
+Testing,TEST-RULES-1,HFSNE121-037028,Integration Staging 1,STI1,,172.26.25.90,sti1.kyservices.chfsinet.ky.gov,172.26.25.78,,,,No
+Testing,TEST-RULES-1,HFSNE121-037028,Integration 1,INT1,,172.26.25.100,int1.kyservices.chfsinet.ky.gov,172.26.25.79,,Int1,,No
+Testing,TEST-RULES-1,HFSNE121-037028,System Staging 1,STS1,,172.26.25.101,sts1.kyservices.chfsinet.ky.gov,172.26.25.80,,,,No
+Testing,TEST-RULES-1,HFSNE121-037028,System 1,SYS1,,172.26.25.112,sys1.kyservices.chfsinet.ky.gov,172.26.25.81,,,,No
+Testing,TEST-RULES-1,HFSNE121-037028,Integration Staging 2,STI2,,172.26.25.163,sti2.kyservices.chfsinet.ky.gov,172.26.25.114,,,,No
+Testing,TEST-RULES-1,HFSNE121-037028,Integration 2,INT2,,172.26.25.167,int2.kyservices.chfsinet.ky.gov,172.26.25.115,,Int2,,No
+Testing,TEST-RULES-1,HFSNE121-037028,System Staging 2,STS2,,172.26.25.168,sts2.kyservices.chfsinet.ky.gov,172.26.25.116,,,,No
+Testing,TEST-RULES-1,HFSNE121-037028,System 2,SYS2,,172.26.25.169,sys2.kyservices.chfsinet.ky.gov,172.26.25.148,,,,No
+Testing,TEST-RULES-1,HFSNE121-037028,System Staging 3,STS3,,172.26.25.170,sts3.kyservices.chfsinet.ky.gov,172.26.25.149,,,,No
+Testing,TEST-RULES-1,HFSNE121-037028,System 3,SYS3,,172.26.25.171,sys3.kyservices.chfsinet.ky.gov,172.26.25.162,,,,No
+Testing,TEST-RULES-1,HFSNE121-037028,Integration Staging 3,STI3,,172.26.25.102,sti3.kyservices.chfsinet.ky.gov,172.26.25.82,,,,No
+Testing,TEST-RULES-1,HFSNE121-037028,Integration 3,INT3,,172.26.25.103,int3.kyservices.chfsinet.ky.gov,172.26.25.88,,Int3,,No
+Testing,TEST-RULES-1,HFSNE121-037028,Security and Accessability Testing,SECU,,172.26.25.104,secu.kyservices.chfsinet.ky.gov,172.26.25.89,,,,No
+Testing,TEST-RULES-2,HFSNE121-037029,Integration Staging 2,STI2,Corticon,172.26.25.91,sti2.kyrules.chfsinet.ky.gov,,,,,No
+Testing,TEST-RULES-2,HFSNE121-037029,Integration 2,INT2,Corticon,172.26.25.92,int2.kyrules.chfsinet.ky.gov,,,Int2,,No
+Testing,TEST-RULES-2,HFSNE121-037029,System Staging 2,STS2,Corticon,172.26.25.93,sts2.kyrules.chfsinet.ky.gov,,,,,No
+Testing,TEST-RULES-2,HFSNE121-037029,System 2,SYS2,Corticon,172.26.25.94,sys2.kyrules.chfsinet.ky.gov,,,,,No
+Testing,TEST-RULES-2,HFSNE121-037029,System Staging 3,STS3,Corticon,172.26.25.95,sts3.kyrules.chfsinet.ky.gov,,,,,No
+Testing,TEST-RULES-2,HFSNE121-037029,System 3,SYS3,Corticon,172.26.25.96,sys3.kyrules.chfsinet.ky.gov,,,,,No
+Testing,TEST-RULES-2,HFSNE121-037029,Integration Staging 1,,,172.26.25.105,sti1.kyservices.chfsinet.ky.gov,,,,,No
+Testing,TEST-RULES-2,HFSNE121-037029,Integration 1,,,172.26.25.106,int1.kyservices.chfsinet.ky.gov,,,Int1,,No
+Testing,TEST-RULES-2,HFSNE121-037029,System Staging 1,,,172.26.25.107,sts1.kyservices.chfsinet.ky.gov,,,,,No
+Testing,TEST-RULES-2,HFSNE121-037029,System 1,,,172.26.25.113,sys1.kyservices.chfsinet.ky.gov,,,,,No
+Testing,TEST-RULES-2,HFSNE121-037029,Integration Staging 2,,,172.26.25.172,sti2.kyservices.chfsinet.ky.gov,,,,,No
+Testing,TEST-RULES-2,HFSNE121-037029,Integration 2,,,172.26.25.173,int2.kyservices.chfsinet.ky.gov,,,Int2,,No
+Testing,TEST-RULES-2,HFSNE121-037029,System Staging 2,,,172.26.25.174,sts2.kyservices.chfsinet.ky.gov,,,,,No
+Testing,TEST-RULES-2,HFSNE121-037029,System 2,,,172.26.25.175,sys2.kyservices.chfsinet.ky.gov,,,,,No
+Testing,TEST-RULES-2,HFSNE121-037029,System Staging 3,,,172.26.25.176,sts3.kyservices.chfsinet.ky.gov,,,,,No
+Testing,TEST-RULES-2,HFSNE121-037029,System 3,,,172.26.25.195,sys3.kyservices.chfsinet.ky.gov,,,,,No
+Testing,TEST-RULES-2,HFSNE121-037029,Integration Staging 3,,,172.26.25.108,sti3.kyservices.chfsinet.ky.gov,,,,,No
+Testing,TEST-RULES-2,HFSNE121-037029,Integration 3,,,172.26.25.109,int3.kyservices.chfsinet.ky.gov,,,Int3,,No
+Testing,TEST-RULES-2,HFSNE121-037029,Security and Accessability Testing,,,172.26.25.110,secu.kyservices.chfsinet.ky.gov,,,,,No
+Testing,TEST-DB-1,HFSNE121-037030,Integration Staging 1,STI1,Database,1961,HFSNE121-037030\STI1,,,,,No
+Testing,TEST-DB-1,HFSNE121-037030,Integration 1,INT1,Database,1962,HFSNE121-037030\INT1,,,Int1,,No
+Testing,TEST-DB-1,HFSNE121-037030,System Staging 1,STS1,Database,1963,HFSNE121-037030\STS1,,,,,No
+Testing,TEST-DB-1,HFSNE121-037030,System 1,SYS1,Database,1964,HFSNE121-037030\SYS1,,,,,No
+Testing,TEST-DB-2,HFSNE121-037031,Integration Staging 2,STI2,Database,1961,HFSNE121-037031\STI2,,,,,No
+Testing,TEST-DB-2,HFSNE121-037031,Integration 2,INT2,Database,1962,HFSNE121-037031\INT2,,,Int2,,No
+Testing,TEST-DB-2,HFSNE121-037031,System Staging 2,STS2,Database,1963,HFSNE121-037031\STS2,,,,,No
+Testing,TEST-DB-2,HFSNE121-037031,System 2,SYS2,Database,1964,HFSNE121-037031\SYS2,,,,,No
+Testing,TEST-DB-3,HFSNE121-037032,Integration Staging 3,STI3,Database,1961,HFSNE121-037032\STI3,,,,,No
+Testing,TEST-DB-3,HFSNE121-037032,Integration 3,INT3,Database,1962,HFSNE121-037032\INT3,,,Int3,,No
+Testing,TEST-DB-3,HFSNE121-037032,System Staging 3,STS3,Database,1963,HFSNE121-037032\STS3,,,,,No
+Testing,TEST-DB-3,HFSNE121-037032,System 3,SYS3,Database,1964,HFSNE121-037032\SYS3,,,,,No
+Testing,TEST-DB-3,HFSNE121-037032,Security and Accessability Testing,SECU,Database,1965,HFSNE121-037032\SECU,,,,,No
+Testing,TEST-REPORTING-DB,HFSMO121-03760,,,,,,,,,,
+Testing,TEST-MCI-WRAPPER-1,HFSNE121-037205,,,MCI,172.26.25.59,test.kymci.chfsinet.ky.gov,,,,,
+Testing,TEST-MCI-WRAPPER-1,HFSNE121-037205,,,MCI,172.26.25.155,test.kyprovmci.chfsinet.ky.gov,,,,,No
+Testing,SYS-PMB-DB-1,HFSNE121-037241,System 1,SYS1,Database,,HFSNE121-037241\SYS1,,,,,
+Testing,SYS-PMB-DB-1,HFSNE121-037241,System 2,SYS2,Database,,HFSNE121-037241\SYS2,,,,,
+Testing,SYS-PMB-DB-1,HFSNE121-037241,System 3,SYS3,Database,,HFSNE121-037241\SYS3,,,,,
+Testing,SYS-PMB-DB-1,HFSNE121-037241,System 4,SYS4,Database,,HFSNE121-037241\SYS4,,,,,No
+Testing,SIT-CONV-APP,HFSNE121-037242,System,SYS,PMB,172.26.25.210,sys.conv.kyplans.chfsinet.ky.gov,,,,,
+Testing,SIT-CONV-APP,HFSNE121-037242,System,SYS,PMB,172.26.25.215,sys.conv.kyshop.chfsinet.ky.gov,,,,,
+Testing,SIT-CONV-APP,HFSNE121-037242,System,SYS,PMB,172.26.25.216,sys.conv.kyshopping.chfsinet.ky.gov,,,,,
+Testing,SIT-CONV-APP,HFSNE121-037242,System,SYS,PMB,172.26.25.217,sys.conv.kyshopwp.chfsinet.ky.gov,,,,,
+Testing,SIT-CONV-APP,HFSNE121-037242,System,SYS,,172.26.25.226,sys.conv.kynect.chfsinet.ky.gov,,,,,
+Testing,SIT-CONV-APP,HFSNE121-037242,System,SYS,,172.26.25.231,sys.conv.kyserve.chfsinet.ky.gov,,,,,
+Testing,SIT-CONV-APP,HFSNE121-037242,System,SYS,,172.26.25.202,sys.conv.kyissuer.chfsinet.ky.gov,,,,,No
+Testing,TEST-AF-HOST-1,HFSNE121-037243,,,,,,,,,,No
+Testing,TEST-AF-HOST-2,HFSNE121-037244,,,,,,,,,,No
+Testing,TEST-BATCH-1,HFSNE121-037245,,,,,,,,,,No
+Testing,TEST-BATCH-2,HFSNE121-037246,,,,,,,,,,No
+Testing,TEST-CONV-DB-1,HFSNE121-037247,,,Database,,HFSNE121-037247\CONV1,,,,,
+Testing,TEST-CONV-DB-1,HFSNE121-037247,,,Database,,HFSNE121-037247\CONV2,,,,,
+Testing,TEST-WF-2,HFSNE121-037308,System 2,SYS2,Workflow,172.26.37.13,sys2.workflow.chfsinet.ky.gov,,,,,
+Testing,TEST-WF-3,HFSNE121-037359,System Staging 2,STS2,Workflow,172.26.37.39,sts2.workflow.chfsinet.ky.gov,,,,,
+Testing,TEST-WF-DB-1,HFSNE121-037249,,,Database,,,,,,,
+Testing,TEST-WF-DB-1,HFSNE121-037249,,,Database,,,,,,,
+Testing,TEST-WF-DB-1,HFSNE121-037249,,,Database,,,,,,,
+Testing,TEST-WF-DB-1,HFSNE121-037249,,,Database,,,,,,,
+Testing,SDH-TEST-1,HFSNE121-037036,,,,172.26.37.14,,,,,,
+Testing,SDH-TEST-2,HFSNE121-037037,,,,172.26.37.15,,,,,,
+Testing,SDH-TEST-DB-1,HFSNE121-037309,,,,172.26.37.16,,,,,,
+Testing,SDH-TEST-MSG-1,HFSNE121-037038,,,,172.26.37.17,,,,,,Yes
+Training,TRN-WEB-1,HFSNE121-037040,Training 1,TRN1,,172.26.129.107,trn1.kyenroll.chfsinet.ky.gov,205.204.197.62,,,,Yes
+Training,TRN-WEB-1,HFSNE121-037040,Training 2,TRN2,,172.26.129.108,trn2.kyenroll.chfsinet.ky.gov,205.204.197.63,,,,Yes
+Training,TRN-WEB-1,HFSNE121-037040,Training 3,TRN3,,172.26.129.109,trn3.kyenroll.chfsinet.ky.gov,205.204.197.55,,,,Yes
+Training,TRN-WEB-1,HFSNE121-037040,Training 4,TRN4,,172.26.129.110,trn4.kyenroll.chfsinet.ky.gov,205.204.197.56,,,,Yes
+Training,TRN-WEB-1,HFSNE121-037040,WCM Training 3,TRN3,,172.26.128.162,trn3.kywaiver.chfsinet.ky.gov,205.204.197.59,,,,Yes
+Training,TRN-WEB-1,HFSNE121-037040,WCM Training 4,TRN4,,172.26.128.163,trn4.kywaiver.chfsinet.ky.gov,205.204.197.60,,,,Yes
+Training,TRN-WEB-1,HFSNE121-037040,Training 2,TRN2,,172.26.126.118,trn2.kyshop.ky.gov,205.204.197.95,,,,Yes
+Training,TRN-WEB-1,HFSNE121-037040,Training 2,TRN2,,172.26.126.119,trn2.kyshopping.ky.gov,205.204.197.96,,,,Yes
+Training,TRN-WEB-1,HFSNE121-037040,Training 2,TRN2,,172.26.126.120,trn2.kyplans.ky.gov,205.204.197.97,,,,Yes
+Training,TRN-WEB-1,HFSNE121-037040,Training 2,TRN2,,172.26.126.198,trn2.kyissuer.ky.gov,205.204.197.93,,,,Yes
+Training,TRN-WEB-1,HFSNE121-037040,Training 2,TRN2,,172.26.126.199,trn2.kywaiver.ky.gov,205.204.197.94,,,,Yes
+Training,TRN-WEB-1,HFSNE121-037040,Training 1,TRN1,,172.26.126.224,trn1.kyshop.ky.gov,205.204.197.98,,,,Yes
+Training,TRN-WEB-1,HFSNE121-037040,Training 1,TRN1,,172.26.126.225,trn1.kyshopping.ky.gov,205.204.197.99,,,,Yes
+Training,TRN-WEB-1,HFSNE121-037040,Training 1,TRN1,,172.26.126.226,trn1.kyplans.ky.gov,205.204.197.100,,,,Yes
+Training,TRN-WEB-1,HFSNE121-037040,Training 1,TRN1,,172.26.126.227,trn1.kywaiver.ky.gov,205.204.197.101,,,,Yes
+Training,TRN-WEB-1,HFSNE121-037040,Training 1,TRN1,,172.26.126.236,trn1.kyissuer.ky.gov,205.204.197.102,,,,Yes
+Training,TRN-WEB-1,HFSNE121-037040,Training 3,TRN3,,172.26.126.239,trn3.kyshop.ky.gov,205.204.197.103,,,,Yes
+Training,TRN-WEB-1,HFSNE121-037040,Training 3,TRN3,,172.26.126.240,trn3.kyshopping.ky.gov,205.204.197.104,,,,Yes
+Training,TRN-WEB-1,HFSNE121-037040,Training 3,TRN3,,172.26.126.241,trn3.kyplans.ky.gov,205.204.197.105,,,,Yes
+Training,TRN-WEB-1,HFSNE121-037040,Training 3,TRN3,,172.26.126.242,trn3.kyissuer.ky.gov,205.204.197.106,,,,Yes
+Training,TRN-WEB-1,HFSNE121-037040,Training 4,TRN4,,172.26.126.243,trn4.kyshop.ky.gov,205.204.197.107,,,,Yes
+Training,TRN-WEB-1,HFSNE121-037040,Training 4,TRN4,,172.26.126.244,trn4.kyshopping.ky.gov,205.204.197.108,,,,Yes
+Training,TRN-WEB-1,HFSNE121-037040,Training 4,TRN4,,172.26.126.245,trn4.kyplans.ky.gov,205.204.197.109,,,,Yes
+Training,TRN-WEB-1,HFSNE121-037040,Training 4,TRN4,,172.26.126.246,trn4.kyissuer.ky.gov,205.204.197.110,,,,Yes
+Training,TRN-WEB-1,HFSNE121-037040,Training 5,TRN5,,172.26.127.101,trn5.kyenroll.ky.gov,205.204.197.124,,,,Yes
+Training,TRN-WEB-1,HFSNE121-037040,Training 5,TRN5,,172.26.127.102,trn5.kyshop.ky.gov,205.204.197.125,,,,Yes
+Training,TRN-WEB-1,HFSNE121-037040,Training 5,TRN5,,172.26.127.103,trn5.kyshopping.ky.gov,205.204.197.126,,,,Yes
+Training,TRN-WEB-1,HFSNE121-037040,Training 5,TRN5,,172.26.127.104,trn5.kyplans.ky.gov,205.204.197.127,,,,Yes
+Training,TRN-WEB-1,HFSNE121-037040,Training 5,TRN5,,172.26.127.105,trn5.kywaiver.ky.gov,205.204.197.128,,,,Yes
+Training,TRN-WEB-1,HFSNE121-037040,Training 5,TRN5,,172.26.127.106,trn5.kyissuer.ky.gov,205.204.197.129,,,,
+Training,TRN-WEB-1,HFSNE121-037040,Training 1,TRN1,,172.26.127.161,trn1.kyagent.ky.gov,205.204.197.142,,,,
+Training,TRN-WEB-1,HFSNE121-037040,Training 2,TRN2,,172.26.127.162,trn2.kyagent.ky.gov,205.204.197.143,,,,
+Training,TRN-WEB-1,HFSNE121-037040,Training 3,TRN3,,172.26.127.163,trn3.kyagent.ky.gov,205.204.197.144,,,,
+Training,TRN-WEB-1,HFSNE121-037040,Training 4,TRN4,,172.26.127.164,trn4.kyagent.ky.gov,205.204.197.145,,,,
+Training,TRN-WEB-1,HFSNE121-037040,Training 5,TRN5,,172.26.127.165,trn5.kyagent.ky.gov,205.204.197.146,,,,Yes
+Training,TRN-WEB-2,HFSNE121-037041,Training 1,TRN1,,172.26.129.112,trn1.kyenroll.chfsinet.ky.gov,,,,,Yes
+Training,TRN-WEB-2,HFSNE121-037041,Training 2,TRN2,,172.26.129.113,trn2.kyenroll.chfsinet.ky.gov,,,,,Yes
+Training,TRN-WEB-2,HFSNE121-037041,Training 3,TRN3,,172.26.129.122,trn3.kyenroll.chfsinet.ky.gov,,,,,Yes
+Training,TRN-WEB-2,HFSNE121-037041,Training 4,TRN4,,172.26.129.123,trn4.kyenroll.chfsinet.ky.gov,,,,,Yes
+Training,TRN-WEB-2,HFSNE121-037041,WCM Training 3,TRN3,,172.26.128.166,trn3.kywaiver.chfsinet.ky.gov,,,,,Yes
+Training,TRN-WEB-2,HFSNE121-037041,WCM Training 4,TRN4,,172.26.128.167,trn4.kywaiver.chfsinet.ky.gov,,,,,Yes
+Training,TRN-WEB-2,HFSNE121-037041,Training 2,TRN2,,172.26.126.121,trn2.kyshop.ky.gov,,,,,Yes
+Training,TRN-WEB-2,HFSNE121-037041,Training 2,TRN2,,172.26.126.122,trn2.kyshopping.ky.gov,,,,,Yes
+Training,TRN-WEB-2,HFSNE121-037041,Training 2,TRN2,,172.26.126.123,trn2.kyplans.ky.gov,,,,,Yes
+Training,TRN-WEB-2,HFSNE121-037041,Training 2,TRN2,,172.26.126.200,trn2.kyissuer.ky.gov,,,,,Yes
+Training,TRN-WEB-2,HFSNE121-037041,Training 2,TRN2,,172.26.126.201,trn2.kywaiver.ky.gov,,,,,Yes
+Training,TRN-WEB-2,HFSNE121-037041,Training 1,TRN1,,172.26.126.228,trn1.kyshop.ky.gov,,,,,Yes
+Training,TRN-WEB-2,HFSNE121-037041,Training 1,TRN1,,172.26.126.229,trn1.kyshopping.ky.gov,,,,,Yes
+Training,TRN-WEB-2,HFSNE121-037041,Training 1,TRN1,,172.26.126.230,trn1.kyplans.ky.gov,,,,,Yes
+Training,TRN-WEB-2,HFSNE121-037041,Training 1,TRN1,,172.26.126.231,trn1.kywaiver.ky.gov,,,,,Yes
+Training,TRN-WEB-2,HFSNE121-037041,Training 1,TRN1,,172.26.126.237,trn1.kyissuer.ky.gov,,,,,Yes
+Training,TRN-WEB-2,HFSNE121-037041,Training 3,TRN3,,172.26.126.247,trn3.kyshop.ky.gov,,,,,Yes
+Training,TRN-WEB-2,HFSNE121-037041,Training 3,TRN3,,172.26.126.248,trn3.kyshopping.ky.gov,,,,,Yes
+Training,TRN-WEB-2,HFSNE121-037041,Training 3,TRN3,,172.26.126.249,trn3.kyplans.ky.gov,,,,,Yes
+Training,TRN-WEB-2,HFSNE121-037041,Training 3,TRN3,,172.26.126.250,trn3.kyissuer.ky.gov,,,,,Yes
+Training,TRN-WEB-2,HFSNE121-037041,Training 4,TRN4,,172.26.126.251,trn4.kyshop.ky.gov,,,,,Yes
+Training,TRN-WEB-2,HFSNE121-037041,Training 4,TRN4,,172.26.126.252,trn4.kyshopping.ky.gov,,,,,Yes
+Training,TRN-WEB-2,HFSNE121-037041,Training 4,TRN4,,172.26.126.253,trn4.kyplans.ky.gov,,,,,Yes
+Training,TRN-WEB-2,HFSNE121-037041,Training 4,TRN4,,172.26.126.254,trn4.kyissuer.ky.gov,,,,,Yes
+Training,TRN-WEB-2,HFSNE121-037041,Training 5,TRN5,,172.26.127.107,trn5.kyenroll.ky.gov,,,,,Yes
+Training,TRN-WEB-2,HFSNE121-037041,Training 5,TRN5,,172.26.127.108,trn5.kyshop.ky.gov,,,,,Yes
+Training,TRN-WEB-2,HFSNE121-037041,Training 5,TRN5,,172.26.127.109,trn5.kyshopping.ky.gov,,,,,Yes
+Training,TRN-WEB-2,HFSNE121-037041,Training 5,TRN5,,172.26.127.110,trn5.kyplans.ky.gov,,,,,Yes
+Training,TRN-WEB-2,HFSNE121-037041,Training 5,TRN5,,172.26.127.111,trn5.kywaiver.ky.gov,,,,,Yes
+Training,TRN-WEB-2,HFSNE121-037041,Training 5,TRN5,,172.26.127.112,trn5.kyissuer.ky.gov,,,,,
+Training,TRN-WEB-2,HFSNE121-037041,Training 1,TRN1,,172.26.127.166,trn1.kyagent.ky.gov,,,,,
+Training,TRN-WEB-2,HFSNE121-037041,Training 2,TRN2,,172.26.127.167,trn2.kyagent.ky.gov,,,,,
+Training,TRN-WEB-2,HFSNE121-037041,Training 3,TRN3,,172.26.127.168,trn3.kyagent.ky.gov,,,,,
+Training,TRN-WEB-2,HFSNE121-037041,Training 4,TRN4,,172.26.127.169,trn4.kyagent.ky.gov,,,,,
+Training,TRN-WEB-2,HFSNE121-037041,Training 5,TRN5,,172.26.127.170,trn5.kyagent.ky.gov,,,,,Yes
+Training,TRN-WEB-3,HFSNE121-037218,Training 1,TRN1,,172.26.128.181,trn1.kyenroll.chfsinet.ky.gov,,,,,Yes
+Training,TRN-WEB-3,HFSNE121-037218,Training 2,TRN2,,172.26.128.182,trn2.kyenroll.chfsinet.ky.gov,,,,,Yes
+Training,TRN-WEB-3,HFSNE121-037218,Training 3,TRN3,,172.26.128.183,trn3.kyenroll.chfsinet.ky.gov,,,,,Yes
+Training,TRN-WEB-3,HFSNE121-037218,Training 4,TRN4,,172.26.128.184,trn4.kyenroll.chfsinet.ky.gov,,,,,Yes
+Training,TRN-WEB-3,HFSNE121-037218,WCM Training 3,TRN3,,172.26.128.187,trn3.kywaiver.chfsinet.ky.gov,,,,,Yes
+Training,TRN-WEB-3,HFSNE121-037218,WCM Training 4,TRN4,,172.26.128.188,trn4.kywaiver.chfsinet.ky.gov,,,,,Yes
+Training,TRN-WEB-3,HFSNE121-037218,Training 2,TRN2,,172.26.126.124,trn2.kyshop.ky.gov,,,,,Yes
+Training,TRN-WEB-3,HFSNE121-037218,Training 2,TRN2,,172.26.126.125,trn2.kyshopping.ky.gov,,,,,Yes
+Training,TRN-WEB-3,HFSNE121-037218,Training 2,TRN2,,172.26.126.126,trn2.kyplans.ky.gov,,,,,Yes
+Training,TRN-WEB-3,HFSNE121-037218,Training 2,TRN2,,172.26.126.202,trn2.kyissuer.ky.gov,,,,,Yes
+Training,TRN-WEB-3,HFSNE121-037218,Training 2,TRN2,,172.26.126.203,trn2.kywaiver.ky.gov,,,,,Yes
+Training,TRN-WEB-3,HFSNE121-037218,Training 1,TRN1,,172.26.126.232,trn1.kyshop.ky.gov,,,,,Yes
+Training,TRN-WEB-3,HFSNE121-037218,Training 1,TRN1,,172.26.126.233,trn1.kyshopping.ky.gov,,,,,Yes
+Training,TRN-WEB-3,HFSNE121-037218,Training 1,TRN1,,172.26.126.234,trn1.kyplans.ky.gov,,,,,Yes
+Training,TRN-WEB-3,HFSNE121-037218,Training 1,TRN1,,172.26.126.235,trn1.kywaiver.ky.gov,,,,,Yes
+Training,TRN-WEB-3,HFSNE121-037218,Training 1,TRN1,,172.26.126.238,trn1.kyissuer.ky.gov,,,,,Yes
+Training,TRN-WEB-3,HFSNE121-037218,Training 3,TRN3,,172.26.127.11,trn3.kyshop.ky.gov,,,,,Yes
+Training,TRN-WEB-3,HFSNE121-037218,Training 3,TRN3,,172.26.127.12,trn3.kyshopping.ky.gov,,,,,Yes
+Training,TRN-WEB-3,HFSNE121-037218,Training 3,TRN3,,172.26.127.13,trn3.kyplans.ky.gov,,,,,Yes
+Training,TRN-WEB-3,HFSNE121-037218,Training 3,TRN3,,172.26.127.14,trn3.kyissuer.ky.gov,,,,,Yes
+Training,TRN-WEB-3,HFSNE121-037218,Training 4,TRN4,,172.26.127.15,trn4.kyshop.ky.gov,,,,,Yes
+Training,TRN-WEB-3,HFSNE121-037218,Training 4,TRN4,,172.26.127.16,trn4.kyshopping.ky.gov,,,,,Yes
+Training,TRN-WEB-3,HFSNE121-037218,Training 4,TRN4,,172.26.127.17,trn4.kyplans.ky.gov,,,,,Yes
+Training,TRN-WEB-3,HFSNE121-037218,Training 4,TRN4,,172.26.127.18,trn4.kyissuer.ky.gov,,,,,Yes
+Training,TRN-WEB-3,HFSNE121-037218,Training 5,TRN5,,172.26.127.113,trn5.kyenroll.ky.gov,,,,,Yes
+Training,TRN-WEB-3,HFSNE121-037218,Training 5,TRN5,,172.26.127.114,trn5.kyshop.ky.gov,,,,,Yes
+Training,TRN-WEB-3,HFSNE121-037218,Training 5,TRN5,,172.26.127.115,trn5.kyshopping.ky.gov,,,,,Yes
+Training,TRN-WEB-3,HFSNE121-037218,Training 5,TRN5,,172.26.127.116,trn5.kyplans.ky.gov,,,,,Yes
+Training,TRN-WEB-3,HFSNE121-037218,Training 5,TRN5,,172.26.127.117,trn5.kywaiver.ky.gov,,,,,Yes
+Training,TRN-WEB-3,HFSNE121-037218,Training 5,TRN5,,172.26.127.118,trn5.kyissuer.ky.gov,,,,,
+Training,TRN-WEB-3,HFSNE121-037218,Training 1,TRN1,,172.26.127.171,trn1.kyagent.ky.gov,,,,,
+Training,TRN-WEB-3,HFSNE121-037218,Training 2,TRN2,,172.26.127.172,trn2.kyagent.ky.gov,,,,,
+Training,TRN-WEB-3,HFSNE121-037218,Training 3,TRN3,,172.26.127.173,trn3.kyagent.ky.gov,,,,,
+Training,TRN-WEB-3,HFSNE121-037218,Training 4,TRN4,,172.26.127.174,trn4.kyagent.ky.gov,,,,,
+Training,TRN-WEB-3,HFSNE121-037218,Training 5,TRN5,,172.26.127.175,trn5.kyagent.ky.gov,,,,,No
+Training,TRN-APP-1,HFSNE121-037042,Training 1,TRN1,,172.26.129.125,trn1.kyserve.chfsinet.ky.gov,172.26.129.187 ,,,,No
+Training,TRN-APP-1,HFSNE121-037042,Training 2,TRN2,,172.26.129.126,trn2.kyserve.chfsinet.ky.gov,172.26.129.188,,,,No
+Training,TRN-APP-1,HFSNE121-037042,Training 3,TRN3,,172.26.129.127,trn3.kyserve.chfsinet.ky.gov,172.26.129.189 205.204.197.141,,,,No
+Training,TRN-APP-1,HFSNE121-037042,Training 4,TRN4,,172.26.129.128,trn4.kyserve.chfsinet.ky.gov,172.26.129.190,,,,No
+Training,TRN-APP-1,HFSNE121-037042,Training 5,TRN5,,172.26.129.124,trn5.kyserve.chfsinet.ky.gov,172.26.127.119,,,,No
+Training,TRN-APP-2,HFSNE121-037043,Training 1,TRN1,,172.26.129.130,trn1.kyserve.chfsinet.ky.gov,,,,,No
+Training,TRN-APP-2,HFSNE121-037043,Training 2,TRN2,,172.26.129.131,trn2.kyserve.chfsinet.ky.gov,,,,,No
+Training,TRN-APP-2,HFSNE121-037043,Training 3,TRN3,,172.26.129.132,trn3.kyserve.chfsinet.ky.gov,,,,,No
+Training,TRN-APP-2,HFSNE121-037043,Training 4,TRN4,,172.26.129.133,trn4.kyserve.chfsinet.ky.gov,,,,,No
+Training,TRN-APP-2,HFSNE121-037043,Training 5,TRN5,,172.26.129.129,trn5.kyserve.chfsinet.ky.gov,,,,,No
+Training,TRN-APP-3,HFSNE121-037219,Training 1,TRN1,,172.26.128.189,trn1.kyserve.chfsinet.ky.gov,,,,,No
+Training,TRN-APP-3,HFSNE121-037219,Training 2,TRN2,,172.26.128.190,trn2.kyserve.chfsinet.ky.gov,,,,,No
+Training,TRN-APP-3,HFSNE121-037219,Training 3,TRN3,,172.26.128.191,trn3.kyserve.chfsinet.ky.gov,,,,,No
+Training,TRN-APP-3,HFSNE121-037219,Training 4,TRN4,,172.26.128.192,trn4.kyserve.chfsinet.ky.gov,,,,,No
+Training,TRN-APP-3,HFSNE121-037219,Training 5,TRN5,,172.26.128.177,trn5.kyserve.chfsinet.ky.gov,,,,,No
+Training,TRN-BIZTALK-1,HFSSD121-03760,BizTalk Training Environment,TRBT,,,,,,,,No
+Training,TRN-BIZTALK-2,HFSSD121-03761,BizTalk Training Environment,TRBT,,,,,,,,No
+Training,TRN-FORMS-1,HFSNE121-037044,Training 1,TRN1,,172.26.129.135,trn1.kyforms.chfsinet.ky.gov,,,,,No
+Training,TRN-FORMS-1,HFSNE121-037044,Training 2,TRN2,,172.26.129.136,trn2.kyforms.chfsinet.ky.gov,,,,,No
+Training,TRN-FORMS-1,HFSNE121-037044,Training 3,TRN3,,172.26.129.137,trn3.kyforms.chfsinet.ky.gov,,,,,No
+Training,TRN-FORMS-1,HFSNE121-037044,Training 4,TRN4,,172.26.129.138,trn4.kyforms.chfsinet.ky.gov,,,,,No
+Training,TRN-FORMS-1,HFSNE121-037044,Training 5,TRN5,,172.26.129.134,trn5.kyforms.chfsinet.ky.gov,,,,,No
+Training,TRN-REPORTING-WI-2,,,,,,,,,,,No
+Training,TRN-WEB-REPORTING-1,,,,,,,,,,,No
+Training,TRN-WEB-REPORTING-2,,,,,,,,,,,No
+Training,TRN-RULES-1,HFSNE121-037046,Training 1,TRN1,,172.26.129.145,trn1.kyrules.chfsinet.ky.gov,172.26.129.191,,,,No
+Training,TRN-RULES-1,HFSNE121-037046,Training 2,TRN2,,172.26.129.146,trn2.kyrules.chfsinet.ky.gov,172.26.129.192,,,,No
+Training,TRN-RULES-1,HFSNE121-037046,Training 3,TRN3,,172.26.129.147,trn3.kyrules.chfsinet.ky.gov,172.26.129.193,,,,No
+Training,TRN-RULES-1,HFSNE121-037046,Training 4,TRN4,,172.26.129.148,trn4.kyrules.chfsinet.ky.gov,172.26.129.194,,,,No
+Training,TRN-RULES-1,HFSNE121-037046,Training 1,TRN1,,172.26.129.199,TRN1.kyservices.chfsinet.ky.gov,172.26.129.195,,,,No
+Training,TRN-RULES-1,HFSNE121-037046,Training 2,TRN2,,172.26.129.200,TRN2.kyservices.chfsinet.ky.gov,172.26.129.196,,,,No
+Training,TRN-RULES-1,HFSNE121-037046,Training 3,TRN3,,172.26.129.201,TRN3.kyservices.chfsinet.ky.gov,172.26.129.197,,,,No
+Training,TRN-RULES-1,HFSNE121-037046,Training 4,TRN4,,172.26.129.202,TRN4.kyservices.chfsinet.ky.gov,172.26.129.198,,,,No
+Training,TRN-RULES-1,HFSNE121-037046,Training 5,TRN5,,172.26.129.144,trn5.kyservices.chfsinet.ky.gov,172.26.127.120,,,,No
+Training,TRN-RULES-1,HFSNE121-037046,Training 5,TRN5,,172.26.127.122,trn5.kyrules.chfsinet.ky.gov,172.26.127.121,,,,No
+Training,TRN-RULES-2,HFSNE121-037049,Training 1,TRN1,,172.26.129.149,trn1.kyrules.chfsinet.ky.gov,,,,,No
+Training,TRN-RULES-2,HFSNE121-037049,Training 2,TRN2,,172.26.129.150,trn2.kyrules.chfsinet.ky.gov,,,,,No
+Training,TRN-RULES-2,HFSNE121-037049,Training 3,TRN3,,172.26.129.151,trn3.kyrules.chfsinet.ky.gov,,,,,No
+Training,TRN-RULES-2,HFSNE121-037049,Training 4,TRN4,,172.26.129.152,trn4.kyrules.chfsinet.ky.gov,,,,,No
+Training,TRN-RULES-2,HFSNE121-037049,Training 1,TRN1,,172.26.129.203,TRN1.kyservices.chfsinet.ky.gov,,,,,No
+Training,TRN-RULES-2,HFSNE121-037049,Training 2,TRN2,,172.26.129.204,TRN2.kyservices.chfsinet.ky.gov,,,,,No
+Training,TRN-RULES-2,HFSNE121-037049,Training 3,TRN3,,172.26.129.205,TRN3.kyservices.chfsinet.ky.gov,,,,,No
+Training,TRN-RULES-2,HFSNE121-037049,Training 4,TRN4,,172.26.129.206,TRN4.kyservices.chfsinet.ky.gov,,,,,No
+Training,TRN-RULES-2,HFSNE121-037049,Training 5,TRN5,,172.26.129.155,trn5.kyservices.chfsinet.ky.gov,,,,,No
+Training,TRN-RULES-2,HFSNE121-037049,Training 5,TRN5,,172.26.127.123,trn5.kyrules.chfsinet.ky.gov,,,,,No
+Training,TRN-DB,HFSNE121-037047,Training 1,TRN1,,,,,,,,No
+Training,TRN-DB,HFSNE121-037047,Training 2,TRN2,,,,,,,,No
+Training,TRN-DB,HFSNE121-037047,Training 3,TRN3,,,,,,,,No
+Training,TRN-DB,HFSNE121-037047,Training 4,TRN4,,,,,,,,
+Training,TRN-MCI-WRAPPER-1,HFSNE121-037206,,,,172.26.131.105,trn.kymci.chfsinet.ky.gov,,,,,
+Training,TRN-MCI-WRAPPER-1,HFSNE121-037206,,,,172.26.131.155,train.kyprovmci.chfsinet.ky.gov,,,,,No
+Training,TRN-REPORTING-DB,,Training,TRN,,,,,,,,Yes
+User Acceptance Testing,UAT-WEB-1,HFSNE121-037060,User Acceptance Testing Stage 1,STU1,,172.26.129.24,stu1.kyenroll.ky.gov,205.204.197.10,,,,Yes
+User Acceptance Testing,UAT-WEB-1,HFSNE121-037060,User Acceptance Testing 1,UAT1,,172.26.129.29,uat1.kynect.ky.gov,205.204.197.13,,,,Yes
+User Acceptance Testing,UAT-WEB-1,HFSNE121-037060,User Acceptance Testing 2,UAT2,,172.26.129.30,uat2.kynect.ky.gov,205.204.197.14,,,,Yes
+User Acceptance Testing,UAT-WEB-1,HFSNE121-037060,User Acceptance Testing 3,UAT3,,172.26.129.31,uat3.kynect.ky.gov,205.204.197.15,,,,Yes
+User Acceptance Testing,UAT-WEB-1,HFSNE121-037060,User Acceptance Testing 4,UAT4,,172.26.128.221,uat4.kyenroll.ky.gov,205.204.197.69,,,,Yes
+User Acceptance Testing,UAT-WEB-1,HFSNE121-037060,Performance Testing  ,PERF,,172.26.129.33,perf.kyenroll.ky.gov,205.204.197.17,,,,Yes
+User Acceptance Testing,UAT-WEB-1,HFSNE121-037060,WEBAPI,UAT,,172.26.129.237,uat.webapi.kynect.ky.gov,205.204.197.49,,,,Yes
+User Acceptance Testing,UAT-WEB-1,HFSNE121-037060,WEBAPI,PERF,,172.26.129.238,perf.webapi.kynect.ky.gov,205.204.197.50,,,,Yes
+User Acceptance Testing,UAT-WEB-1,HFSNE121-037060,User Acceptance Testing 1,UAT1,,172.26.128.196,uat1.kywaiver.ky.gov,205.204.197.66,,,,Yes
+User Acceptance Testing,UAT-WEB-1,HFSNE121-037060,User Acceptance Testing 2,UAT2,,172.26.128.197,uat2.kywaiver.ky.gov,205.204.197.67,,,,Yes
+User Acceptance Testing,UAT-WEB-1,HFSNE121-037060,User Acceptance Testing 3,UAT3,,172.26.128.198,uat3.kywaiver.ky.gov,205.204.197.68,,,,Yes
+User Acceptance Testing,UAT-WEB-1,HFSNE121-037060,User Acceptance Testing 4,UAT4,,172.26.128.222,uat4.kywaiver.ky.gov,205.204.197.70,,,,No
+User Acceptance Testing,UAT-WEB-1,HFSNE121-037060,Performance Testing  ,PRFS,,172.26.128.199,perf.kywaiver.chfsinet.ky.gov,172.26.128.200,,,,Yes
+User Acceptance Testing,UAT-WEB-1,HFSNE121-037060,User Acceptance Testing 1,UAT 1,,172.26.129.28,uat1.kyissuer.ky.gov,205.204.197.72,,,,Yes
+User Acceptance Testing,UAT-WEB-1,HFSNE121-037060,User Acceptance Testing 2,UAT 2,,172.26.129.32,uat2.kyissuer.ky.gov,205.204.197.73,,,,Yes
+User Acceptance Testing,UAT-WEB-1,HFSNE121-037060,Performance Testing  ,PERF,,172.26.129.76,perf.kyissuer.ky.gov,205.204.197.16,,,,No
+User Acceptance Testing,UAT-WEB-1,HFSNE121-037060,Performance Testing  ,PERF,,172.26.126.14,perf.kyshop.chfsinet.ky.gov,172.26.126.11,,,,No
+User Acceptance Testing,UAT-WEB-1,HFSNE121-037060,Performance Testing  ,PERF,,172.26.126.15,perf.kyshopping.chfsinet.ky.gov,172.26.126.12,,,,no
+User Acceptance Testing,UAT-WEB-1,HFSNE121-037060,Performance Testing  ,PERF,,172.26.126.16,perf.kyplans.chfsinet.ky.gov,172.26.126.13,,,,Yes
+User Acceptance Testing,UAT-WEB-1,HFSNE121-037060,User Acceptance Testing 1,UAT1,,172.26.126.17,uat1.kyshop.ky.gov,205.204.197.74,,,,Yes
+User Acceptance Testing,UAT-WEB-1,HFSNE121-037060,User Acceptance Testing 1,UAT1,,172.26.126.18,uat1.kyshopping.ky.gov,205.204.197.75,,,,Yes
+User Acceptance Testing,UAT-WEB-1,HFSNE121-037060,User Acceptance Testing 1,UAT1,,172.26.126.19,uat1.kyplans.ky.gov,205.204.197.76,,,,Yes
+User Acceptance Testing,UAT-WEB-1,HFSNE121-037060,User Acceptance Testing 2,UAT2,,172.26.126.20,uat2.kyshop.ky.gov,205.204.197.77,,,,Yes
+User Acceptance Testing,UAT-WEB-1,HFSNE121-037060,User Acceptance Testing 2,UAT2,,172.26.126.21,uat2.kyshopping.ky.gov,205.204.197.78,,,,Yes
+User Acceptance Testing,UAT-WEB-1,HFSNE121-037060,User Acceptance Testing 2,UAT2,,172.26.126.22,uat2.kyplans.ky.gov,205.204.197.79,,,,Yes
+User Acceptance Testing,UAT-WEB-1,HFSNE121-037060,User Acceptance Testing 3,UAT3,,172.26.126.23,uat3.kyshop.ky.gov,205.204.197.80,,,,Yes
+User Acceptance Testing,UAT-WEB-1,HFSNE121-037060,User Acceptance Testing 3,UAT3,,172.26.126.24,uat3.kyshopping.ky.gov,205.204.197.81,,,,Yes
+User Acceptance Testing,UAT-WEB-1,HFSNE121-037060,User Acceptance Testing 3,UAT3,,172.26.126.25,uat3.kyplans.ky.gov,205.204.197.82,,,,Yes
+User Acceptance Testing,UAT-WEB-1,HFSNE121-037060,User Acceptance Testing 4,UAT4,,172.26.126.26,uat4.kyshop.ky.gov,205.204.197.83,,,,Yes
+User Acceptance Testing,UAT-WEB-1,HFSNE121-037060,User Acceptance Testing 4,UAT4,,172.26.126.27,uat4.kyshopping.ky.gov,205.204.197.84,,,,Yes
+User Acceptance Testing,UAT-WEB-1,HFSNE121-037060,User Acceptance Testing 4,UAT4,,172.26.126.28,uat4.kyplans.ky.gov,205.204.197.85,,,,Yes
+User Acceptance Testing,UAT-WEB-1,HFSNE121-037060,User Acceptance Testing 3,UAT3,,172.26.126.130,uat3.kyissuer.ky.gov,205.204.197.87,,,,Yes
+User Acceptance Testing,UAT-WEB-1,HFSNE121-037060,User Acceptance Testing 4,UAT4,,172.26.126.131,uat4.kyissuer.ky.gov,205.204.197.88,,,,Yes
+User Acceptance Testing,UAT-WEB-1,HFSNE121-037060,Performance Testing 2,PERF2,,172.26.126.190,perf2.kynect.ky.gov,205.204.197.92,,,,
+User Acceptance Testing,UAT-WEB-1,HFSNE121-037060,User Acceptance Testing,UAT,,172.26.127.19,uat.webapi.kyshop.ky.gov,205.204.197.113,,,,
+User Acceptance Testing,UAT-WEB-1,HFSNE121-037060,User Acceptance Testing,UAT,,172.26.127.20,uat.webapi.kyshopping.ky.gov ,205.204.197.114,,,,
+User Acceptance Testing,UAT-WEB-1,HFSNE121-037060,User Acceptance Testing 2,UAT2,,172.26.127.21,uat2.webapi.kynect.ky.gov,205.204.197.115,,,,
+User Acceptance Testing,UAT-WEB-1,HFSNE121-037060,User Acceptance Testing 2,UAT2,,172.26.127.22,uat2.webapi.kyshop.ky.gov,205.204.197.116,,,,
+User Acceptance Testing,UAT-WEB-1,HFSNE121-037060,User Acceptance Testing 2,UAT2,,172.26.127.23,uat2.webapi.kyshopping.ky.gov,205.204.197.117,,,,
+User Acceptance Testing,UAT-WEB-1,HFSNE121-037060,User Acceptance Testing 1,UAT1,,172.26.127.50,uat1.kyagent.ky.gov,205.204.197.119,,,,
+User Acceptance Testing,UAT-WEB-1,HFSNE121-037060,User Acceptance Testing 2,UAT2,,172.26.127.51,uat2.kyagent.ky.gov,205.204.197.120,,,,
+User Acceptance Testing,UAT-WEB-1,HFSNE121-037060,User Acceptance Testing 3,UAT3,,172.26.127.52,uat3.kyagent.ky.gov,205.204.197.121,,,,
+User Acceptance Testing,UAT-WEB-1,HFSNE121-037060,User Acceptance Testing 4,UAT4,,172.26.127.53,uat4.kyagent.ky.gov,205.204.197.122,,,,
+User Acceptance Testing,UAT-WEB-1,HFSNE121-037060,Performace Testing,PERF,,172.26.127.54,perf.kyagent.ky.gov,172.26.127.49,,,,
+User Acceptance Testing,UAT-WEB-1,HFSNE121-037060,Performace Testing,PERF,,172.26.127.83,perf.webapi.kyshop.chfsinet.ky.gov,172.26.127.80,,,,
+User Acceptance Testing,UAT-WEB-1,HFSNE121-037060,Performace Testing,PERF,,172.26.127.84,perf.webapi.kyshopping.chfsinet.ky.gov,172.26.127.81,,,,
+User Acceptance Testing,UAT-WEB-1,HFSNE121-037060,Performace Testing,PERF,,172.26.127.85,perf.webapi.kyplans.chfsinet.ky.gov,172.26.127.82,,,,Yes
+User Acceptance Testing,UAT-WEB-1,HFSNE121-037060,User Acceptance Testing Stage 2,UAT2,,172.26.127.177,stu2.kynect.ky.gov,205.204.197.58,,,,
+User Acceptance Testing,UAT-WEB-1,HFSNE121-037060,User Acceptance Testing Stage 2,UAT2,,172.26.127.178,stu2.kywaiver.ky.gov,205.204.197.150,,,,
+User Acceptance Testing,UAT-WEB-1,HFSNE121-037060,User Acceptance Testing Stage 2,UAT2,,172.26.127.179,stu2.kyagent.ky.gov,205.204.197.57,,,,
+User Acceptance Testing,UAT-WEB-1,HFSNE121-037060,User Acceptance Testing Stage 2,UAT2,,172.26.127.180,stu2.kyissuer.ky.gov,205.204.197.71,,,,
+User Acceptance Testing,UAT-WEB-1,HFSNE121-037060,User Acceptance Testing Stage 2,UAT2,,172.26.127.181,stu2.kyshop.ky.gov,205.204.197.148,,,,
+User Acceptance Testing,UAT-WEB-1,HFSNE121-037060,User Acceptance Testing Stage 2,UAT2,,172.26.127.182,stu2.kyshopping.ky.gov,205.204.197.149,,,,
+User Acceptance Testing,UAT-WEB-1,HFSNE121-037060,User Acceptance Testing Stage 2,UAT2,,172.26.127.183,stu2.kyplans.ky.gov ,205.204.197.147,,,,
+User Acceptance Testing,UAT-WEB-1,HFSNE121-037060,Performace Testing,PERF,,172.26.129.11,perf.form1095.chfsinet.ky.gov,172.26.128.134,,,,
+User Acceptance Testing,UAT-WEB-1,HFSNE121-037060,User Acceptance Testing Stage 1,STU1,,172.26.127.228,stu1.kynect.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-1,HFSNE121-037060,User Acceptance Testing Stage 1,STU1,,172.26.127.229,stu1.kywaiver.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-1,HFSNE121-037060,User Acceptance Testing Stage 1,STU1,,172.26.127.230,stu1.kyagent.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-1,HFSNE121-037060,User Acceptance Testing Stage 1,STU1,,172.26.127.231,stu1.kyissuer.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-1,HFSNE121-037060,User Acceptance Testing Stage 1,STU1,,172.26.127.232,stu1.kyshop.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-1,HFSNE121-037060,User Acceptance Testing Stage 1,STU1,,172.26.127.233,stu1.kyshopping.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-1,HFSNE121-037060,User Acceptance Testing Stage 1,STU1,,172.26.127.234,stu1.kyplans.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-1,HFSNE121-037060,User Acceptance Testing Stage 1,STU1,,172.23.127.235,stu1.form1095.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-2,HFSNE121-037061,User Acceptance Testing Stage 1,STU1,,172.26.129.34,stu1.kyenroll.ky.gov,,,,,Yes
+User Acceptance Testing,UAT-WEB-2,HFSNE121-037061,User Acceptance Testing 1,UAT1,,172.26.129.37,uat1.kynect.ky.gov,,,,,Yes
+User Acceptance Testing,UAT-WEB-2,HFSNE121-037061,User Acceptance Testing 2,UAT2,,172.26.129.38,uat2.kynect.ky.gov,,,,,Yes
+User Acceptance Testing,UAT-WEB-2,HFSNE121-037061,User Acceptance Testing 3,UAT3,,172.26.129.39,uat3.kynect.ky.gov,,,,,Yes
+User Acceptance Testing,UAT-WEB-2,HFSNE121-037061,User Acceptance Testing 4,UAT4,,172.26.128.223,uat4.kyenroll.ky.gov,,,,,Yes
+User Acceptance Testing,UAT-WEB-2,HFSNE121-037061,Performance Testing  ,PERF,,172.26.129.41,perf.kyenroll.ky.gov,,,,,Yes
+User Acceptance Testing,UAT-WEB-2,HFSNE121-037061,WEBAPI,UAT,,172.26.129.239,uat.webapi.kynect.ky.gov,,,,,Yes
+User Acceptance Testing,UAT-WEB-2,HFSNE121-037061,WEBAPI,PERF,,172.26.129.240,perf.webapi.kynect.ky.gov,,,,,Yes
+User Acceptance Testing,UAT-WEB-2,HFSNE121-037061,User Acceptance Testing 1,UAT1,,172.26.128.201,uat1.kywaiver.ky.gov,,,,,Yes
+User Acceptance Testing,UAT-WEB-2,HFSNE121-037061,User Acceptance Testing 2,UAT2,,172.26.128.202,uat2.kywaiver.ky.gov,,,,,Yes
+User Acceptance Testing,UAT-WEB-2,HFSNE121-037061,User Acceptance Testing 3,UAT3,,172.26.128.203,uat3.kywaiver.ky.gov,,,,,Yes
+User Acceptance Testing,UAT-WEB-2,HFSNE121-037061,User Acceptance Testing 4,UAT4,,172.26.128.224,uat4.kywaiver.ky.gov,,,,,No
+User Acceptance Testing,UAT-WEB-2,HFSNE121-037061,Performance Testing  ,PRFS,,172.26.128.204,perf.kywaiver.chfsinet.ky.gov,,,,,Yes
+User Acceptance Testing,UAT-WEB-2,HFSNE121-037061,User Acceptance Testing 1,UAT 1,,172.26.129.36,uat1.kyissuer.ky.gov,,,,,Yes
+User Acceptance Testing,UAT-WEB-2,HFSNE121-037061,User Acceptance Testing 2,UAT 2,,172.26.129.40,uat2.kyissuer.ky.gov,,,,,Yes
+User Acceptance Testing,UAT-WEB-2,HFSNE121-037061,Performance Testing  ,PERF,,172.26.129.84,perf.kyissuer.ky.gov,,,,,No
+User Acceptance Testing,UAT-WEB-2,HFSNE121-037061,Performance Testing  ,PERF,,172.26.126.29,perf.kyshop.chfsinet.ky.gov,,,,,No
+User Acceptance Testing,UAT-WEB-2,HFSNE121-037061,Performance Testing  ,PERF,,172.26.126.30,perf.kyshopping.chfsinet.ky.gov,,,,,No
+User Acceptance Testing,UAT-WEB-2,HFSNE121-037061,Performance Testing  ,PERF,,172.26.126.31,perf.kyplans.chfsinet.ky.gov,,,,,Yes
+User Acceptance Testing,UAT-WEB-2,HFSNE121-037061,User Acceptance Testing 1,UAT1,,172.26.126.32,uat1.kyshop.ky.gov,,,,,Yes
+User Acceptance Testing,UAT-WEB-2,HFSNE121-037061,User Acceptance Testing 1,UAT1,,172.26.126.33,uat1.kyshopping.ky.gov,,,,,Yes
+User Acceptance Testing,UAT-WEB-2,HFSNE121-037061,User Acceptance Testing 1,UAT1,,172.26.126.34,uat1.kyplans.ky.gov,,,,,Yes
+User Acceptance Testing,UAT-WEB-2,HFSNE121-037061,User Acceptance Testing 2,UAT2,,172.26.126.35,uat2.kyshop.ky.gov,,,,,Yes
+User Acceptance Testing,UAT-WEB-2,HFSNE121-037061,User Acceptance Testing 2,UAT2,,172.26.126.36,uat2.kyshopping.ky.gov,,,,,Yes
+User Acceptance Testing,UAT-WEB-2,HFSNE121-037061,User Acceptance Testing 2,UAT2,,172.26.126.37,uat2.kyplans.ky.gov,,,,,Yes
+User Acceptance Testing,UAT-WEB-2,HFSNE121-037061,User Acceptance Testing 3,UAT3,,172.26.126.38,uat3.kyshop.ky.gov,,,,,Yes
+User Acceptance Testing,UAT-WEB-2,HFSNE121-037061,User Acceptance Testing 3,UAT3,,172.26.126.39,uat3.kyshopping.ky.gov,,,,,Yes
+User Acceptance Testing,UAT-WEB-2,HFSNE121-037061,User Acceptance Testing 3,UAT3,,172.26.126.40,uat3.kyplans.ky.gov,,,,,Yes
+User Acceptance Testing,UAT-WEB-2,HFSNE121-037061,User Acceptance Testing 4,UAT4,,172.26.126.41,uat4.kyshop.ky.gov,,,,,Yes
+User Acceptance Testing,UAT-WEB-2,HFSNE121-037061,User Acceptance Testing 4,UAT4,,172.26.126.42,uat4.kyshopping.ky.gov,,,,,Yes
+User Acceptance Testing,UAT-WEB-2,HFSNE121-037061,User Acceptance Testing 4,UAT4,,172.26.126.43,uat4.kyplans.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-2,HFSNE121-037061,User Acceptance Testing 3,UAT3,,172.26.126.132,uat3.kyissuer.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-2,HFSNE121-037061,User Acceptance Testing 4,UAT4,,172.26.126.133,uat4.kyissuer.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-2,HFSNE121-037061,Performance Testing 2,PERF2,,172.26.126.191,perf2.kynect.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-2,HFSNE121-037061,User Acceptance Testing,UAT,,172.26.127.24,uat.webapi.kyshop.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-2,HFSNE121-037061,User Acceptance Testing,UAT,,172.26.127.25,uat.webapi.kyshopping.ky.gov ,,,,,
+User Acceptance Testing,UAT-WEB-2,HFSNE121-037061,User Acceptance Testing 2,UAT2,,172.26.127.26,uat2.webapi.kynect.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-2,HFSNE121-037061,User Acceptance Testing 2,UAT2,,172.26.127.27,uat2.webapi.kyshop.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-2,HFSNE121-037061,User Acceptance Testing 2,UAT2,,172.26.127.28,uat2.webapi.kyshopping.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-2,HFSNE121-037061,User Acceptance Testing 1,UAT1,,172.26.127.55,uat1.kyagent.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-2,HFSNE121-037061,User Acceptance Testing 2,UAT2,,172.26.127.56,uat2.kyagent.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-2,HFSNE121-037061,User Acceptance Testing 3,UAT3,,172.26.127.57,uat3.kyagent.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-2,HFSNE121-037061,User Acceptance Testing 4,UAT4,,172.26.127.58,uat4.kyagent.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-2,HFSNE121-037061,Performace Testing,PERF,,172.26.127.59,perf.kyagent.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-2,HFSNE121-037061,Performace Testing,PERF,,172.26.127.86,perf.webapi.kyshop.chfsinet.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-2,HFSNE121-037061,Performace Testing,PERF,,172.26.127.87,perf.webapi.kyshopping.chfsinet.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-2,HFSNE121-037061,Performace Testing,PERF,,172.26.127.88,perf.webapi.kyplans.chfsinet.ky.gov,,,,,Yes
+User Acceptance Testing,UAT-WEB-2,HFSNE121-037061,User Acceptance Testing Stage 2,UAT2,,172.26.127.184,stu2.kynect.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-2,HFSNE121-037061,User Acceptance Testing Stage 2,UAT2,,172.26.127.185,stu2.kywaiver.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-2,HFSNE121-037061,User Acceptance Testing Stage 2,UAT2,,172.26.127.186,stu2.kyagent.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-2,HFSNE121-037061,User Acceptance Testing Stage 2,UAT2,,172.26.127.187,stu2.kyissuer.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-2,HFSNE121-037061,User Acceptance Testing Stage 2,UAT2,,172.26.127.188,stu2.kyshop.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-2,HFSNE121-037061,User Acceptance Testing Stage 2,UAT2,,172.26.127.189,stu2.kyshopping.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-2,HFSNE121-037061,User Acceptance Testing Stage 2,UAT2,,172.26.127.190,stu2.kyplans.ky.gov ,,,,,
+User Acceptance Testing,UAT-WEB-2,HFSNE121-037061,Performace Testing,PERF,,172.26.129.12,perf.form1095.chfsinet.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-2,HFSNE121-037061,User Acceptance Testing Stage 1,STU1,,172.26.127.236,stu1.kynect.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-2,HFSNE121-037061,User Acceptance Testing Stage 1,STU1,,172.26.127.237,stu1.kywaiver.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-2,HFSNE121-037061,User Acceptance Testing Stage 1,STU1,,172.26.127.238,stu1.kyagent.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-2,HFSNE121-037061,User Acceptance Testing Stage 1,STU1,,172.26.127.239,stu1.kyissuer.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-2,HFSNE121-037061,User Acceptance Testing Stage 1,STU1,,172.26.127.240,stu1.kyshop.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-2,HFSNE121-037061,User Acceptance Testing Stage 1,STU1,,172.26.127.241,stu1.kyshopping.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-2,HFSNE121-037061,User Acceptance Testing Stage 1,STU1,,172.26.127.242,stu1.kyplans.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-2,HFSNE121-037061,User Acceptance Testing Stage 1,STU1,,172.26.127.243,stu1.form1095.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-3,HFSNE121-037062,User Acceptance Testing Stage 1,STU1,,172.26.129.42,stu1.kyenroll.ky.gov,,,,,Yes
+User Acceptance Testing,UAT-WEB-3,HFSNE121-037062,User Acceptance Testing 1,UAT1,,172.26.129.45,uat1.kynect.ky.gov,,,,,Yes
+User Acceptance Testing,UAT-WEB-3,HFSNE121-037062,User Acceptance Testing 2,UAT2,,172.26.129.46,uat2.kynect.ky.gov,,,,,Yes
+User Acceptance Testing,UAT-WEB-3,HFSNE121-037062,User Acceptance Testing 3,UAT3,,172.26.129.47,uat3.kynect.ky.gov,,,,,Yes
+User Acceptance Testing,UAT-WEB-3,HFSNE121-037062,User Acceptance Testing 4,UAT4,,172.26.128.225,uat4.kyenroll.ky.gov,,,,,Yes
+User Acceptance Testing,UAT-WEB-3,HFSNE121-037062,Performance Testing  ,PERF,,172.26.129.49,perf.kyenroll.ky.gov,,,,,Yes
+User Acceptance Testing,UAT-WEB-3,HFSNE121-037062,WEBAPI,UAT,,172.26.129.241,uat.webapi.kynect.ky.gov,,,,,Yes
+User Acceptance Testing,UAT-WEB-3,HFSNE121-037062,WEBAPI,PERF,,172.26.129.242,perf.webapi.kynect.ky.gov,,,,,Yes
+User Acceptance Testing,UAT-WEB-3,HFSNE121-037062,User Acceptance Testing 1,UAT1,,172.26.128.205,uat1.kywaiver.ky.gov,,,,,Yes
+User Acceptance Testing,UAT-WEB-3,HFSNE121-037062,User Acceptance Testing 2,UAT2,,172.26.128.206,uat2.kywaiver.ky.gov,,,,,Yes
+User Acceptance Testing,UAT-WEB-3,HFSNE121-037062,User Acceptance Testing 3,UAT3,,172.26.128.207,uat3.kywaiver.ky.gov,,,,,Yes
+User Acceptance Testing,UAT-WEB-3,HFSNE121-037062,User Acceptance Testing 4,UAT4,,172.26.128.226,uat4.kywaiver.ky.gov,,,,,No
+User Acceptance Testing,UAT-WEB-3,HFSNE121-037062,Performance Testing  ,PRFS,,172.26.128.208,perf.kywaiver.chfsinet.ky.gov,,,,,Yes
+User Acceptance Testing,UAT-WEB-3,HFSNE121-037062,User Acceptance Testing 1,UAT 1,,172.26.129.44,uat1.kyissuer.ky.gov,,,,,Yes
+User Acceptance Testing,UAT-WEB-3,HFSNE121-037062,User Acceptance Testing 2,UAT 2,,172.26.129.48,uat2.kyissuer.ky.gov,,,,,Yes
+User Acceptance Testing,UAT-WEB-3,HFSNE121-037062,Performance Testing  ,PERF,,172.26.129.92,perf.kyissuer.ky.gov,,,,,No
+User Acceptance Testing,UAT-WEB-3,HFSNE121-037062,Performance Testing  ,PERF,,172.26.126.44,perf.kyshop.chfsinet.ky.gov,,,,,No
+User Acceptance Testing,UAT-WEB-3,HFSNE121-037062,Performance Testing  ,PERF,,172.26.126.45,perf.kyshopping.chfsinet.ky.gov,,,,,No
+User Acceptance Testing,UAT-WEB-3,HFSNE121-037062,Performance Testing  ,PERF,,172.26.126.46,perf.kyplans.chfsinet.ky.gov,,,,,Yes
+User Acceptance Testing,UAT-WEB-3,HFSNE121-037062,User Acceptance Testing 1,UAT1,,172.26.126.47,uat1.kyshop.ky.gov,,,,,Yes
+User Acceptance Testing,UAT-WEB-3,HFSNE121-037062,User Acceptance Testing 1,UAT1,,172.26.126.48,uat1.kyshopping.ky.gov,,,,,Yes
+User Acceptance Testing,UAT-WEB-3,HFSNE121-037062,User Acceptance Testing 1,UAT1,,172.26.126.49,uat1.kyplans.ky.gov,,,,,Yes
+User Acceptance Testing,UAT-WEB-3,HFSNE121-037062,User Acceptance Testing 2,UAT2,,172.26.126.50,uat2.kyshop.ky.gov,,,,,Yes
+User Acceptance Testing,UAT-WEB-3,HFSNE121-037062,User Acceptance Testing 2,UAT2,,172.26.126.51,uat2.kyshopping.ky.gov,,,,,Yes
+User Acceptance Testing,UAT-WEB-3,HFSNE121-037062,User Acceptance Testing 2,UAT2,,172.26.126.52,uat2.kyplans.ky.gov,,,,,Yes
+User Acceptance Testing,UAT-WEB-3,HFSNE121-037062,User Acceptance Testing 3,UAT3,,172.26.126.53,uat3.kyshop.ky.gov,,,,,Yes
+User Acceptance Testing,UAT-WEB-3,HFSNE121-037062,User Acceptance Testing 3,UAT3,,172.26.126.54,uat3.kyshopping.ky.gov,,,,,Yes
+User Acceptance Testing,UAT-WEB-3,HFSNE121-037062,User Acceptance Testing 3,UAT3,,172.26.126.55,uat3.kyplans.ky.gov,,,,,Yes
+User Acceptance Testing,UAT-WEB-3,HFSNE121-037062,User Acceptance Testing 4,UAT4,,172.26.126.56,uat4.kyshop.ky.gov,,,,,Yes
+User Acceptance Testing,UAT-WEB-3,HFSNE121-037062,User Acceptance Testing 4,UAT4,,172.26.126.57,uat4.kyshopping.ky.gov,,,,,Yes
+User Acceptance Testing,UAT-WEB-3,HFSNE121-037062,User Acceptance Testing 4,UAT4,,172.26.126.58,uat4.kyplans.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-3,HFSNE121-037062,User Acceptance Testing 3,UAT3,,172.26.126.134,uat3.kyissuer.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-3,HFSNE121-037062,User Acceptance Testing 4,UAT4,,172.26.126.135,uat4.kyissuer.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-3,HFSNE121-037062,Performance Testing 2,PERF2,,172.26.126.192,perf2.kynect.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-3,HFSNE121-037062,User Acceptance Testing,UAT,,172.26.127.29,uat.webapi.kyshop.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-3,HFSNE121-037062,User Acceptance Testing,UAT,,172.26.127.30,uat.webapi.kyshopping.ky.gov ,,,,,
+User Acceptance Testing,UAT-WEB-3,HFSNE121-037062,User Acceptance Testing 2,UAT2,,172.26.127.31,uat2.webapi.kynect.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-3,HFSNE121-037062,User Acceptance Testing 2,UAT2,,172.26.127.32,uat2.webapi.kyshop.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-3,HFSNE121-037062,User Acceptance Testing 2,UAT2,,172.26.127.33,uat2.webapi.kyshopping.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-3,HFSNE121-037062,User Acceptance Testing 1,UAT1,,172.26.127.60,uat1.kyagent.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-3,HFSNE121-037062,User Acceptance Testing 2,UAT2,,172.26.127.61,uat2.kyagent.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-3,HFSNE121-037062,User Acceptance Testing 3,UAT3,,172.26.127.62,uat3.kyagent.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-3,HFSNE121-037062,User Acceptance Testing 4,UAT4,,172.26.127.63,uat4.kyagent.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-3,HFSNE121-037062,Performance Testing,PERF,,172.26.127.64,perf.kyagent.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-3,HFSNE121-037062,Performance Testing,PERF,,172.26.127.89,perf.webapi.kyshop.chfsinet.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-3,HFSNE121-037062,Performance Testing,PERF,,172.26.127.90,perf.webapi.kyshopping.chfsinet.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-3,HFSNE121-037062,Performance Testing,PERF,,172.26.127.91,perf.webapi.kyplans.chfsinet.ky.gov,,,,,Yes
+User Acceptance Testing,UAT-WEB-3,HFSNE121-037062,Performace Testing,PERF,,172.26.129.13,perf.form1095.chfsinet.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-3,HFSNE121-037062,User Acceptance Testing 1,UAT1,,172.26.127.203,uat1.form1095.ky.gov,205.204.197.153,,,,
+User Acceptance Testing,UAT-WEB-3,HFSNE121-037062,User Acceptance Testing 2,UAT2,,172.26.127.204,uat2.form1095.ky.gov,205.204.197.154,,,,
+User Acceptance Testing,UAT-WEB-3,HFSNE121-037062,User Acceptance Testing 3,UAT3,,172.26.127.205,uat3.form1095.ky.gov,205.204.197.155,,,,
+User Acceptance Testing,UAT-WEB-3,HFSNE121-037062,User Acceptance Testing Stage 2,STU2,,172.26.127.206,stu2.form1095.ky.gov,205.204.197.156,,,,
+User Acceptance Testing,UAT-WEB-4,HFSNE121-037063,User Acceptance Testing Stage 1,STU1,,172.26.129.50,stu1.kyenroll.ky.gov,,,,,Yes
+User Acceptance Testing,UAT-WEB-4,HFSNE121-037063,User Acceptance Testing 1,UAT1,,172.26.129.53,uat1.kynect.ky.gov,,,,,Yes
+User Acceptance Testing,UAT-WEB-4,HFSNE121-037063,User Acceptance Testing 2,UAT2,,172.26.129.54,uat2.kynect.ky.gov,,,,,Yes
+User Acceptance Testing,UAT-WEB-4,HFSNE121-037063,User Acceptance Testing 3,UAT3,,172.26.129.55,uat3.kynect.ky.gov,,,,,Yes
+User Acceptance Testing,UAT-WEB-4,HFSNE121-037063,User Acceptance Testing 4,UAT4,,172.26.128.227,uat4.kyenroll.ky.gov,,,,,Yes
+User Acceptance Testing,UAT-WEB-4,HFSNE121-037063,Performance Testing  ,PERF,,172.26.129.57,perf.kyenroll.ky.gov,,,,,Yes
+User Acceptance Testing,UAT-WEB-4,HFSNE121-037063,WEBAPI,UAT,,172.26.129.243,uat.webapi.kynect.ky.gov,,,,,Yes
+User Acceptance Testing,UAT-WEB-4,HFSNE121-037063,WEBAPI,PERF,,172.26.129.244,perf.webapi.kynect.ky.gov,,,,,Yes
+User Acceptance Testing,UAT-WEB-4,HFSNE121-037063,User Acceptance Testing 1,UAT1,,172.26.128.209,uat1.kywaiver.ky.gov,,,,,Yes
+User Acceptance Testing,UAT-WEB-4,HFSNE121-037063,User Acceptance Testing 2,UAT2,,172.26.128.210,uat2.kywaiver.ky.gov,,,,,Yes
+User Acceptance Testing,UAT-WEB-4,HFSNE121-037063,User Acceptance Testing 3,UAT3,,172.26.128.211,uat3.kywaiver.ky.gov,,,,,Yes
+User Acceptance Testing,UAT-WEB-4,HFSNE121-037063,User Acceptance Testing 4,UAT4,,172.26.128.228,uat4.kywaiver.ky.gov,,,,,No
+User Acceptance Testing,UAT-WEB-4,HFSNE121-037063,Performance Testing  ,PRFS,,172.26.128.212,perf.kywaiver.chfsinet.ky.gov,,,,,Yes
+User Acceptance Testing,UAT-WEB-4,HFSNE121-037063,User Acceptance Testing 1,UAT 1,,172.26.129.52,uat1.kyissuer.ky.gov,,,,,Yes
+User Acceptance Testing,UAT-WEB-4,HFSNE121-037063,User Acceptance Testing 2,UAT 2,,172.26.129.56,uat2.kyissuer.ky.gov,,,,,Yes
+User Acceptance Testing,UAT-WEB-4,HFSNE121-037063,Performance Testing  ,PERF,,172.26.129.100,perf.kyissuer.ky.gov,,,,,No
+User Acceptance Testing,UAT-WEB-4,HFSNE121-037063,Performance Testing  ,PERF,,172.26.126.59,perf.kyshop.chfsinet.ky.gov,,,,,No
+User Acceptance Testing,UAT-WEB-4,HFSNE121-037063,Performance Testing  ,PERF,,172.26.126.60,perf.kyshopping.chfsinet.ky.gov,,,,,No
+User Acceptance Testing,UAT-WEB-4,HFSNE121-037063,Performance Testing  ,PERF,,172.26.126.61,perf.kyplans.chfsinet.ky.gov,,,,,Yes
+User Acceptance Testing,UAT-WEB-4,HFSNE121-037063,User Acceptance Testing 1,UAT1,,172.26.126.62,uat1.kyshop.ky.gov,,,,,Yes
+User Acceptance Testing,UAT-WEB-4,HFSNE121-037063,User Acceptance Testing 1,UAT1,,172.26.126.63,uat1.kyshopping.ky.gov,,,,,Yes
+User Acceptance Testing,UAT-WEB-4,HFSNE121-037063,User Acceptance Testing 1,UAT1,,172.26.126.64,uat1.kyplans.ky.gov,,,,,Yes
+User Acceptance Testing,UAT-WEB-4,HFSNE121-037063,User Acceptance Testing 2,UAT2,,172.26.126.65,uat2.kyshop.ky.gov,,,,,Yes
+User Acceptance Testing,UAT-WEB-4,HFSNE121-037063,User Acceptance Testing 2,UAT2,,172.26.126.66,uat2.kyshopping.ky.gov,,,,,Yes
+User Acceptance Testing,UAT-WEB-4,HFSNE121-037063,User Acceptance Testing 2,UAT2,,172.26.126.67,uat2.kyplans.ky.gov,,,,,Yes
+User Acceptance Testing,UAT-WEB-4,HFSNE121-037063,User Acceptance Testing 3,UAT3,,172.26.126.68,uat3.kyshop.ky.gov,,,,,Yes
+User Acceptance Testing,UAT-WEB-4,HFSNE121-037063,User Acceptance Testing 3,UAT3,,172.26.126.69,uat3.kyshopping.ky.gov,,,,,Yes
+User Acceptance Testing,UAT-WEB-4,HFSNE121-037063,User Acceptance Testing 3,UAT3,,172.26.126.70,uat3.kyplans.ky.gov,,,,,Yes
+User Acceptance Testing,UAT-WEB-4,HFSNE121-037063,User Acceptance Testing 4,UAT4,,172.26.126.71,uat4.kyshop.ky.gov,,,,,Yes
+User Acceptance Testing,UAT-WEB-4,HFSNE121-037063,User Acceptance Testing 4,UAT4,,172.26.126.72,uat4.kyshopping.ky.gov,,,,,Yes
+User Acceptance Testing,UAT-WEB-4,HFSNE121-037063,User Acceptance Testing 4,UAT4,,172.26.126.73,uat4.kyplans.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-4,HFSNE121-037063,User Acceptance Testing 3,UAT3,,172.26.126.136,uat3.kyissuer.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-4,HFSNE121-037063,User Acceptance Testing 4,UAT4,,172.26.126.137,uat4.kyissuer.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-4,HFSNE121-037063,Performance Testing 2,PERF2,,172.26.126.193,perf2.kynect.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-4,HFSNE121-037063,User Acceptance Testing,UAT,,172.26.127.34,uat.webapi.kyshop.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-4,HFSNE121-037063,User Acceptance Testing,UAT,,172.26.127.35,uat.webapi.kyshopping.ky.gov ,,,,,
+User Acceptance Testing,UAT-WEB-4,HFSNE121-037063,User Acceptance Testing 2,UAT2,,172.26.127.36,uat2.webapi.kynect.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-4,HFSNE121-037063,User Acceptance Testing 2,UAT2,,172.26.127.37,uat2.webapi.kyshop.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-4,HFSNE121-037063,User Acceptance Testing 2,UAT2,,172.26.127.38,uat2.webapi.kyshopping.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-4,HFSNE121-037063,User Acceptance Testing 1,UAT1,,172.26.127.65,uat1.kyagent.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-4,HFSNE121-037063,User Acceptance Testing 2,UAT2,,172.26.127.66,uat2.kyagent.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-4,HFSNE121-037063,User Acceptance Testing 3,UAT3,,172.26.127.67,uat3.kyagent.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-4,HFSNE121-037063,User Acceptance Testing 4,UAT4,,172.26.127.68,uat4.kyagent.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-4,HFSNE121-037063,Performance Testing,PERF,,172.26.127.69,perf.kyagent.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-4,HFSNE121-037063,Performance Testing,PERF,,172.26.127.92,perf.webapi.kyshop.chfsinet.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-4,HFSNE121-037063,Performance Testing,PERF,,172.26.127.93,perf.webapi.kyshopping.chfsinet.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-4,HFSNE121-037063,Performance Testing,PERF,,172.26.127.94,perf.webapi.kyplans.chfsinet.ky.gov,,,,,Yes
+User Acceptance Testing,UAT-WEB-4,HFSNE121-037063,Performace Testing,PERF,,172.26.129.14,perf.form1095.chfsinet.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-4,HFSNE121-037063,User Acceptance Testing 1,UAT1,,172.26.127.207,uat1.form1095.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-4,HFSNE121-037063,User Acceptance Testing 2,UAT2,,172.26.127.208,uat2.form1095.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-4,HFSNE121-037063,User Acceptance Testing 3,UAT3,,172.26.127.209,uat3.form1095.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-4,HFSNE121-037063,User Acceptance Testing Stage 2,STU2,,172.26.127.210,stu2.form1095.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-5,HFSNE121-037186,WEBAPI,PERF,,172.26.129.249,perf.webapi.kynect.ky.gov,,,,,Yes
+User Acceptance Testing,UAT-WEB-5,HFSNE121-037186,Performance Testing  ,PERF,,172.26.128.171,perf.kyenroll.ky.gov,,,,,Yes
+User Acceptance Testing,UAT-WEB-5,HFSNE121-037186,Performance Testing  ,PRFS,,172.26.128.216,perf.kywaiver.chfsinet.ky.gov,,,,,Yes
+User Acceptance Testing,UAT-WEB-5,HFSNE121-037186,Performance Testing  ,PERF,,172.26.129.114,perf.kyissuer.ky.gov,,,,,No
+User Acceptance Testing,UAT-WEB-5,HFSNE121-037186,Performance Testing  ,PERF,,172.26.126.74,perf.kyshop.chfsinet.ky.gov,,,,,No
+User Acceptance Testing,UAT-WEB-5,HFSNE121-037186,Performance Testing  ,PERF,,172.26.126.75,perf.kyshopping.chfsinet.ky.gov,,,,,No
+User Acceptance Testing,UAT-WEB-5,HFSNE121-037186,Performance Testing  ,PERF,,172.26.126.76,perf.kyplans.chfsinet.ky.gov,,,,,Yes
+User Acceptance Testing,UAT-WEB-5,HFSNE121-037186,User Acceptance Testing 3,UAT3,,172.26.126.140,uat3.kyissuer.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-5,HFSNE121-037186,User Acceptance Testing 4,UAT4,,172.26.126.141,uat4.kyissuer.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-5,HFSNE121-037186,Performance Testing 2,PERF2,,172.26.126.194,perf2.kynect.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-5,HFSNE121-037186,Performance Testing,PERF,,172.26.127.74,perf.kyagent.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-5,HFSNE121-037186,Performance Testing,PERF,,172.26.127.95,perf.webapi.kyshop.chfsinet.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-5,HFSNE121-037186,Performance Testing,PERF,,172.26.127.96,perf.webapi.kyshopping.chfsinet.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-5,HFSNE121-037186,Performance Testing,PERF,,172.26.127.97,perf.webapi.kyplans.chfsinet.ky.gov,,,,,Yes
+User Acceptance Testing,UAT-WEB-5,HFSNE121-037186,Performance Testing,PERF,,172.26.129.213,perf.form1095.chfsinet.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-5,HFSNE121-037186,User Acceptance Testing Stage 3,STU3,,172.26.127.9,stu3.kynect.ky.gov,205.204.197.173,,,,
+User Acceptance Testing,UAT-WEB-5,HFSNE121-037186,User Acceptance Testing Stage 3,STU3,,172.26.127.10,stu3.kywaiver.ky.gov,205.204.197.174,,,,
+User Acceptance Testing,UAT-WEB-5,HFSNE121-037186,User Acceptance Testing Stage 3,STU3,,172.26.127.228,stu3.kyagent.ky.gov,205.204.197.175,,,,
+User Acceptance Testing,UAT-WEB-5,HFSNE121-037186,User Acceptance Testing Stage 3,STU3,,172.26.127.229,stu3.kyissuer.ky.gov,205.204.197.176,,,,
+User Acceptance Testing,UAT-WEB-5,HFSNE121-037186,User Acceptance Testing Stage 3,STU3,,172.26.127.230,stu3.kyshop.ky.gov,205.204.197.177,,,,
+User Acceptance Testing,UAT-WEB-5,HFSNE121-037186,User Acceptance Testing Stage 3,STU3,,172.26.127.231,stu3.kyshopping.ky.gov,205.204.197.178,,,,
+User Acceptance Testing,UAT-WEB-5,HFSNE121-037186,User Acceptance Testing Stage 3,STU3,,172.26.127.232,stu3.kyplans.ky.gov,205.204.197.179,,,,
+User Acceptance Testing,UAT-WEB-5,HFSNE121-037186,User Acceptance Testing Stage 3,STU3,,172.26.127.233,stu3.form1095.ky.gov,205.204.197.180,,,,
+User Acceptance Testing,UAT-WEB-5,HFSNE121-037186,User Acceptance Testing Stage 4,STU4,,172.26.124.11,stu4.kynect.ky.gov,205.204.197.181,,,,
+User Acceptance Testing,UAT-WEB-5,HFSNE121-037186,User Acceptance Testing Stage 4,STU4,,172.26.124.12,stu4.kywaiver.ky.gov,205.204.197.182,,,,
+User Acceptance Testing,UAT-WEB-5,HFSNE121-037186,User Acceptance Testing Stage 4,STU4,,172.26.124.13,stu4.kyagent.ky.gov,205.204.197.183,,,,
+User Acceptance Testing,UAT-WEB-5,HFSNE121-037186,User Acceptance Testing Stage 4,STU4,,172.26.124.14,stu4.kyissuer.ky.gov,205.204.197.184,,,,
+User Acceptance Testing,UAT-WEB-5,HFSNE121-037186,User Acceptance Testing Stage 4,STU4,,172.26.124.15,stu4.kyshop.ky.gov,205.204.197.185,,,,
+User Acceptance Testing,UAT-WEB-5,HFSNE121-037186,User Acceptance Testing Stage 4,STU4,,172.26.124.16,stu4.kyshopping.ky.gov,205.204.197.186,,,,
+User Acceptance Testing,UAT-WEB-5,HFSNE121-037186,User Acceptance Testing Stage 4,STU4,,172.26.124.17,stu4.kyplans.ky.gov,205.204.197.187,,,,
+User Acceptance Testing,UAT-WEB-5,HFSNE121-037186,User Acceptance Testing Stage 4,STU4,,172.26.124.18,stu4.form1095.ky.gov,205.204.197.188,,,,
+User Acceptance Testing,UAT-WEB-6,HFSNE121-037187,WEBAPI,PERF,,172.26.129.251,perf.webapi.kynect.ky.gov,,,,,Yes
+User Acceptance Testing,UAT-WEB-6,HFSNE121-037187,Performance Testing  ,PERF,,172.26.128.175,perf.kyenroll.ky.gov,,,,,Yes
+User Acceptance Testing,UAT-WEB-6,HFSNE121-037187,Performance Testing  ,PRFS,,172.26.128.220,perf.kywaiver.chfsinet.ky.gov,,,,,Yes
+User Acceptance Testing,UAT-WEB-6,HFSNE121-037187,Performance Testing  ,PERF,,172.26.129.116,perf.kyissuer.ky.gov,,,,,No
+User Acceptance Testing,UAT-WEB-6,HFSNE121-037187,Performance Testing  ,PERF,,172.26.126.89,perf.kyshop.chfsinet.ky.gov,,,,,No
+User Acceptance Testing,UAT-WEB-6,HFSNE121-037187,Performance Testing  ,PERF,,172.26.126.90,perf.kyshopping.chfsinet.ky.gov,,,,,No
+User Acceptance Testing,UAT-WEB-6,HFSNE121-037187,Performance Testing  ,PERF,,172.26.126.91,perf.kyplans.chfsinet.ky.gov,,,,,Yes
+User Acceptance Testing,UAT-WEB-6,HFSNE121-037187,User Acceptance Testing 3,UAT3,,172.26.126.138,uat3.kyissuer.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-6,HFSNE121-037187,User Acceptance Testing 4,UAT4,,172.26.126.139,uat4.kyissuer.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-6,HFSNE121-037187,Performance Testing 2,PERF2,,172.26.126.195,perf2.kynect.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-6,HFSNE121-037187,Performance Testing,PERF,,172.26.127.79,perf.kyagent.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-6,HFSNE121-037187,Performance Testing,PERF,,172.26.127.98,perf.webapi.kyshop.chfsinet.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-6,HFSNE121-037187,Performance Testing,PERF,,172.26.127.99,perf.webapi.kyshopping.chfsinet.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-6,HFSNE121-037187,Performance Testing,PERF,,172.26.127.100,perf.webapi.kyplans.chfsinet.ky.gov,,,,,No
+User Acceptance Testing,UAT-WEB-6,HFSNE121-037187,Performance Testing,PERF,,172.26.129.214,perf.form1095.chfsinet.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-6,HFSNE121-037187,User Acceptance Testing Stage 3,STU3,,172.26.127.234,stu3.kynect.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-6,HFSNE121-037187,User Acceptance Testing Stage 3,STU3,,172.26.127.235,stu3.kywaiver.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-6,HFSNE121-037187,User Acceptance Testing Stage 3,STU3,,172.26.127.236,stu3.kyagent.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-6,HFSNE121-037187,User Acceptance Testing Stage 3,STU3,,172.26.127.237,stu3.kyissuer.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-6,HFSNE121-037187,User Acceptance Testing Stage 3,STU3,,172.26.127.238,stu3.kyshop.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-6,HFSNE121-037187,User Acceptance Testing Stage 3,STU3,,172.26.127.239,stu3.kyshopping.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-6,HFSNE121-037187,User Acceptance Testing Stage 3,STU3,,172.26.127.240,stu3.kyplans.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-6,HFSNE121-037187,User Acceptance Testing Stage 3,STU3,,172.26.127.241,stu3.form1095.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-6,HFSNE121-037187,User Acceptance Testing Stage 4,STU4,,172.26.124.19,stu4.kynect.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-6,HFSNE121-037187,User Acceptance Testing Stage 4,STU4,,172.26.124.20,stu4.kywaiver.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-6,HFSNE121-037187,User Acceptance Testing Stage 4,STU4,,172.26.124.21,stu4.kyagent.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-6,HFSNE121-037187,User Acceptance Testing Stage 4,STU4,,172.26.124.22,stu4.kyissuer.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-6,HFSNE121-037187,User Acceptance Testing Stage 4,STU4,,172.26.124.23,stu4.kyshop.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-6,HFSNE121-037187,User Acceptance Testing Stage 4,STU4,,172.26.124.24,stu4.kyshopping.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-6,HFSNE121-037187,User Acceptance Testing Stage 4,STU4,,172.26.124.25,stu4.kyplans.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-6,HFSNE121-037187,User Acceptance Testing Stage 4,STU4,,172.26.124.26,stu4.form1095.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-7,HFSNE121-037383,Performance Testing,PERF,,172.26.127.195,perf.kyenroll.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-7,HFSNE121-037383,Performance Testing,PERF,,172.26.126.204,perf.webapi.kynect.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-7,HFSNE121-037383,Performance Testing,PERF,,172.26.126.205,perf.kywaiver.chfsinet.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-7,HFSNE121-037383,Performance Testing,PERF,,172.26.126.206,perf.kyissuer.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-7,HFSNE121-037383,Performance Testing,PERF,,172.26.126.207,perf.kyshop.chfsinet.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-7,HFSNE121-037383,Performance Testing,PERF,,172.26.126.208,perf.kyshopping.chfsinet.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-7,HFSNE121-037383,Performance Testing,PERF,,172.26.126.209,perf.kyplans.chfsinet.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-7,HFSNE121-037383,Performance Testing,PERF,,172.26.126.210,perf.kyagent.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-7,HFSNE121-037383,Performance Testing,PERF,,172.26.126.77,perf.webapi.kyshop.chfsinet.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-7,HFSNE121-037383,Performance Testing,PERF,,172.26.126.78,perf.webapi.kyshopping.chfsinet.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-7,HFSNE121-037383,Performance Testing,PERF,,172.26.126.79,perf.webapi.kyplans.chfsinet.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-7,HFSNE121-037383,User Acceptance Testing Stage 2,STU3,,172.26.127.242,stu3.kynect.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-7,HFSNE121-037383,User Acceptance Testing Stage 2,STU3,,172.26.127.243,stu3.kywaiver.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-7,HFSNE121-037383,User Acceptance Testing Stage 2,STU3,,172.26.127.250,stu3.kyagent.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-7,HFSNE121-037383,User Acceptance Testing Stage 2,STU3,,172.26.127.251,stu3.kyissuer.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-7,HFSNE121-037383,User Acceptance Testing Stage 2,STU3,,172.26.127.252,stu3.kyshop.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-7,HFSNE121-037383,User Acceptance Testing Stage 2,STU3,,172.26.127.253,stu3.kyshopping.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-7,HFSNE121-037383,User Acceptance Testing Stage 2,STU3,,172.26.127.254,stu3.kyplans.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-7,HFSNE121-037383,User Acceptance Testing Stage 2,STU3,,172.26.128.124,stu3.form1095.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-7,HFSNE121-037383,User Acceptance Testing Stage 4,STU4,,172.26.124.27,stu4.kynect.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-7,HFSNE121-037383,User Acceptance Testing Stage 4,STU4,,172.26.124.28,stu4.kywaiver.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-7,HFSNE121-037383,User Acceptance Testing Stage 4,STU4,,172.26.124.29,stu4.kyagent.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-7,HFSNE121-037383,User Acceptance Testing Stage 4,STU4,,172.26.124.30,stu4.kyissuer.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-7,HFSNE121-037383,User Acceptance Testing Stage 4,STU4,,172.26.124.31,stu4.kyshop.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-7,HFSNE121-037383,User Acceptance Testing Stage 4,STU4,,172.26.124.32,stu4.kyshopping.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-7,HFSNE121-037383,User Acceptance Testing Stage 4,STU4,,172.26.124.33,stu4.kyplans.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-7,HFSNE121-037383,User Acceptance Testing Stage 4,STU4,,172.26.124.34,stu4.form1095.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-8,HFSNE121-037384,Performance Testing,PERF,,172.26.127.196,perf.kyenroll.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-8,HFSNE121-037384,Performance Testing,PERF,,172.26.126.211,perf.webapi.kynect.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-8,HFSNE121-037384,Performance Testing,PERF,,172.26.126.212,perf.kywaiver.chfsinet.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-8,HFSNE121-037384,Performance Testing,PERF,,172.26.127.211,perf.kyissuer.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-8,HFSNE121-037384,Performance Testing,PERF,,172.26.127.212,perf.kyshop.chfsinet.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-8,HFSNE121-037384,Performance Testing,PERF,,172.26.127.213,perf.kyshopping.chfsinet.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-8,HFSNE121-037384,Performance Testing,PERF,,172.26.127.214,perf.kyplans.chfsinet.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-8,HFSNE121-037384,Performance Testing,PERF,,172.26.127.215,perf.kyagent.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-8,HFSNE121-037384,Performance Testing,PERF,,172.26.126.80,perf.webapi.kyshop.chfsinet.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-8,HFSNE121-037384,Performance Testing,PERF,,172.26.126.81,perf.webapi.kyshopping.chfsinet.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-8,HFSNE121-037384,Performance Testing,PERF,,172.26.126.82,perf.webapi.kyplans.chfsinet.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-8,HFSNE121-037384,User Acceptance Testing Stage 2,STU3,,172.26.128.126,stu3.kynect.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-8,HFSNE121-037384,User Acceptance Testing Stage 2,STU3,,172.26.128.168,stu3.kywaiver.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-8,HFSNE121-037384,User Acceptance Testing Stage 2,STU3,,172.26.128.169,stu3.kyagent.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-8,HFSNE121-037384,User Acceptance Testing Stage 2,STU3,,172.26.128.170,stu3.kyissuer.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-8,HFSNE121-037384,User Acceptance Testing Stage 2,STU3,,172.26.128.172,stu3.kyshop.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-8,HFSNE121-037384,User Acceptance Testing Stage 2,STU3,,172.26.128.173,stu3.kyshopping.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-8,HFSNE121-037384,User Acceptance Testing Stage 2,STU3,,172.26.128.174,stu3.kyplans.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-8,HFSNE121-037384,User Acceptance Testing Stage 2,STU3,,172.26.128.213,stu3.form1095.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-8,HFSNE121-037384,User Acceptance Testing Stage 4,STU4,,172.26.124.35,stu4.kynect.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-8,HFSNE121-037384,User Acceptance Testing Stage 4,STU4,,172.26.124.36,stu4.kywaiver.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-8,HFSNE121-037384,User Acceptance Testing Stage 4,STU4,,172.26.124.37,stu4.kyagent.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-8,HFSNE121-037384,User Acceptance Testing Stage 4,STU4,,172.26.124.38,stu4.kyissuer.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-8,HFSNE121-037384,User Acceptance Testing Stage 4,STU4,,172.26.124.39,stu4.kyshop.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-8,HFSNE121-037384,User Acceptance Testing Stage 4,STU4,,172.26.124.40,stu4.kyshopping.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-8,HFSNE121-037384,User Acceptance Testing Stage 4,STU4,,172.26.124.41,stu4.kyplans.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-8,HFSNE121-037384,User Acceptance Testing Stage 4,STU4,,172.26.124.42,stu4.form1095.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-9,HFSNE121-037624,User Acceptance Testing Stage 1,STU1,,172.26.127.249,stu1.workflow.chfsinet.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-10,HFSNE121-037641,User Acceptance Testing Stage 3,STU3,,172.26.128.229,stu3.workflow.chfsinet.ky.gov,,,,,
+User Acceptance Testing,UAT-WEB-11,HFSNE121-037642,User Acceptance Testing Stage 4,STU4,,172.26.128.230,stu4.workflow.chfsinet.ky.gov,,,,,
+User Acceptance Testing,UAT-APP-1,HFSNE121-037064,User Acceptance Testing Stage 1,STU1,,172.26.129.58,stu1.kyserve.chfsinet.ky.gov,172.26.28.98,,,,No
+User Acceptance Testing,UAT-APP-1,HFSNE121-037064,User Acceptance Testing 1,UAT1,,172.26.129.61,uat1.kyserve.chfsinet.ky.gov,172.26.28.101,,,,No
+User Acceptance Testing,UAT-APP-1,HFSNE121-037064,User Acceptance Testing 2,UAT2,,172.26.129.62,uat2.kyserve.chfsinet.ky.gov,172.26.28.102,,,,No
+User Acceptance Testing,UAT-APP-1,HFSNE121-037064,User Acceptance Testing 3,UAT3,,172.26.129.63,uat3.kyserve.chfsinet.ky.gov,172.26.28.103,,,,No
+User Acceptance Testing,UAT-APP-1,HFSNE121-037064,User Acceptance Testing 4,UAT4,,172.26.128.233,uat4.kyserve.chfsinet.ky.gov,172.26.128.239,,,,No
+User Acceptance Testing,UAT-APP-1,HFSNE121-037064,Performance Testing  ,PERF,,172.26.129.65,perf.kyserve.chfsinet.ky.gov,172.26.28.105,,,,
+User Acceptance Testing,UAT-APP-1,HFSNE121-037064,Performance Testing 2,PERF2,,172.26.129.15,perf2.kyserve.chfsinet.ky.gov,172.26.129.115,,,,
+User Acceptance Testing,UAT-APP-1,HFSNE121-037064,User Acceptance Testing 2,UAT2,,172.26.127.192,stu2.kyserve.chfsinet.ky.gov,172.26.127.191,,,,
+User Acceptance Testing,UAT-APP-2,HFSNE121-037065,User Acceptance Testing Stage 1,STU1,,172.26.129.66,stu1.kyserve.chfsinet.ky.gov,,,,,No
+User Acceptance Testing,UAT-APP-2,HFSNE121-037065,User Acceptance Testing 1,UAT1,,172.26.129.69,uat1.kyserve.chfsinet.ky.gov,,,,,No
+User Acceptance Testing,UAT-APP-2,HFSNE121-037065,User Acceptance Testing 2,UAT2,,172.26.129.70,uat2.kyserve.chfsinet.ky.gov,,,,,No
+User Acceptance Testing,UAT-APP-2,HFSNE121-037065,User Acceptance Testing 3,UAT3,,172.26.129.71,uat3.kyserve.chfsinet.ky.gov,,,,,No
+User Acceptance Testing,UAT-APP-2,HFSNE121-037065,User Acceptance Testing 4,UAT4,,172.26.128.234,uat4.kyserve.chfsinet.ky.gov,,,,,No
+User Acceptance Testing,UAT-APP-2,HFSNE121-037065,Performance Testing  ,PERF,,172.26.129.73,perf.kyserve.chfsinet.ky.gov,,,,,
+User Acceptance Testing,UAT-APP-2,HFSNE121-037065,Performance Testing 2,PERF2,,172.26.129.16,perf2.kyserve.chfsinet.ky.gov,,,,,
+User Acceptance Testing,UAT-APP-2,HFSNE121-037065,User Acceptance Testing 2,UAT2,,172.26.127.193,stu2.kyserve.chfsinet.ky.gov,,,,,
+User Acceptance Testing,UAT-APP-3,HFSNE121-037066,User Acceptance Testing Stage 1,STU1,,172.26.129.74,stu1.kyserve.chfsinet.ky.gov,,,,,No
+User Acceptance Testing,UAT-APP-3,HFSNE121-037066,User Acceptance Testing 1,UAT1,,172.26.129.77,uat1.kyserve.chfsinet.ky.gov,,,,,No
+User Acceptance Testing,UAT-APP-3,HFSNE121-037066,User Acceptance Testing 2,UAT2,,172.26.129.78,uat2.kyserve.chfsinet.ky.gov,,,,,No
+User Acceptance Testing,UAT-APP-3,HFSNE121-037066,User Acceptance Testing 3,UAT3,,172.26.129.79,uat3.kyserve.chfsinet.ky.gov,,,,,No
+User Acceptance Testing,UAT-APP-3,HFSNE121-037066,User Acceptance Testing 4,UAT4,,172.26.128.235,uat4.kyserve.chfsinet.ky.gov,,,,,No
+User Acceptance Testing,UAT-APP-3,HFSNE121-037066,Performance Testing  ,PERF,,172.26.129.81,perf.kyserve.chfsinet.ky.gov,,,,,
+User Acceptance Testing,UAT-APP-3,HFSNE121-037066,Performance Testing 2,PERF2,,172.26.129.17,perf2.kyserve.chfsinet.ky.gov,,,,,
+User Acceptance Testing,UAT-APP-3,HFSNE121-037066,User Acceptance Testing 2,UAT2,,172.26.127.194,stu2.kyserve.chfsinet.ky.gov,,,,,
+User Acceptance Testing,UAT-APP-4,HFSNE121-037067,User Acceptance Testing Stage 1,STU1,,172.26.129.82,stu1.kyserve.chfsinet.ky.gov,,,,,No
+User Acceptance Testing,UAT-APP-4,HFSNE121-037067,User Acceptance Testing 1,UAT1,,172.26.129.85,uat1.kyserve.chfsinet.ky.gov,,,,,No
+User Acceptance Testing,UAT-APP-4,HFSNE121-037067,User Acceptance Testing 2,UAT2,,172.26.129.86,uat2.kyserve.chfsinet.ky.gov,,,,,No
+User Acceptance Testing,UAT-APP-4,HFSNE121-037067,User Acceptance Testing 3,UAT3,,172.26.129.87,uat3.kyserve.chfsinet.ky.gov,,,,,No
+User Acceptance Testing,UAT-APP-4,HFSNE121-037067,User Acceptance Testing 4,UAT4,,172.26.128.236,uat4.kyserve.chfsinet.ky.gov,,,,,No
+User Acceptance Testing,UAT-APP-4,HFSNE121-037067,Performance Testing  ,PERF,,172.26.129.89,perf.kyserve.chfsinet.ky.gov,,,,,
+User Acceptance Testing,UAT-APP-4,HFSNE121-037067,Performance Testing 2,PERF2,,172.26.129.18,perf2.kyserve.chfsinet.ky.gov,,,,,
+User Acceptance Testing,UAT-APP-5,HFSNE121-037068,User Acceptance Testing Stage 1,STU1,,172.26.129.90,stu1.kyserve.chfsinet.ky.gov,,,,,No
+User Acceptance Testing,UAT-APP-5,HFSNE121-037068,User Acceptance Testing 1,UAT1,,172.26.129.93,uat1.kyserve.chfsinet.ky.gov,,,,,No
+User Acceptance Testing,UAT-APP-5,HFSNE121-037068,User Acceptance Testing 2,UAT2,,172.26.129.94,uat2.kyserve.chfsinet.ky.gov,,,,,No
+User Acceptance Testing,UAT-APP-5,HFSNE121-037068,User Acceptance Testing 3,UAT3,,172.26.129.95,uat3.kyserve.chfsinet.ky.gov,,,,,No
+User Acceptance Testing,UAT-APP-5,HFSNE121-037068,User Acceptance Testing 4,UAT4,,172.26.128.237,uat4.kyserve.chfsinet.ky.gov,,,,,No
+User Acceptance Testing,UAT-APP-5,HFSNE121-037068,Performance Testing  ,PERF,,172.26.129.97,perf.kyserve.chfsinet.ky.gov,,,,,
+User Acceptance Testing,UAT-APP-5,HFSNE121-037068,Performance Testing 2,PERF2,,172.26.129.19,perf2.kyserve.chfsinet.ky.gov,,,,,
+User Acceptance Testing,UAT-APP-5,HFSNE121-037068,User Acceptance Testing Stage 3,STU3,,172.26.128.214,stu3.kyserve.chfsinet.ky.gov,172.26.128.219,,,,
+User Acceptance Testing,UAT-APP-5,HFSNE121-037068,User Acceptance Testing Stage 4,STU4,,172.26.124.44,stu4.kyserve.chfsinet.ky.gov,172.26.124.43,,,,
+User Acceptance Testing,UAT-APP-6,HFSNE121-037069,User Acceptance Testing Stage 1,STU1,,172.26.129.98,stu1.kyserve.chfsinet.ky.gov,,,,,No
+User Acceptance Testing,UAT-APP-6,HFSNE121-037069,User Acceptance Testing 1,UAT1,,172.26.129.101,uat1.kyserve.chfsinet.ky.gov,,,,,No
+User Acceptance Testing,UAT-APP-6,HFSNE121-037069,User Acceptance Testing 2,UAT2,,172.26.129.102,uat2.kyserve.chfsinet.ky.gov,,,,,No
+User Acceptance Testing,UAT-APP-6,HFSNE121-037069,User Acceptance Testing 3,UAT3,,172.26.129.103,uat3.kyserve.chfsinet.ky.gov,,,,,No
+User Acceptance Testing,UAT-APP-6,HFSNE121-037069,User Acceptance Testing 4,UAT4,,172.26.128.238,uat4.kyserve.chfsinet.ky.gov,,,,,No
+User Acceptance Testing,UAT-APP-6,HFSNE121-037069,Performance Testing  ,PERF,,172.26.129.105,perf.kyserve.chfsinet.ky.gov,,,,,
+User Acceptance Testing,UAT-APP-6,HFSNE121-037069,Performance Testing 2,PERF2,,172.26.129.20,perf2.kyserve.chfsinet.ky.gov,,,,,
+User Acceptance Testing,UAT-APP-6,HFSNE121-037069,User Acceptance Testing Stage 3,STU3,,172.26.128.215,stu3.kyserve.chfsinet.ky.gov,,,,,
+User Acceptance Testing,UAT-APP-6,HFSNE121-037069,User Acceptance Testing Stage 4,STU4,,172.26.124.45,stu4.kyserve.chfsinet.ky.gov,,,,,
+User Acceptance Testing,UAT-APP-7,HFSNE121-037228,User Acceptance Testing Stage 1,STU1,,172.26.130.176,stu1.kyserve.chfsinet.ky.gov,,,,,No
+User Acceptance Testing,UAT-APP-7,HFSNE121-037228,User Acceptance Testing 1,UAT1,,172.26.130.179,uat1.kyserve.chfsinet.ky.gov,,,,,No
+User Acceptance Testing,UAT-APP-7,HFSNE121-037228,User Acceptance Testing 2,UAT2,,172.26.130.180,uat2.kyserve.chfsinet.ky.gov,,,,,No
+User Acceptance Testing,UAT-APP-7,HFSNE121-037228,User Acceptance Testing 3,UAT3,,172.26.130.181,uat3.kyserve.chfsinet.ky.gov,,,,,No
+User Acceptance Testing,UAT-APP-7,HFSNE121-037228,User Acceptance Testing 4,UAT4,,172.26.130.182,uat4.kyserve.chfsinet.ky.gov,,,,,No
+User Acceptance Testing,UAT-APP-7,HFSNE121-037228,Performance Testing  ,PERF,,172.26.130.184,perf.kyserve.chfsinet.ky.gov,,,,,
+User Acceptance Testing,UAT-APP-7,HFSNE121-037228,Performance Testing 2,PERF2,,172.26.130.175,perf2.kyserve.chfsinet.ky.gov,,,,,
+User Acceptance Testing,UAT-APP-7,HFSNE121-037228,User Acceptance Testing Stage 3,STU3,,172.26.128.217,stu3.kyserve.chfsinet.ky.gov,,,,,
+User Acceptance Testing,UAT-APP-7,HFSNE121-037228,User Acceptance Testing Stage 4,STU4,,172.26.124.46,stu4.kyserve.chfsinet.ky.gov,,,,,
+User Acceptance Testing,UAT-APP-8,HFSNE121-037229,User Acceptance Testing Stage 1,STU1,,172.26.130.186,stu1.kyserve.chfsinet.ky.gov,,,,,No
+User Acceptance Testing,UAT-APP-8,HFSNE121-037229,User Acceptance Testing 1,UAT1,,172.26.130.189,uat1.kyserve.chfsinet.ky.gov,,,,,No
+User Acceptance Testing,UAT-APP-8,HFSNE121-037229,User Acceptance Testing 2,UAT2,,172.26.130.190,uat2.kyserve.chfsinet.ky.gov,,,,,No
+User Acceptance Testing,UAT-APP-8,HFSNE121-037229,User Acceptance Testing 3,UAT3,,172.26.130.191,uat3.kyserve.chfsinet.ky.gov,,,,,No
+User Acceptance Testing,UAT-APP-8,HFSNE121-037229,User Acceptance Testing 4,UAT4,,172.26.130.192,uat4.kyserve.chfsinet.ky.gov,,,,,No
+User Acceptance Testing,UAT-APP-8,HFSNE121-037229,Performance Testing  ,PERF,,172.26.130.194,perf.kyserve.chfsinet.ky.gov,,,,,
+User Acceptance Testing,UAT-APP-8,HFSNE121-037229,Performance Testing 2,PERF2,,172.26.130.185,perf2.kyserve.chfsinet.ky.gov,,,,,
+User Acceptance Testing,UAT-APP-8,HFSNE121-037229,User Acceptance Testing Stage 3,STU3,,172.26.128.218,stu3.kyserve.chfsinet.ky.gov,,,,,
+User Acceptance Testing,UAT-APP-8,HFSNE121-037229,User Acceptance Testing Stage 4,STU4,,172.26.124.47,stu4.kyserve.chfsinet.ky.gov,,,,,
+User Acceptance Testing,UAT-APP-9,HFSNE121-037237,User Acceptance Testing Stage 1,STU1,,172.26.129.67,stu1.kyserve.chfsinet.ky.gov,,,,,No
+User Acceptance Testing,UAT-APP-9,HFSNE121-037237,User Acceptance Testing 1,UAT1,,172.26.129.75,uat1.kyserve.chfsinet.ky.gov,,,,,No
+User Acceptance Testing,UAT-APP-9,HFSNE121-037237,User Acceptance Testing 2,UAT2,,172.26.129.83,uat2.kyserve.chfsinet.ky.gov,,,,,No
+User Acceptance Testing,UAT-APP-9,HFSNE121-037237,User Acceptance Testing 3,UAT3,,172.26.129.91,uat3.kyserve.chfsinet.ky.gov,,,,,No
+User Acceptance Testing,UAT-APP-9,HFSNE121-037237,User Acceptance Testing 4,UAT4,,172.26.129.99,uat4.kyserve.chfsinet.ky.gov,,,,,No
+User Acceptance Testing,UAT-APP-9,HFSNE121-037237,Performance Testing  ,PERF,,172.26.129.160,perf.kyserve.chfsinet.ky.gov,,,,,
+User Acceptance Testing,UAT-APP-9,HFSNE121-037237,Performance Testing 2,PERF2,,172.26.129.59,perf2.kyserve.chfsinet.ky.gov,,,,,
+User Acceptance Testing,UAT-APP-10,HFSNE121-037238,User Acceptance Testing Stage 1,STU1,,172.26.129.168,stu1.kyserve.chfsinet.ky.gov,,,,,No
+User Acceptance Testing,UAT-APP-10,HFSNE121-037238,User Acceptance Testing 1,UAT1,,172.26.129.169,uat1.kyserve.chfsinet.ky.gov,,,,,No
+User Acceptance Testing,UAT-APP-10,HFSNE121-037238,User Acceptance Testing 2,UAT2,,172.26.129.176,uat2.kyserve.chfsinet.ky.gov,,,,,No
+User Acceptance Testing,UAT-APP-10,HFSNE121-037238,User Acceptance Testing 3,UAT3,,172.26.129.177,uat3.kyserve.chfsinet.ky.gov,,,,,No
+User Acceptance Testing,UAT-APP-10,HFSNE121-037238,User Acceptance Testing 4,UAT4,,172.26.129.27,uat4.kyserve.chfsinet.ky.gov,,,,,No
+User Acceptance Testing,UAT-APP-10,HFSNE121-037238,Performance Testing  ,PERF,,172.26.129.35,perf.kyserve.chfsinet.ky.gov,,,,,
+User Acceptance Testing,UAT-APP-10,HFSNE121-037238,Performance Testing 2,PERF2,,172.26.129.161,perf2.kyserve.chfsinet.ky.gov,,,,,
+User Acceptance Testing,UAT-APP-11,HFSNE121-037338,User Acceptance Testing Stage 1,STU1,,172.26.127.131,stu1.kyserve.chfsinet.ky.gov,,,,,
+User Acceptance Testing,UAT-APP-11,HFSNE121-037338,User Acceptance Testing 1,UAT1,,172.26.127.138,uat1.kyserve.chfsinet.ky.gov,,,,,
+User Acceptance Testing,UAT-APP-11,HFSNE121-037338,User Acceptance Testing 2,UAT2,,172.26.127.139,uat2.kyserve.chfsinet.ky.gov,,,,,
+User Acceptance Testing,UAT-APP-11,HFSNE121-037338,User Acceptance Testing 3,UAT3,,172.26.127.140,uat3.kyserve.chfsinet.ky.gov,,,,,
+User Acceptance Testing,UAT-APP-11,HFSNE121-037338,User Acceptance Testing 4,UAT4,,172.26.127.141,uat4.kyserve.chfsinet.ky.gov,,,,,
+User Acceptance Testing,UAT-APP-11,HFSNE121-037338,Performance Testing  ,PERF,,172.26.127.142,perf.kyserve.chfsinet.ky.gov,,,,,
+User Acceptance Testing,UAT-APP-11,HFSNE121-037338,Performance Testing 2,PERF2,,172.26.127.143,perf2.kyserve.chfsinet.ky.gov,,,,,
+User Acceptance Testing,UAT-APP-12,HFSNE121-037339,User Acceptance Testing Stage 1,STU1,,172.26.127.132,stu1.kyserve.chfsinet.ky.gov,,,,,
+User Acceptance Testing,UAT-APP-12,HFSNE121-037339,User Acceptance Testing 1,UAT1,,172.26.127.144,uat1.kyserve.chfsinet.ky.gov,,,,,
+User Acceptance Testing,UAT-APP-12,HFSNE121-037339,User Acceptance Testing 2,UAT2,,172.26.127.145,uat2.kyserve.chfsinet.ky.gov,,,,,
+User Acceptance Testing,UAT-APP-12,HFSNE121-037339,User Acceptance Testing 3,UAT3,,172.26.127.146,uat3.kyserve.chfsinet.ky.gov,,,,,
+User Acceptance Testing,UAT-APP-12,HFSNE121-037339,User Acceptance Testing 4,UAT4,,172.26.127.147,uat4.kyserve.chfsinet.ky.gov,,,,,
+User Acceptance Testing,UAT-APP-12,HFSNE121-037339,Performance Testing  ,PERF,,172.26.127.148,perf.kyserve.chfsinet.ky.gov,,,,,
+User Acceptance Testing,UAT-APP-12,HFSNE121-037339,Performance Testing 2,PERF2,,172.26.127.149,perf2.kyserve.chfsinet.ky.gov,,,,,No
+User Acceptance Testing,UAT-APP-13,HFSNE121-037385,Performace Testing,PERF,,172.26.127.197,perf.kyserve.chfsinet.ky.gov,,,,,
+User Acceptance Testing,UAT-APP-14,HFSNE121-037386,Performace Testing,PERF,,172.26.127.198,perf.kyserve.chfsinet.ky.gov,,,,,
+User Acceptance Testing,UAT-APP-15,HFSNE121-037387,Performace Testing,PERF,,172.26.127.199,perf.kyserve.chfsinet.ky.gov,,,,,
+User Acceptance Testing,UAT-APP-16,HFSNE121-037388,Performace Testing,PERF,,172.26.127.200,perf.kyserve.chfsinet.ky.gov,,,,,
+User Acceptance Testing,UAT-APP-17,HFSNE121-037389,Performace Testing,PERF,,172.26.127.201,perf.kyserve.chfsinet.ky.gov,,,,,
+User Acceptance Testing,UAT-APP-18,HFSNE121-037390,Performace Testing,PERF,,172.26.127.202,perf.kyserve.chfsinet.ky.gov,,,,,
+User Acceptance Testing,UAT-APP-19,HFSNE121-037445,Performace Testing,PERF,,172.26.127.75,perf.kyserve.chfsinet.ky.gov,,,,,
+User Acceptance Testing,UAT-APP-20,HFSNE121-037446,Performace Testing,PERF,,172.26.127.76,perf.kyserve.chfsinet.ky.gov,,,,,
+User Acceptance Testing,UAT-APPFABRIC-Hosting-1,HFSNE121-037070,UAT AppFabric Hosting,UAFH,STU1,172.26.129.156,stu1.kyservices.chfsinet.ky.gov,172.26.129.175,,,,No
+User Acceptance Testing,UAT-APPFABRIC-Hosting-1,HFSNE121-037070,UAT AppFabric Hosting,UAFH,UAT1,172.26.129.162,uat1.kyservices.chfsinet.ky.gov,172.26.129.178,,,,No
+User Acceptance Testing,UAT-APPFABRIC-Hosting-1,HFSNE121-037070,UAT AppFabric Hosting,UAFH,UAT2,172.26.129.163,uat2.kyservices.chfsinet.ky.gov,172.26.129.179,,,,No
+User Acceptance Testing,UAT-APPFABRIC-Hosting-1,HFSNE121-037070,UAT AppFabric Hosting,UAFH,UAT3,172.26.129.164,uat3.kyservices.chfsinet.ky.gov,172.26.129.180,,,,No
+User Acceptance Testing,UAT-APPFABRIC-Hosting-1,HFSNE121-037070,UAT AppFabric Hosting,UAFH,UAT4,172.26.128.240,uat4.kyservices.chfsinet.ky.gov,172.26.128.242,,,,No
+User Acceptance Testing,UAT-APPFABRIC-Hosting-1,HFSNE121-037070,UAT AppFabric Hosting,UAFH,PERF,172.26.129.166,perf.kyservices.chfsinet.ky.gov,172.26.129.182,,,,No
+User Acceptance Testing,UAT-APPFABRIC-Hosting-1,HFSNE121-037070,UAT AppFabric Hosting,UAFH,UAT2,172.26.129.165,stu2.kyservices.chfsinet.ky.gov ,172.26.129.181,,,,
+User Acceptance Testing,UAT-APPFABRIC-Hosting-2,HFSNE121-037071,UAT AppFabric Hosting,UAFH,STU1,172.26.129.167,stu1.kyservices.chfsinet.ky.gov,,,,,No
+User Acceptance Testing,UAT-APPFABRIC-Hosting-2,HFSNE121-037071,UAT AppFabric Hosting,UAFH,UAT1,172.26.129.170,uat1.kyservices.chfsinet.ky.gov,,,,,No
+User Acceptance Testing,UAT-APPFABRIC-Hosting-2,HFSNE121-037071,UAT AppFabric Hosting,UAFH,UAT2,172.26.129.171,uat2.kyservices.chfsinet.ky.gov,,,,,No
+User Acceptance Testing,UAT-APPFABRIC-Hosting-2,HFSNE121-037071,UAT AppFabric Hosting,UAFH,UAT3,172.26.129.172,uat3.kyservices.chfsinet.ky.gov,,,,,No
+User Acceptance Testing,UAT-APPFABRIC-Hosting-2,HFSNE121-037071,UAT AppFabric Hosting,UAFH,UAT4,172.26.128.241,uat4.kyservices.chfsinet.ky.gov,,,,,No
+User Acceptance Testing,UAT-APPFABRIC-Hosting-2,HFSNE121-037071,UAT AppFabric Hosting,UAFH,PERF,172.26.129.174,perf.kyservices.chfsinet.ky.gov,,,,,No
+User Acceptance Testing,UAT-APPFABRIC-Hosting-2,HFSNE121-037071,UAT AppFabric Hosting,UAFH,UAT2,172.26.129.173,stu2.kyservices.chfsinet.ky.gov ,,,,,
+User Acceptance Testing,UAT-APPFABRIC-Hosting-3,HFSNE121-037188,UAT AppFabric Hosting,UAFH,PERF,172.26.129.215,perf.kyservices.chfsinet.ky.gov,,,,,
+User Acceptance Testing,UAT-APPFABRIC-Hosting-3,HFSNE121-037188,UAT AppFabric Hosting,UAFH,STU3,172.26.129.60,stu3.kyservices.chfsinet.ky.gov,172.26.129.250,,,,
+User Acceptance Testing,UAT-APPFABRIC-Hosting-3,HFSNE121-037188,UAT AppFabric Hosting,UAFH,STU4,172.26.124.49,stu4.kyservices.chfsinet.ky.gov,172.26.124.48,,,,
+User Acceptance Testing,UAT-APPFABRIC-Hosting-4,HFSNE121-037189,UAT AppFabric Hosting,UAFH,PERF,172.26.129.216,perf.kyservices.chfsinet.ky.gov,,,,,
+User Acceptance Testing,UAT-APPFABRIC-Hosting-4,HFSNE121-037189,UAT AppFabric Hosting,UAFH,STU3,172.26.129.68,stu3.kyservices.chfsinet.ky.gov,,,,,
+User Acceptance Testing,UAT-APPFABRIC-Hosting-4,HFSNE121-037189,UAT AppFabric Hosting,UAFH,STU4,172.26.124.50,stu4.kyservices.chfsinet.ky.gov,,,,,
+User Acceptance Testing,UAT-APPFABRIC-Caching-1,HFSNE121-037072,UAT AppFabric Caching,UAFC,,,,,,,,No
+User Acceptance Testing,UAT-APPFABRIC-Caching-2,HFSNE121-037092,UAT AppFabric Caching,UAFC,,,,,,,,No
+User Acceptance Testing,UAT-APPFABRIC-Caching-3,HFSNE121-037093,UAT AppFabric Caching,UAFC,,,,,,,,No
+User Acceptance Testing,UAT-BIZTALK-1,HFSSD121-03740,UAT BizTalk,UABT,,172.26.28.77,uabt.chfsinet.ky.gov,172.26.28.110,,,,No
+User Acceptance Testing,UAT-BIZTALK-2,HFSSD121-03741,UAT BizTalk,UABT,,172.26.28.91,uabt.chfsinet.ky.gov,172.26.28.110,,,,No
+User Acceptance Testing,UAT-BIZTALK-3,HFSSD121-03742,UAT BizTalk,UABT,,172.26.28.79,uabt.chfsinet.ky.gov,172.26.28.110,,,,No
+User Acceptance Testing,UAT-BIZTALK-4,HFSSD121-03743,UAT BizTalk,UABT,,172.26.28.80,uabt.chfsinet.ky.gov,172.26.28.110,,,,No
+User Acceptance Testing,UAT-BIZTALK-5,HFSSD121-03744,UAT BizTalk,UABT,,172.26.28.92,,,,,,No
+User Acceptance Testing,UAT-BIZTALK-6,HFSSD121-03745,UAT BizTalk,UABT,,172.26.28.82,,,,,,No
+User Acceptance Testing,UAT-BIZTALK-DB-1,HFSSD121-03780,UAT BizTalk SQL,,,,,,,,,
+User Acceptance Testing,UAT-BIZTALK-DB-1,HFSSD121-03781,UAT BizTalk SQL,,,,,,,,,
+User Acceptance Testing,UAT-FTP-1,0,,UAT,,,,,,,,No
+User Acceptance Testing,UAT-FTP-2,0,,UAT,,,,,,,,No
+User Acceptance Testing,UAT-BATCH-1,HFSNE121-037094,,UAT,,,,,,,,No
+User Acceptance Testing,UAT-BATCH-2,HFSNE121-037095,,UAT,,,,,,,,No
+User Acceptance Testing,UAT-BATCH-3,HFSNE121-037391,,,,,,,,,,
+User Acceptance Testing,UAT-BATCH-4,HFSNE121-037392,,,,,,,,,,
+User Acceptance Testing,UAT-FORMS-1,HFSNE121-037073,User Acceptance Testing Stage 1,STU1,,172.26.131.20,stu1.kyforms.chfsinet.ky.gov,172.26.131.52,,,,No
+User Acceptance Testing,UAT-FORMS-1,HFSNE121-037073,User Acceptance Testing Stage 2,STU2,,172.26.131.21,stu2.kyforms.chfsinet.ky.gov,172.26.131.53,,,,No
+User Acceptance Testing,UAT-FORMS-1,HFSNE121-037073,User Acceptance Testing Stage 3,STU3,,172.26.131.22,stu3.kyforms.chfsinet.ky.gov,172.26.131.54,,,,No
+User Acceptance Testing,UAT-FORMS-1,HFSNE121-037073,User Acceptance Testing Stage 4,STU4,,172.26.124.52,stu4.kyforms.chfsinet.ky.gov,172.26.124.51,,,,
+User Acceptance Testing,UAT-FORMS-1,HFSNE121-037073,User Acceptance Testing 1,UAT1,,172.26.131.23,uat1.kyforms.chfsinet.ky.gov,172.26.131.55,,,,No
+User Acceptance Testing,UAT-FORMS-1,HFSNE121-037073,User Acceptance Testing 2,UAT2,,172.26.131.24,uat2.kyforms.chfsinet.ky.gov,172.26.131.56,,,,No
+User Acceptance Testing,UAT-FORMS-1,HFSNE121-037073,User Acceptance Testing 3,UAT3,,172.26.131.25,uat3.kyforms.chfsinet.ky.gov,172.26.131.57,,,,No
+User Acceptance Testing,UAT-FORMS-1,HFSNE121-037073,User Acceptance Testing 4,UAT4,,172.26.131.106,uat4.kyforms.chfsinet.ky.gov,172.26.131.100,,,,No
+User Acceptance Testing,UAT-FORMS-1,HFSNE121-037073,Performance Testing Stage,PRFS,,172.26.131.26,prfs.kyforms.chfsinet.ky.gov,172.26.131.58,,,,No
+User Acceptance Testing,UAT-FORMS-1,HFSNE121-037073,Performance Testing  ,PERF,,172.26.131.27,perf.kyforms.chfsinet.ky.gov,172.26.131.59,,,,No
+User Acceptance Testing,UAT-FORMS-2,HFSNE121-037074,User Acceptance Testing Stage 1,STU1,,172.26.131.28,stu1.kyforms.chfsinet.ky.gov,,,,,No
+User Acceptance Testing,UAT-FORMS-2,HFSNE121-037074,User Acceptance Testing Stage 2,STU2,,172.26.131.29,stu2.kyforms.chfsinet.ky.gov,,,,,No
+User Acceptance Testing,UAT-FORMS-2,HFSNE121-037074,User Acceptance Testing Stage 3,STU3,,172.26.131.30,stu3.kyforms.chfsinet.ky.gov,,,,,No
+User Acceptance Testing,UAT-FORMS-2,HFSNE121-037074,User Acceptance Testing Stage 4,STU4,,172.26.124.53,stu4.kyforms.chfsinet.ky.gov,,,,,
+User Acceptance Testing,UAT-FORMS-2,HFSNE121-037074,User Acceptance Testing 1,UAT1,,172.26.131.31,uat1.kyforms.chfsinet.ky.gov,,,,,No
+User Acceptance Testing,UAT-FORMS-2,HFSNE121-037074,User Acceptance Testing 2,UAT2,,172.26.131.32,uat2.kyforms.chfsinet.ky.gov,,,,,No
+User Acceptance Testing,UAT-FORMS-2,HFSNE121-037074,User Acceptance Testing 3,UAT3,,172.26.131.33,uat3.kyforms.chfsinet.ky.gov,,,,,No
+User Acceptance Testing,UAT-FORMS-2,HFSNE121-037074,User Acceptance Testing 4,UAT4,,172.26.131.107,uat4.kyforms.chfsinet.ky.gov,,,,,No
+User Acceptance Testing,UAT-FORMS-2,HFSNE121-037074,Performance Testing Stage,PRFS,,172.26.131.34,prfs.kyforms.chfsinet.ky.gov,,,,,No
+User Acceptance Testing,UAT-FORMS-2,HFSNE121-037074,Performance Testing  ,PERF,,172.26.131.35,perf.kyforms.chfsinet.ky.gov,,,,,No
+User Acceptance Testing,UAT-FORMS-3,HFSNE121-037214,User Acceptance Testing Stage 1,STU1,,172.26.131.113,stu1.kyforms.chfsinet.ky.gov,,,,,No
+User Acceptance Testing,UAT-FORMS-3,HFSNE121-037214,User Acceptance Testing Stage 3,STU3,,172.26.131.241,stu3.kyforms.chfsinet.ky.gov,,,,,No
+User Acceptance Testing,UAT-FORMS-3,HFSNE121-037214,User Acceptance Testing Stage 4,STU4,,172.26.124.54,stu4.kyforms.chfsinet.ky.gov,,,,,
+User Acceptance Testing,UAT-FORMS-3,HFSNE121-037214,Performance Testing  ,PERF,,172.26.131.121,perf.kyforms.chfsinet.ky.gov,,,,,No
+User Acceptance Testing,UAT-FORMS-4,HFSNE121-037215,User Acceptance Testing Stage 1,STU1,,172.26.131.122,stu1.kyforms.chfsinet.ky.gov,,,,,No
+User Acceptance Testing,UAT-FORMS-4,HFSNE121-037215,User Acceptance Testing Stage 3,STU3,,172.26.131.242,stu3.kyforms.chfsinet.ky.gov,,,,,No
+User Acceptance Testing,UAT-FORMS-4,HFSNE121-037215,User Acceptance Testing Stage 4,STU4,,172.26.124.55,stu4.kyforms.chfsinet.ky.gov,,,,,
+User Acceptance Testing,UAT-FORMS-4,HFSNE121-037215,Performance Testing  ,PERF,,172.26.131.130,perf.kyforms.chfsinet.ky.gov,,,,,No
+User Acceptance Testing,UAT-REPORTING-WI-3,,,,,,,,,,,No
+User Acceptance Testing,UAT-REPORTING-WI-4,,,,,,,,,,,No
+User Acceptance Testing,UAT-WEB-REPORTING-1,,,,,,,,,,,No
+User Acceptance Testing,UAT-WEB-REPORTING-2,,,,,,,,,,,No
+User Acceptance Testing,UAT-RULES-1,HFSNE121-037075,User Acceptance Testing Stage 1,STU1,,172.26.131.36,stu1.kyrules.chfsinet.ky.gov,172.26.131.60,,,,No
+User Acceptance Testing,UAT-RULES-1,HFSNE121-037075,User Acceptance Testing Stage 2,STU2,,172.26.131.37,stu2.kyrules.chfsinet.ky.gov,172.26.131.61,,,,No
+User Acceptance Testing,UAT-RULES-1,HFSNE121-037075,User Acceptance Testing Stage 3,STU3,,172.26.131.38,stu3.kyrules.chfsinet.ky.gov,,,,,No
+User Acceptance Testing,UAT-RULES-1,HFSNE121-037075,User Acceptance Testing 1,UAT1,,172.26.131.39,uat1.kyrules.chfsinet.ky.gov,172.26.131.63,,,,No
+User Acceptance Testing,UAT-RULES-1,HFSNE121-037075,User Acceptance Testing 2,UAT2,,172.26.131.40,uat2.kyrules.chfsinet.ky.gov,172.26.131.64,,,,No
+User Acceptance Testing,UAT-RULES-1,HFSNE121-037075,User Acceptance Testing 3,UAT3,,172.26.131.41,uat3.kyrules.chfsinet.ky.gov,172.26.131.65,,,,No
+User Acceptance Testing,UAT-RULES-1,HFSNE121-037075,User Acceptance Testing 4,UAT4,,172.26.131.109,uat4.kyrules.chfsinet.ky.gov,172.26.131.108,,,,No
+User Acceptance Testing,UAT-RULES-1,HFSNE121-037075,Performance Testing Stage,PRFS,,172.26.131.42,prfs.kyrules.chfsinet.ky.gov,172.26.131.66,,,,No
+User Acceptance Testing,UAT-RULES-1,HFSNE121-037075,Performance Testing  ,PERF,,172.26.131.43,perf.kyrules.chfsinet.ky.gov,172.26.131.67,,,,No
+User Acceptance Testing,UAT-RULES-1,HFSNE121-037075,Conversion,CONV,,172.26.131.150,conv.kyrules.chfsinet.ky.gov,172.26.130.197,,,,
+User Acceptance Testing,UAT-RULES-2,HFSNE121-037076,User Acceptance Testing Stage 1,STU1,,172.26.131.44,stu1.kyrules.chfsinet.ky.gov,,,,,No
+User Acceptance Testing,UAT-RULES-2,HFSNE121-037076,User Acceptance Testing Stage 2,STU2,,172.26.131.45,stu2.kyrules.chfsinet.ky.gov,,,,,No
+User Acceptance Testing,UAT-RULES-2,HFSNE121-037076,User Acceptance Testing Stage 3,STU3,,172.26.131.46,stu3.kyrules.chfsinet.ky.gov,,,,,No
+User Acceptance Testing,UAT-RULES-2,HFSNE121-037076,User Acceptance Testing 1,UAT1,,172.26.131.47,uat1.kyrules.chfsinet.ky.gov,,,,,No
+User Acceptance Testing,UAT-RULES-2,HFSNE121-037076,User Acceptance Testing 2,UAT2,,172.26.131.48,uat2.kyrules.chfsinet.ky.gov,,,,,No
+User Acceptance Testing,UAT-RULES-2,HFSNE121-037076,User Acceptance Testing 3,UAT3,,172.26.131.49,uat3.kyrules.chfsinet.ky.gov,,,,,No
+User Acceptance Testing,UAT-RULES-2,HFSNE121-037076,User Acceptance Testing 4,UAT4,,172.26.131.110,uat4.kyrules.chfsinet.ky.gov,,,,,No
+User Acceptance Testing,UAT-RULES-2,HFSNE121-037076,Performance Testing Stage,PRFS,,172.26.131.50,prfs.kyrules.chfsinet.ky.gov,,,,,No
+User Acceptance Testing,UAT-RULES-2,HFSNE121-037076,Performance Testing  ,PERF,,172.26.131.51,perf.kyrules.chfsinet.ky.gov,,,,,No
+User Acceptance Testing,UAT-RULES-2,HFSNE121-037076,Conversion,CONV,,172.26.131.19,conv.kyrules.chfsinet.ky.gov,,,,,
+User Acceptance Testing,UAT-RULES-3,HFSNE121-037190,User Acceptance Testing Stage 1,STU1,,172.26.131.131,stu1.kyrules.chfsinet.ky.gov,,,,,No
+User Acceptance Testing,UAT-RULES-3,HFSNE121-037190,User Acceptance Testing Stage 2,STU2,,172.26.131.132,stu2.kyrules.chfsinet.ky.gov,,,,,No
+User Acceptance Testing,UAT-RULES-3,HFSNE121-037190,User Acceptance Testing Stage 3,STU3,,172.26.131.133,stu3.kyrules.chfsinet.ky.gov,,,,,No
+User Acceptance Testing,UAT-RULES-3,HFSNE121-037190,User Acceptance Testing 1,UAT1,,172.26.131.134,uat1.kyrules.chfsinet.ky.gov,,,,,No
+User Acceptance Testing,UAT-RULES-3,HFSNE121-037190,User Acceptance Testing 2,UAT2,,172.26.131.135,uat2.kyrules.chfsinet.ky.gov,,,,,No
+User Acceptance Testing,UAT-RULES-3,HFSNE121-037190,User Acceptance Testing 3,UAT3,,172.26.131.136,uat3.kyrules.chfsinet.ky.gov,,,,,No
+User Acceptance Testing,UAT-RULES-3,HFSNE121-037190,User Acceptance Testing 4,UAT4,,172.26.131.111,uat4.kyrules.chfsinet.ky.gov,,,,,No
+User Acceptance Testing,UAT-RULES-3,HFSNE121-037190,Performance Testing Stage,PRFS,,172.26.131.137,prfs.kyrules.chfsinet.ky.gov,,,,,No
+User Acceptance Testing,UAT-RULES-3,HFSNE121-037190,Performance Testing  ,PERF,,172.26.131.138,perf.kyrules.chfsinet.ky.gov,,,,,No
+User Acceptance Testing,UAT-RULES-3,HFSNE121-037190,Conversion,CONV,,172.26.131.103,conv.kyrules.chfsinet.ky.gov,,,,,
+User Acceptance Testing,UAT-RULES-4,HFSNE121-037191,User Acceptance Testing Stage 1,STU1,,172.26.131.139,stu1.kyrules.chfsinet.ky.gov,,,,,No
+User Acceptance Testing,UAT-RULES-4,HFSNE121-037191,User Acceptance Testing Stage 2,STU2,,172.26.131.140,stu2.kyrules.chfsinet.ky.gov,,,,,No
+User Acceptance Testing,UAT-RULES-4,HFSNE121-037191,User Acceptance Testing Stage 3,STU3,,172.26.131.141,stu3.kyrules.chfsinet.ky.gov,,,,,No
+User Acceptance Testing,UAT-RULES-4,HFSNE121-037191,User Acceptance Testing 1,UAT1,,172.26.131.142,uat1.kyrules.chfsinet.ky.gov,,,,,No
+User Acceptance Testing,UAT-RULES-4,HFSNE121-037191,User Acceptance Testing 2,UAT2,,172.26.131.143,uat2.kyrules.chfsinet.ky.gov,,,,,No
+User Acceptance Testing,UAT-RULES-4,HFSNE121-037191,User Acceptance Testing 3,UAT3,,172.26.131.144,uat3.kyrules.chfsinet.ky.gov,,,,,No
+User Acceptance Testing,UAT-RULES-4,HFSNE121-037191,User Acceptance Testing 4,UAT4,,172.26.131.112,uat4.kyrules.chfsinet.ky.gov,,,,,No
+User Acceptance Testing,UAT-RULES-4,HFSNE121-037191,Performance Testing Stage,PRFS,,172.26.131.145,prfs.kyrules.chfsinet.ky.gov,,,,,No
+User Acceptance Testing,UAT-RULES-4,HFSNE121-037191,Performance Testing  ,PERF,,172.26.131.146,perf.kyrules.chfsinet.ky.gov,,,,,No
+User Acceptance Testing,UAT-RULES-4,HFSNE121-037191,Conversion,CONV,,172.26.131.104,conv.kyrules.chfsinet.ky.gov,,,,,
+User Acceptance Testing,UAT-RULES-5,HFSNE121-037152,Performance Testing,PERF,,172.26.131.84,perf.kyrules.chfsinet.ky.gov,,,,,
+User Acceptance Testing,UAT-RULES-5,HFSNE121-037152,Conversion,CONV,,172.26.131.151,conv.kyrules.chfsinet.ky.gov,,,,,
+User Acceptance Testing,UAT-RULES-5,HFSNE121-037152,User Acceptance Testing Stage 3,STU3,,172.26.131.237,stu3.kyrules.chfsinet.ky.gov,172.26.131.62,,,,
+User Acceptance Testing,UAT-RULES-5,HFSNE121-037152,User Acceptance Testing Stage 4,STU4,,172.26.124.57,stu4.kyrules.chfsinet.ky.gov,172.26.124.56,,,,
+User Acceptance Testing,UAT-RULES-6,HFSNE121-037153,Performance Testing,PERF,,172.26.131.85,perf.kyrules.chfsinet.ky.gov,,,,,
+User Acceptance Testing,UAT-RULES-6,HFSNE121-037153,Conversion,CONV,,172.26.131.152,conv.kyrules.chfsinet.ky.gov,,,,,
+User Acceptance Testing,UAT-RULES-6,HFSNE121-037153,User Acceptance Testing Stage 3,STU3,,172.26.131.238,stu3.kyrules.chfsinet.ky.gov,,,,,
+User Acceptance Testing,UAT-RULES-6,HFSNE121-037153,User Acceptance Testing Stage 4,STU4,,172.26.124.58,stu4.kyrules.chfsinet.ky.gov,,,,,
+User Acceptance Testing,UAT-RULES-7,HFSNE121-037319,Performance Testing,PERF,,172.26.130.225,perf.kyrules.chfsinet.ky.gov,,,,,
+User Acceptance Testing,UAT-RULES-7,HFSNE121-037319,Conversion,CONV,,172.26.130.214,conv.kyrules.chfsinet.ky.gov,,,,,
+User Acceptance Testing,UAT-RULES-7,HFSNE121-037319,User Acceptance Testing Stage 3,STU3,,172.26.131.239,stu3.kyrules.chfsinet.ky.gov,,,,,
+User Acceptance Testing,UAT-RULES-7,HFSNE121-037319,User Acceptance Testing Stage 4,STU4,,172.26.124.59,stu4.kyrules.chfsinet.ky.gov,,,,,
+User Acceptance Testing,UAT-RULES-8,HFSNE121-037320,Performance Testing,PERF,,172.26.130.226,perf.kyrules.chfsinet.ky.gov,,,,,
+User Acceptance Testing,UAT-RULES-8,HFSNE121-037320,Conversion,CONV,,172.26.130.215,conv.kyrules.chfsinet.ky.gov,,,,,
+User Acceptance Testing,UAT-RULES-8,HFSNE121-037320,User Acceptance Testing Stage 3,STU3,,172.26.131.240,stu3.kyrules.chfsinet.ky.gov,,,,,
+User Acceptance Testing,UAT-RULES-8,HFSNE121-037320,User Acceptance Testing Stage 4,STU4,,172.26.124.60,stu4.kyrules.chfsinet.ky.gov,,,,,
+User Acceptance Testing,UAT-RULES-9,HFSNE121-037331,Performance Testing,PERF,,172.26.130.227,perf.kyrules.chfsinet.ky.gov,,,,,
+User Acceptance Testing,UAT-RULES-9,HFSNE121-037331,Conversion,CONV,,172.26.130.224,conv.kyrules.chfsinet.ky.gov,,,,,
+User Acceptance Testing,UAT-RULES-10,HFSNE121-037321,Performance Testing,PERF,,172.26.130.228,perf.kyrules.chfsinet.ky.gov,,,,,
+User Acceptance Testing,UAT-RULES-10,HFSNE121-037321,Conversion,CONV,,172.26.130.216,conv.kyrules.chfsinet.ky.gov,,,,,
+User Acceptance Testing,UAT-RULES-11,HFSNE121-037330,Performance Testing,PERF,,172.26.130.223,perf.kyrules.chfsinet.ky.gov,,,,,
+User Acceptance Testing,UAT-RULES-11,HFSNE121-037330,Conversion,CONV,,172.26.130.198,conv.kyrules.chfsinet.ky.gov,,,,,
+User Acceptance Testing,UAT-RULES-12,HFSNE121-037329,Performance Testing,PERF,,172.26.130.222,perf.kyrules.chfsinet.ky.gov,,,,,
+User Acceptance Testing,UAT-RULES-12,HFSNE121-037329,Conversion,CONV,,172.26.130.199,conv.kyrules.chfsinet.ky.gov,,,,,
+User Acceptance Testing,UAT-RULES-13,HFSNE121-037328,Performance Testing,PERF,,172.26.130.221,perf.kyrules.chfsinet.ky.gov,,,,,
+User Acceptance Testing,UAT-RULES-13,HFSNE121-037328,Conversion,CONV,,172.26.130.200,conv.kyrules.chfsinet.ky.gov,,,,,
+User Acceptance Testing,UAT-RULES-14,HFSNE121-037327,Performance Testing,PERF,,172.26.130.220,perf.kyrules.chfsinet.ky.gov,,,,,
+User Acceptance Testing,UAT-RULES-14,HFSNE121-037327,Conversion,CONV,,172.26.130.201,conv.kyrules.chfsinet.ky.gov,,,,,
+User Acceptance Testing,UAT-SCOM,0,,UAT,,,,,,,,No
+User Acceptance Testing,UAT-MCI-WRAPPER-01,HFSNE121-037195,User Acceptance Testing,UAT,,172.26.129.223,uat.kymci.chfsinet.ky.gov,172.26.129.235,,,,
+User Acceptance Testing,UAT-MCI-WRAPPER-01,HFSNE121-037195,User Acceptance Testing,UAT,,172.26.130.239,uat.kyprovmci.chfsinet.ky.gov,172.26.130.238,,,,
+User Acceptance Testing,UAT-MCI-WRAPPER-02,HFSNE121-037196,User Acceptance Testing,UAT,,172.26.129.224,uat.kymci.chfsinet.ky.gov,,,,,
+User Acceptance Testing,UAT-MCI-WRAPPER-02,HFSNE121-037196,User Acceptance Testing,UAT,,172.26.130.240,uat.kyprovmci.chfsinet.ky.gov,,,,,
+User Acceptance Testing,UAT-DB-1,HFSNE121-037077,User Acceptance Testing Stage 1,STU1,,172.26.133.17,HFSNE121-037083,1961,,,,
+User Acceptance Testing,UAT-DB-1,HFSNE121-037077,User Acceptance Testing Stage 2,STU2,,172.26.133.18,HFSNE121-037084,1962,,STU1,Obfuscated Data,No
+User Acceptance Testing,UAT-DB-1,HFSNE121-037077,User Acceptance Testing Stage 3,STU3,,172.26.133.19,HFSNE121-037085,1963,,STU2,Test Data,No
+User Acceptance Testing,UAT-DB-1,HFSNE121-037077,User Acceptance Testing 1,UAT1,,172.26.133.20,HFSNE121-037086,1964,,STU3,Test Data,No
+User Acceptance Testing,UAT-DB-1,HFSNE121-037077,User Acceptance Testing 2,UAT2,,172.26.133.21,HFSNE121-037087,1965,,UAT1,Obfuscated Data,No
+User Acceptance Testing,UAT-DB-1,HFSNE121-037077,User Acceptance Testing 3,UAT3,,172.26.133.22,HFSNE121-037088,1966,,UAT2,Obfuscated Data,No
+User Acceptance Testing,UAT-DB-1,HFSNE121-037077,Performance Testing  ,PERF,,172.26.133.23,HFSNE121-037089,1967,,UAT3,Obfuscated Data,No
+User Acceptance Testing,UAT-DB-2,HFSNE121-037078,User Acceptance Testing Stage 1,STU1,,172.26.133.17,HFSNE121-037083,,,PERF,Obfuscated Data,No
+User Acceptance Testing,UAT-DB-2,HFSNE121-037078,User Acceptance Testing Stage 2,STU2,,172.26.133.18,HFSNE121-037084,,,STU1,Obfuscated Data,No
+User Acceptance Testing,UAT-DB-2,HFSNE121-037078,User Acceptance Testing Stage 3,STU3,,172.26.133.19,HFSNE121-037085,,,STU2,Test Data,No
+User Acceptance Testing,UAT-DB-2,HFSNE121-037078,User Acceptance Testing 1,UAT1,,172.26.133.20,HFSNE121-037086,,,STU3,Test Data,No
+User Acceptance Testing,UAT-DB-2,HFSNE121-037078,User Acceptance Testing 2,UAT2,,172.26.133.21,HFSNE121-037087,,,UAT1,Obfuscated Data,No
+User Acceptance Testing,UAT-DB-2,HFSNE121-037078,User Acceptance Testing 3,UAT3,,172.26.133.22,HFSNE121-037088,,,UAT2,Obfuscated Data,No
+User Acceptance Testing,UAT-DB-2,HFSNE121-037078,Performance Testing  ,PERF,,172.26.133.23,HFSNE121-037089,,,UAT3,Obfuscated Data,No
+User Acceptance Testing,UAT-WF-1,HFSNE121-037208,WorkFlow,WF,,172.26.129.254,uat.workflow.chfsinet.ky.gov ,,,PERF,Obfuscated Data,No
+User Acceptance Testing,UAT-WF-2,HFSNE121-037251,WorkFlow,WF,,172.26.126.104,uat2.workflow.chfsinet.ky.gov,172.26.126.142,,,,No
+User Acceptance Testing,UAT-WF-3,HFSNE121-037290,WorkFlow,WF,,172.26.126.129,uat2.workflow.chfsinet.ky.gov,,,,,
+User Acceptance Testing,UAT-WF-4,HFSNE121-037305,WorkFlow,WF,,172.26.126.196,uat2.workflow.chfsinet.ky.gov,,,,,
+User Acceptance Testing,UAT-WF-5,HFSNE121-037365,WorkFlow,WF,,172.26.127.176,stu2.workflow.chfsinet.ky.gov,,,,,
+User Acceptance Testing,PERF-WF-1,HFSNE121-037209,WorkFlow,WF,,172.26.129.253,perf.workflow.chfsinet.ky.gov,172.26.128.164,,,,
+User Acceptance Testing,PERF-WF-2,HFSNE121-037248,WorkFlow,WF,,172.26.128.161,perf.workflow.chfsinet.ky.gov,,,,,
+User Acceptance Testing,UAT-WF-DB-1,HFSNE121-037210,WorkFlow SQL,WF,,172.26.132.82,,,,,,No
+User Acceptance Testing,UAT-WF-DB-2,HFSNE121-037220,WorkFlow SQL,WF,,172.26.132.81,,,,,,
+User Acceptance Testing,UAT-WF-DB-3,HFSNE121-037250,WorkFlow SQL,WF,,172.26.132.88,,,,,,
+User Acceptance Testing,UAT-PMB-DB-1,HFSNE121-037252,User Acceptance Testing Stage 1,STU1,,172.26.132.97,HFSNE121-037257,,,,,
+User Acceptance Testing,UAT-PMB-DB-1,HFSNE121-037252,User Acceptance Testing Stage 2,STU2,,172.26.132.98,HFSNE121-037258,,,,,
+User Acceptance Testing,UAT-PMB-DB-1,HFSNE121-037252,User Acceptance Testing Stage 3,STU3,,172.26.132.99,HFSNE121-037259,,,,,
+User Acceptance Testing,UAT-PMB-DB-1,HFSNE121-037252,User Acceptance Testing 1,UAT1,,172.26.132.100,HFSNE121-037277,,,,,
+User Acceptance Testing,UAT-PMB-DB-1,HFSNE121-037252,User Acceptance Testing 2,UAT2,,172.26.132.101,HFSNE121-037278,,,,,
+User Acceptance Testing,UAT-PMB-DB-1,HFSNE121-037252,User Acceptance Testing 3,UAT3,,172.26.132.102,HFSNE121-037279,,,,,
+User Acceptance Testing,UAT-PMB-DB-1,HFSNE121-037252,Performance Testing  ,PERF,,172.26.132.103,HFSNE121-037280,,,,,
+User Acceptance Testing,UAT-PMB-DB-2,HFSNE121-037253,User Acceptance Testing Stage 1,STU1,,172.26.132.97,HFSNE121-037257,,,,,
+User Acceptance Testing,UAT-PMB-DB-2,HFSNE121-037253,User Acceptance Testing Stage 2,STU2,,172.26.132.98,HFSNE121-037258,,,,,
+User Acceptance Testing,UAT-PMB-DB-2,HFSNE121-037253,User Acceptance Testing Stage 3,STU3,,172.26.132.99,HFSNE121-037259,,,,,
+User Acceptance Testing,UAT-PMB-DB-2,HFSNE121-037253,User Acceptance Testing 1,UAT1,,172.26.132.100,HFSNE121-037277,,,,,
+User Acceptance Testing,UAT-PMB-DB-2,HFSNE121-037253,User Acceptance Testing 2,UAT2,,172.26.132.101,HFSNE121-037278,,,,,
+User Acceptance Testing,UAT-PMB-DB-2,HFSNE121-037253,User Acceptance Testing 3,UAT3,,172.26.132.102,HFSNE121-037279,,,,,
+User Acceptance Testing,UAT-PMB-DB-2,HFSNE121-037253,Performance Testing  ,PERF,,172.26.132.103,HFSNE121-037280,,,,,
+Production,PROD-WEB-1,HFSNE121-037100,,STAG,,172.26.128.110,stag.kyenroll.ky.gov,172.26.128.149,,,,
+Production,PROD-WEB-1,HFSNE121-037100,,PROD,,,kyenroll.ky.gov,205.204.197.34,,,,No
+Production,PROD-WEB-1,HFSNE121-037100,,PROD,,172.26.128.150,webapi.kynect.ky.gov,205.204.197.51,,,,Yes
+Production,PROD-WEB-1,HFSNE121-037100,,PROD,,172.26.128.111,kynect.ky.gov,205.204.197.36,,,,Yes
+Production,PROD-WEB-1,HFSNE121-037100,,PROD,,172.26.129.117,kyissuer.ky.gov,205.204.197.12,,,,Yes
+Production,PROD-WEB-1,HFSNE121-037100,,PROD,,172.26.126.106,kywaiver.ky.gov,205.204.197.86,,,,No
+Production,PROD-WEB-1,HFSNE121-037100,,STAG,,172.26.126.107,stag.kywaiver.ky.gov,172.26.126.105,,,,Yes
+Production,PROD-WEB-1,HFSNE121-037100,,PROD,,172.26.126.151,kyshop.ky.gov,205.204.197.89,,,,No
+Production,PROD-WEB-1,HFSNE121-037100,,STAG,,172.26.126.152,stag.kyshop.ky.gov,172.26.126.157,,,,Yes
+Production,PROD-WEB-1,HFSNE121-037100,,PROD,,172.26.126.153,kyshopping.ky.gov,205.204.197.90,,,,No
+Production,PROD-WEB-1,HFSNE121-037100,,STAG,,172.26.126.154,stag.kyshopping.ky.gov,172.26.126.158,,,,Yes
+Production,PROD-WEB-1,HFSNE121-037100,,PROD,,172.26.126.155,kyplans.ky.gov,205.204.197.91,,,,No
+Production,PROD-WEB-1,HFSNE121-037100,,STAG,,172.26.126.156,stag.kyplans.ky.gov,172.26.126.159,,,,Yes
+Production,PROD-WEB-1,HFSNE121-037100,,PROD,,172.26.127.125,kyagent.ky.gov,205.204.197.130,,,,No
+Production,PROD-WEB-1,HFSNE121-037100,,PROD,,172.26.128.18,webapi.kyshopping.ky.gov,205.204.197.151,,,,Yes
+Production,PROD-WEB-1,HFSNE121-037100,,PROD,,172.26.129.118,webapi.kyshop.ky.gov,205.204.197.152,,,,Yes
+Production,PROD-WEB-1,HFSNE121-037100,,PROD,,172.26.127.40,form1095.ky.gov,205.204.197.157,,,,Yes
+Production,PROD-WEB-1,HFSNE121-037100,,STAG,,172.26.127.41,stag.form1095.ky.gov,172.26.127.39,,,,Yes
+Production,PROD-WEB-2,HFSNE121-037101,,STAG,,172.26.128.112,,,,,,No
+Production,PROD-WEB-2,HFSNE121-037101,,PROD,,172.26.128.113,kynect.ky.gov,,,,,
+Production,PROD-WEB-2,HFSNE121-037101,,PROD,,172.26.128.151,webapi.kynect.ky.gov,,,,,
+Production,PROD-WEB-2,HFSNE121-037101,,PROD,,172.26.129.119,kyissuer.ky.gov,,,,,
+Production,PROD-WEB-2,HFSNE121-037101,,PROD,,172.26.126.108,kywaiver.ky.gov,,,,,
+Production,PROD-WEB-2,HFSNE121-037101,,STAG,,172.26.126.109,stag.kywaiver.ky.gov,,,,,
+Production,PROD-WEB-2,HFSNE121-037101,,PROD,,172.26.126.160,kyshop.ky.gov,,,,,
+Production,PROD-WEB-2,HFSNE121-037101,,STAG,,172.26.126.161,stag.kyshop.ky.gov,,,,,
+Production,PROD-WEB-2,HFSNE121-037101,,PROD,,172.26.126.162,kyshopping.ky.gov,,,,,
+Production,PROD-WEB-2,HFSNE121-037101,,STAG,,172.26.126.163,stag.kyshopping.ky.gov,,,,,
+Production,PROD-WEB-2,HFSNE121-037101,,PROD,,172.26.126.164,kyplans.ky.gov,,,,,
+Production,PROD-WEB-2,HFSNE121-037101,,STAG,,172.26.126.165,stag.kyplans.ky.gov,,,,,
+Production,PROD-WEB-2,HFSNE121-037101,,PROD,,172.26.127.126,kyagent.ky.gov,,,,,
+Production,PROD-WEB-2,HFSNE121-037101,,PROD,,172.26.128.19,webapi.kyshopping.ky.gov,,,,,
+Production,PROD-WEB-2,HFSNE121-037101,,PROD,,172.26.129.120,webapi.kyshop.ky.gov,,,,,
+Production,PROD-WEB-2,HFSNE121-037101,,PROD,,172.26.126.140,form1095.ky.gov,,,,,
+Production,PROD-WEB-2,HFSNE121-037101,,STAG,,172.26.126.141,stag.form1095.ky.gov,,,,,
+Production,PROD-WEB-3,HFSNE121-037102,,STAG,,172.26.128.114,stag.kyenroll.ky.gov,,,,,
+Production,PROD-WEB-3,HFSNE121-037102,,PROD,,172.26.128.115,kynect.ky.gov,,,,,No
+Production,PROD-WEB-3,HFSNE121-037102,,PROD,,172.26.128.152,webapi.kynect.ky.gov,,,,,Yes
+Production,PROD-WEB-3,HFSNE121-037102,,PROD,,172.26.129.121,kyissuer.ky.gov,,,,,Yes
+Production,PROD-WEB-3,HFSNE121-037102,,PROD,,172.26.126.110,kywaiver.ky.gov,,,,,No
+Production,PROD-WEB-3,HFSNE121-037102,,STAG,,172.26.126.111,stag.kywaiver.ky.gov,,,,,Yes
+Production,PROD-WEB-3,HFSNE121-037102,,PROD,,172.26.126.166,kyshop.ky.gov,,,,,No
+Production,PROD-WEB-3,HFSNE121-037102,,STAG,,172.26.126.167,stag.kyshop.ky.gov,,,,,
+Production,PROD-WEB-3,HFSNE121-037102,,PROD,,172.26.126.168,kyshopping.ky.gov,,,,,
+Production,PROD-WEB-3,HFSNE121-037102,,STAG,,172.26.126.169,stag.kyshopping.ky.gov,,,,,
+Production,PROD-WEB-3,HFSNE121-037102,,PROD,,172.26.126.170,kyplans.ky.gov,,,,,
+Production,PROD-WEB-3,HFSNE121-037102,,STAG,,172.26.126.171,stag.kyplans.ky.gov,,,,,
+Production,PROD-WEB-3,HFSNE121-037102,,PROD,,172.26.127.127,kyagent.ky.gov,,,,,
+Production,PROD-WEB-3,HFSNE121-037102,,PROD,,172.26.128.20,webapi.kyshopping.ky.gov,,,,,
+Production,PROD-WEB-3,HFSNE121-037102,,PROD,,172.26.129.64,webapi.kyshop.ky.gov,,,,,
+Production,PROD-WEB-3,HFSNE121-037102,,PROD,,172.26.126.139,form1095.ky.gov,,,,,
+Production,PROD-WEB-4,HFSNE121-037103,,STAG,,172.26.128.116,stag.kyenroll.ky.gov,,,,,
+Production,PROD-WEB-4,HFSNE121-037103,,PROD,,172.26.128.117,kynect.ky.gov,,,,,No
+Production,PROD-WEB-4,HFSNE121-037103,,PROD,,172.26.128.153,webapi.kynect.ky.gov,,,,,Yes
+Production,PROD-WEB-4,HFSNE121-037103,,PROD,,172.26.129.72,kyissuer.ky.gov,,,,,Yes
+Production,PROD-WEB-4,HFSNE121-037103,,PROD,,172.26.126.112,kywaiver.ky.gov,,,,,No
+Production,PROD-WEB-4,HFSNE121-037103,,STAG,,172.26.126.113,stag.kywaiver.ky.gov,,,,,Yes
+Production,PROD-WEB-4,HFSNE121-037103,,PROD,,172.26.126.172,kyshop.ky.gov,,,,,No
+Production,PROD-WEB-4,HFSNE121-037103,,STAG,,172.26.126.173,stag.kyshop.ky.gov,,,,,
+Production,PROD-WEB-4,HFSNE121-037103,,PROD,,172.26.126.174,kyshopping.ky.gov,,,,,
+Production,PROD-WEB-4,HFSNE121-037103,,STAG,,172.26.126.175,stag.kyshopping.ky.gov,,,,,
+Production,PROD-WEB-4,HFSNE121-037103,,PROD,,172.26.126.176,kyplans.ky.gov,,,,,
+Production,PROD-WEB-4,HFSNE121-037103,,STAG,,172.26.126.177,stag.kyplans.ky.gov,,,,,
+Production,PROD-WEB-4,HFSNE121-037103,,PROD,,172.26.127.128,kyagent.ky.gov,,,,,
+Production,PROD-WEB-4,HFSNE121-037103,,PROD,,172.26.128.21,webapi.kyshopping.ky.gov,,,,,
+Production,PROD-WEB-4,HFSNE121-037103,,PROD,,172.26.129.80,webapi.kyshop.ky.gov,,,,,
+Production,PROD-WEB-4,HFSNE121-037103,,PROD,,172.26.126.138,form1095.ky.gov,,,,,
+Production,PROD-WEB-5,HFSNE121-037163,,STAG,,172.26.128.136,stag.kyenroll.ky.gov,,,,,
+Production,PROD-WEB-5,HFSNE121-037163,,PROD,,172.26.128.137,kynect.ky.gov,,,,,No
+Production,PROD-WEB-5,HFSNE121-037163,,PROD,,172.26.128.154,webapi.kynect.ky.gov,,,,,Yes
+Production,PROD-WEB-5,HFSNE121-037163,,PROD,,172.26.129.88,kyissuer.ky.gov,,,,,Yes
+Production,PROD-WEB-5,HFSNE121-037163,,PROD,,172.26.126.114,kywaiver.ky.gov,,,,,No
+Production,PROD-WEB-5,HFSNE121-037163,,STAG,,172.26.126.115,stag.kywaiver.ky.gov,,,,,Yes
+Production,PROD-WEB-5,HFSNE121-037163,,PROD,,172.26.126.178,kyshop.ky.gov,,,,,No
+Production,PROD-WEB-5,HFSNE121-037163,,STAG,,172.26.126.179,stag.kyshop.ky.gov,,,,,
+Production,PROD-WEB-5,HFSNE121-037163,,PROD,,172.26.126.180,kyshopping.ky.gov,,,,,
+Production,PROD-WEB-5,HFSNE121-037163,,STAG,,172.26.126.181,stag.kyshopping.ky.gov,,,,,
+Production,PROD-WEB-5,HFSNE121-037163,,PROD,,172.26.126.182,kyplans.ky.gov,,,,,
+Production,PROD-WEB-5,HFSNE121-037163,,STAG,,172.26.126.183,stag.kyplans.ky.gov,,,,,
+Production,PROD-WEB-5,HFSNE121-037163,,PROD,,172.26.127.129,kyagent.ky.gov,,,,,
+Production,PROD-WEB-5,HFSNE121-037163,,PROD,,172.26.128.135,webapi.kyshopping.ky.gov,,,,,
+Production,PROD-WEB-5,HFSNE121-037163,,PROD,,172.26.129.96,webapi.kyshop.ky.gov,,,,,
+Production,PROD-WEB-5,HFSNE121-037163,,PROD,,172.26.128.138,form1095.ky.gov,,,,,
+Production,PROD-WEB-6,HFSNE121-037164,,STAG,,172.26.128.140,stag.kyenroll.ky.gov,,,,,
+Production,PROD-WEB-6,HFSNE121-037164,,PROD,,172.26.128.141,kynect.ky.gov,,,,,No
+Production,PROD-WEB-6,HFSNE121-037164,,PROD,,172.26.128.155,webapi.kynect.ky.gov,,,,,Yes
+Production,PROD-WEB-6,HFSNE121-037164,,PROD,,172.26.129.104,kyissuer.ky.gov,,,,,Yes
+Production,PROD-WEB-6,HFSNE121-037164,,PROD,,172.26.126.116,kywaiver.ky.gov,,,,,No
+Production,PROD-WEB-6,HFSNE121-037164,,STAG,,172.26.126.117,stag.kywaiver.ky.gov,,,,,Yes
+Production,PROD-WEB-6,HFSNE121-037164,,PROD,,172.26.126.184,kyshop.ky.gov,,,,,No
+Production,PROD-WEB-6,HFSNE121-037164,,STAG,,172.26.126.185,stag.kyshop.ky.gov,,,,,
+Production,PROD-WEB-6,HFSNE121-037164,,PROD,,172.26.126.186,kyshopping.ky.gov,,,,,
+Production,PROD-WEB-6,HFSNE121-037164,,STAG,,172.26.126.187,stag.kyshopping.ky.gov,,,,,
+Production,PROD-WEB-6,HFSNE121-037164,,PROD,,172.26.126.188,kyplans.ky.gov,,,,,
+Production,PROD-WEB-6,HFSNE121-037164,,STAG,,172.26.126.189,stag.kyplans.ky.gov,,,,,
+Production,PROD-WEB-6,HFSNE121-037164,,PROD,,172.26.127.130,kyagent.ky.gov,,,,,
+Production,PROD-WEB-6,HFSNE121-037164,,PROD,,172.26.128.139,webapi.kyshopping.ky.gov,,,,,
+Production,PROD-WEB-6,HFSNE121-037164,,PROD,,172.26.128.145,webapi.kyshop.ky.gov,,,,,
+Production,PROD-WEB-6,HFSNE121-037164,,PROD,,172.26.128.142,form1095.ky.gov,,,,,
+Production,PROD-WEB-7,HFSNE121-037394,,PROD,,172.26.127.216,webapi.kynect.ky.gov,,,,,
+Production,PROD-WEB-7,HFSNE121-037394,,PROD,,172.26.126.83,kynect.ky.gov,,,,,
+Production,PROD-WEB-7,HFSNE121-037394,,PROD,,172.26.126.84,kyissuer.ky.gov,,,,,
+Production,PROD-WEB-7,HFSNE121-037394,,PROD,,172.26.126.85,kywaiver.ky.gov,,,,,
+Production,PROD-WEB-7,HFSNE121-037394,,PROD,,172.26.126.86,kyshop.ky.gov,,,,,
+Production,PROD-WEB-7,HFSNE121-037394,,PROD,,172.26.126.87,kyshopping.ky.gov,,,,,
+Production,PROD-WEB-7,HFSNE121-037394,,PROD,,172.26.126.88,kyplans.ky.gov,,,,,
+Production,PROD-WEB-7,HFSNE121-037394,,PROD,,172.26.126.92,kyagent.ky.gov,,,,,
+Production,PROD-WEB-7,HFSNE121-037394,,PROD,,172.26.126.93,webapi.kyshopping.ky.gov,,,,,
+Production,PROD-WEB-7,HFSNE121-037394,,PROD,,172.26.126.94,webapi.kyshop.ky.gov,,,,,
+Production,PROD-WEB-7,HFSNE121-037394,,STAG,,172.26.127.47,stag.kyissuer.chfsinet.ky.gov,172.26.127.46,,,,
+Production,PROD-WEB-7,HFSNE121-037394,,STAG,,172.26.127.71,stag.kyagent.chfsinet.ky.gov,172.26.127.70,,,,
+Production,PROD-WEB-8,HFSNE121-037395,,PROD,,172.26.127.217,webapi.kynect.ky.gov,,,,,
+Production,PROD-WEB-8,HFSNE121-037395,,PROD,,172.26.126.95,kynect.ky.gov,,,,,
+Production,PROD-WEB-8,HFSNE121-037395,,PROD,,172.26.126.96,kyissuer.ky.gov,,,,,
+Production,PROD-WEB-8,HFSNE121-037395,,PROD,,172.26.126.97,kywaiver.ky.gov,,,,,
+Production,PROD-WEB-8,HFSNE121-037395,,PROD,,172.26.126.98,kyshop.ky.gov,,,,,
+Production,PROD-WEB-8,HFSNE121-037395,,PROD,,172.26.126.99,kyshopping.ky.gov,,,,,
+Production,PROD-WEB-8,HFSNE121-037395,,PROD,,172.26.126.100,kyplans.ky.gov,,,,,
+Production,PROD-WEB-8,HFSNE121-037395,,PROD,,172.26.126.101,kyagent.ky.gov,,,,,
+Production,PROD-WEB-8,HFSNE121-037395,,PROD,,172.26.126.102,webapi.kyshopping.ky.gov,,,,,
+Production,PROD-WEB-8,HFSNE121-037395,,PROD,,172.26.126.103,webapi.kyshop.ky.gov,,,,,
+Production,PROD-WEB-8,HFSNE121-037395,,STAG,,172.26.127.48,stag.kyissuer.chfsinet.ky.gov,,,,,
+Production,PROD-WEB-8,HFSNE121-037395,,STAG,,172.26.127.72,stag.kyagent.chfsinet.ky.gov,,,,,
+Production,PROD-APP-1,HFSNE121-037104,,STAG,,172.26.128.118,stag.kyserve.chfsinet.ky.gov,172.26.128.130,,,,
+Production,PROD-APP-1,HFSNE121-037104,,PROD,,172.26.128.119,kyserve.chfsinet.ky.gov,172.26.128.131,,,,No
+Production,PROD-APP-2,HFSNE121-037105,,STAG,,172.26.128.120,stag.kyserve.chfsinet.ky.gov,,,,,No
+Production,PROD-APP-2,HFSNE121-037105,,PROD,,172.26.128.121,kyserve.chfsinet.ky.gov,,,,,No
+Production,PROD-APP-3,HFSNE121-037106,,PROD,,172.26.128.123,kyserve.chfsinet.ky.gov,,,,,No
+Production,PROD-APP-4,HFSNE121-037107,,PROD,,172.26.128.125,kyserve.chfsinet.ky.gov,,,,,No
+Production,PROD-APP-5,HFSNE121-037108,,PROD,,172.26.128.127,kyserve.chfsinet.ky.gov,,,,,No
+Production,PROD-APP-6,HFSNE121-037109,,STAG,,172.26.128.128,stag.kyserve.chfsinet.ky.gov,,,,,No
+Production,PROD-APP-6,HFSNE121-037109,,PROD,,172.26.128.129,kyserve.chfsinet.ky.gov,,,,,No
+Production,PROD-APP-7,HFSNE121-037230,,STAG,,172.26.128.248,stag.kyserve.chfsinet.ky.gov,,,,,No
+Production,PROD-APP-7,HFSNE121-037230,,PROD,,172.26.128.249,kyserve.chfsinet.ky.gov,,,,,No
+Production,PROD-APP-8,HFSNE121-037437,,PROD,,172.26.128.252,kyserve.chfsinet.ky.gov,,,,,No
+Production,PROD-APP-8,HFSNE121-037231,,STAG,,172.26.128.251,stag.kyserve.chfsinet.ky.gov,,,,,
+Production,PROD-APP-8,HFSNE121-037231,,PROD,,172.26.128.252,kyserve.chfsinet.ky.gov,,,,,No
+Production,PROD-APP-9,HFSNE121-037239,,STAG,,175.26.128.156,stag.kyserve.chfsinet.ky.gov,,,,,No
+Production,PROD-APP-9,HFSNE121-037239,,PROD,,172.26.128.157,kyserve.chfsinet.ky.gov,,,,,No
+Production,PROD-APP-10,HFSNE121-037240,,STAG,,172.26.128.158,stag.kyserve.chfsinet.ky.gov,,,,,No
+Production,PROD-APP-10,HFSNE121-037240,,PROD,,172.26.128.159,kyserve.chfsinet.ky.gov,,,,,No
+Production,PROD-APP-11,HFSNE121-037349,,PROD,,172.26.127.136,kyserve.chfsinet.ky.gov,,,,,No
+Production,PROD-APP-12,HFSNE121-037350,,PROD,,172.26.127.137,kyserve.chfsinet.ky.gov,,,,,
+Production,PROD-APP-13,HFSNE121-037396,,PROD,,172.26.127.218,kyserve.chfsinet.ky.gov,,,,,
+Production,PROD-APP-14,HFSNE121-037397,,PROD,,172.26.127.219,kyserve.chfsinet.ky.gov,,,,,
+Production,PROD-APP-15,HFSNE121-037398,,PROD,,172.26.127.220,kyserve.chfsinet.ky.gov,,,,,
+Production,PROD-APP-16,HFSNE121-037399,,PROD,,172.26.127.221,kyserve.chfsinet.ky.gov,,,,,
+Production,PROD-APP-17,HFSNE121-037400,,PROD,,172.26.127.222,kyserve.chfsinet.ky.gov,,,,,
+Production,PROD-APP-18,HFSNE121-037401,,PROD,,172.26.127.223,kyserve.chfsinet.ky.gov,,,,,
+Production,PROD-APP-19,HFSNE121-037447,,PROD,,172.26.127.77,kyserve.chfsinet.ky.gov,,,,,
+Production,PROD-APP-20,HFSNE121-037448,,PROD,,172.26.127.78,kyserve.chfsinet.ky.gov,,,,,
+Production,PROD-APP-21,HFSNE121-037475,,PROD,,172.26.127.226,kyserve.chfsinet.ky.gov,,,,,
+Production,PROD-APP-22,HFSNE121-037476,,PROD,,172.26.127.227,kyserve.chfsinet.ky.gov,,,,,
+Production,PROD-APPFABRIC-Hosting-1,HFSNE121-037110,,STAG,,172.26.130.41,stag.kyservices.chfsinet.ky.gov,172.26.130.45,,,,
+Production,PROD-APPFABRIC-Hosting-1,HFSNE121-037110,,PROD,,172.26.130.42,kyservices.chfsinet.ky.gov,172.26.130.84,,,,No
+Production,PROD-APPFABRIC-Hosting-1,HFSNE121-037110,,CONV,,172.26.130.188,conv.kyservices.chfsinet.ky.gov,172.26.130.177,,,,No
+Production,PROD-APPFABRIC-Hosting-1,HFSNE121-037110,,PILOT,,172.26.130.29,pilot.kyservices.chfsinet.ky.gov ,172.26.130.247,,,,
+Production,PROD-APPFABRIC-Hosting-2,HFSNE121-037111,,STAG,,172.26.130.43,stag.kyservices.chfsinet.ky.gov,,,,,
+Production,PROD-APPFABRIC-Hosting-2,HFSNE121-037111,,PROD,,172.26.130.44,kyservices.chfsinet.ky.gov,,,,,No
+Production,PROD-APPFABRIC-Hosting-2,HFSNE121-037111,,PROD,,172.26.130.193,conv.kyservices.chfsinet.ky.gov,,,,,No
+Production,PROD-APPFABRIC-Hosting-2,HFSNE121-037111,,PILOT,,172.26.130.30,pilot.kyservices.chfsinet.ky.gov ,,,,,
+Production,PROD-APPFABRIC-Hosting-3,HFSNE121-037167,,STAG,,172.26.130.139,stag.kyservices.chfsinet.ky.gov,,,,,
+Production,PROD-APPFABRIC-Hosting-3,HFSNE121-037167,,PROD,,172..26.130.140,kyservices.chfsinet.ky.gov,,,,,No
+Production,PROD-APPFABRIC-Hosting-3,HFSNE121-037167,,PROD,,172.26.130.195,conv.kyservices.chfsinet.ky.gov,,,,,No
+Production,PROD-APPFABRIC-Hosting-3,HFSNE121-037167,,PILOT,,172.26.130.138,pilot.kyservices.chfsinet.ky.gov ,,,,,
+Production,PROD-APPFABRIC-Hosting-4,HFSNE121-037168,,STAG,,172.26.130.145,stag.kyservices.chfsinet.ky.gov,,,,,
+Production,PROD-APPFABRIC-Hosting-4,HFSNE121-037168,,PROD,,172.26.130.146,kyservices.chfsinet.ky.gov,,,,,No
+Production,PROD-APPFABRIC-Hosting-4,HFSNE121-037168,,PROD,,172.26.130.196,conv.kyservices.chfsinet.ky.gov,,,,,No
+Production,PROD-APPFABRIC-Hosting-4,HFSNE121-037168,,PILOT,,172.26.130.144,pilot.kyservices.chfsinet.ky.gov ,,,,,
+Production,PROD-APPFABRIC-Caching-1,HFSNE121-037112,,PROD,,172.26.128.49,,,,,,
+Production,PROD-APPFABRIC-Caching-2,HFSNE121-037117,,PROD,,172.26.128.50,,,,,,No
+Production,PROD-APPFABRIC-Caching-3,HFSNE121-037118,,PROD,,172.26.128.51,,,,,,No
+Production,PROD-BIZTALK-1,HFSSD121-03750,,PROD,,172.26.21.23,,,,,,No
+Production,PROD-BIZTALK-2,HFSSD121-03751,,PROD,,172.26.21.24,,,,,,No
+Production,PROD-BIZTALK-3,HFSSD121-03752,,PROD,,,,,,,,No
+Production,PROD-BIZTALK-4,HFSSD121-03753,,PROD,,,,,,,,No
+Production,PROD-BIZTALK-5,HFSSD121-03754,,PROD,,,,,,,,No
+Production,PROD-BIZTALK-6,HFSSD121-03755,,PROD,,,,,,,,No
+Production,PROD-FTP-1,HFSGA121-03751,,PROD,,,,,,,,No
+Production,PROD-FTP-2,HFSGA121-03752,,PROD,,,,,,,,No
+Production,PROD-BATCH-1,HFSNE121-037119,,PROD,,172.26.130.31,,,,,,No
+Production,PROD-BATCH-2,HFSNE121-037120,,PROD,,172.26.130.32,,,,,,No
+Production,PROD-INITIATE-WRAPPER-01,HFSNE121-037198,,PROD,,172.26.130.164,kymci.chfsinet.ky.gov,172.26.130.166,,,,No
+Production,PROD-INITIATE-WRAPPER-01,HFSNE121-037198,,STAG,,172.26.130.183,stag.kymci.chfsinet.ky.gov,172.26.130.178,,,,
+Production,PROD-INITIATE-WRAPPER-01,HFSNE121-037198,,CONV,,172.26.130.218,conv.kymci.chfsinet.ky.gov,172.26.130.217,,,,
+Production,PROD-INITIATE-WRAPPER-01,HFSNE121-037198,,PILOT,,172.26.130.243,pilot.kymci.chfsinet.ky.gov,172.26.130.241,,,,
+Production,PROD-INITIATE-WRAPPER-01,HFSNE121-037198,,SDH,,172.26.130.244,kyprovmci.chfsinet.ky.gov,172.26.130.242,,,,
+Production,PROD-INITIATE-WRAPPER-02,HFSNE121-037199,,PROD,,172.26.130.165,kymci.chfsinet.ky.gov,,,,,
+Production,PROD-INITIATE-WRAPPER-02,HFSNE121-037199,,STAG,,172.26.130.187,stag.kymci.chfsinet.ky.gov,,,,,
+Production,PROD-INITIATE-WRAPPER-02,HFSNE121-037199,,CONV,,172.26.130.219,conv.kymci.chfsinet.ky.gov,,,,,
+Production,PROD-INITIATE-WRAPPER-02,HFSNE121-037199,,PILOT,,172.26.130.245,pilot.kymci.chfsinet.ky.gov,,,,,
+Production,PROD-INITIATE-WRAPPER-02,HFSNE121-037199,,SDH,,172.26.130.246,kyprovmci.chfsinet.ky.gov,,,,,
+Production,PROD-FORMS-1,HFSNE121-037113,,STAG,,172.26.130.85,STAG.kyforms.chfsinet.ky.gov,172.26.130.125,,,,
+Production,PROD-FORMS-1,HFSNE121-037113,,PROD,,172.26.130.122,kyforms.chfsinet.ky.gov,172.26.130.126,,,,No
+Production,PROD-FORMS-2,HFSNE121-037114,,STAG,,172.26.130.123,STAG.kyforms.chfsinet.ky.gov,,,,,No
+Production,PROD-FORMS-2,HFSNE121-037114,,PROD,,172.26.130.124,kyforms.chfsinet.ky.gov,,,,,No
+Production,PROD-FORMS-3,HFSNE121-037216,,STAG,,172.26.130.171,STAG.kyforms.chfsinet.ky.gov,,,,,No
+Production,PROD-FORMS-3,HFSNE121-037216,,PROD,,172.26.130.172,kyforms.chfsinet.ky.gov,,,,,
+Production,PROD-FORMS-4,HFSNE121-037217,,STAG,,172.26.130.173,STAG.kyforms.chfsinet.ky.gov,,,,,No
+Production,PROD-FORMS-4,HFSNE121-037217,,PROD,,172.26.130.174,kyforms.chfsinet.ky.gov,,,,,
+Production,PROD-REPORTING-WI-3,,,PROD,,,,,,,,No
+Production,PROD-REPORTING-WI-4,,,PROD,,,,,,,,No
+Production,PROD-WEB-REPORTING-1,,,PROD,,,,,,,,No
+Production,PROD-WEB-REPORTING-2,,,PROD,,,,,,,,No
+Production,PROD-RULES-1,HFSNE121-037115,,STAG,,172.26.130.37,STAG.kyrules.chfsinet.ky.gov,172.26.130.35,,,,No
+Production,PROD-RULES-1,HFSNE121-037115,,PROD,,172.26.130.38,kyrules.chfsinet.ky.gov,172.26.130.36,,,,No
+Production,PROD-RULES-2,HFSNE121-037116,,STAG,,172.26.130.39,STAG.kyrules.chfsinet.ky.gov,,,,,No
+Production,PROD-RULES-2,HFSNE121-037116,,PROD,,172.26.130.40,kyrules.chfsinet.ky.gov,,,,,
+Production,PROD-RULES-3,HFSNE121-037165,,STAG,,172.26.130.129,STAG.kyrules.chfsinet.ky.gov,,,,,No
+Production,PROD-RULES-3,HFSNE121-037165,,PROD,,172.26.130.130,kyrules.chfsinet.ky.gov,,,,,No
+Production,PROD-RULES-4,HFSNE121-037166,,STAG,,172.26.130.134,STAG.kyrules.chfsinet.ky.gov,,,,,
+Production,PROD-RULES-4,HFSNE121-037166,,PROD,,172.26.130.135,kyrules.chfsinet.ky.gov,,,,,No
+Production,PROD-RULES-5,HFSNE121-037410,,PROD,,172.26.130.203,kyrules.chfsinet.ky.gov,,,,,No
+Production,PROD-RULES-6,HFSNE121-037411,,PROD,,172.26.131.166,kyrules.chfsinet.ky.gov,,,,,
+Production,PROD-RULES-7,HFSNE121-037412,,PROD,,172.26.131.167,kyrules.chfsinet.ky.gov,,,,,
+Production,PROD-RULES-8,HFSNE121-037413,,PROD,,172.26.131.169,kyrules.chfsinet.ky.gov,,,,,
+Production,PROD-RULES-09,HFSNE121-037418,,PROD,,172.26.131.175,kyrules.chfsinet.ky.gov,,,,,
+Production,PROD-RULES-10,HFSNE121-037419,,PROD,,172.26.131.176,kyrules.chfsinet.ky.gov,,,,,
+Production,PROD-RULES-11,HFSNE121-037420,,PROD,,172.26.131.177,kyrules.chfsinet.ky.gov,,,,,
+Production,PROD-RULES-12,HFSNE121-037421,,PROD,,172.26.131.174,kyrules.chfsinet.ky.gov,,,,,
+Production,PROD-SCOM,0,,PROD,,,,,,,,
+Production,PROD-WF-1,HFSNE121-037261,,PROD,,172.26.126.127,kyworkflow.chfsinet.ky.gov,172.26.126.150,,,,
+Production,PROD-WF-2,HFSNE121-037262,,PROD,,172.26.126.128,kyworkflow.chfsinet.ky.gov,,,,,No
+Staging,STAG-WF-1,HFSNE121-037435,,STAG,,172.26.127.73,Stag.kyworkflow.chfsinet.ky.gov,,,,,No
+Production,PROD-WF-DB-1,HFSNE121-037263,,PROD,,"HFSNE121-037267\PROD 1961
+",,,,,,
+Production,PROD-WF-DB-2,HFSNE121-037264,,PROD,,"HFSNE121-037268\STAG 1962
+",,,,,,
+Production,PROD-BT360-1,HFSNE121-037416,,PROD,,172.26.131.172,bt360.chfsinet.ky.gov,172.26.131.186,,,,No
+Production,PROD-BT360-2,HFSNE121-037417,,PROD,,172.26.131.173,bt360.chfsinet.ky.gov,,,,,
+Conversion,PILOT-WEB-1,HFSNE121-037340,,PILOT,,172.26.127.133,pilot.kynect.ky.gov,205.204.197.136,,,,
+Conversion,PILOT-WEB-1,HFSNE121-037340,,PILOT,,172.26.127.150,pilot.kywaiver.ky.gov,205.204.197.137,,,,YES
+Conversion,PILOT-WEB-1,HFSNE121-037340,,PILOT,,172.26.127.151,pilot.kyshop.ky.gov,205.204.197.138,,,,YES
+Conversion,PILOT-WEB-1,HFSNE121-037340,,PILOT,,172.26.127.152,pilot.kyshopping.ky.gov,205.204.197.139,,,,YES
+Conversion,PILOT-WEB-1,HFSNE121-037340,,PILOT,,172.26.127.153,pilot.kyplans.ky.gov,205.204.197.140,,,,YES
+Conversion,PILOT-WEB-2,HFSNE121-037341,,PILOT,,172.26.127.134,pilot.kynect.ky.gov,,,,,YES
+Conversion,PILOT-WEB-2,HFSNE121-037341,,PILOT,,172.26.127.154,pilot.kywaiver.ky.gov,,,,,YES
+Conversion,PILOT-WEB-2,HFSNE121-037341,,PILOT,,172.26.127.155,pilot.kyshop.ky.gov,,,,,YES
+Conversion,PILOT-WEB-2,HFSNE121-037341,,PILOT,,172.26.127.156,pilot.kyshopping.ky.gov,,,,,YES
+Conversion,PILOT-WEB-2,HFSNE121-037341,,PILOT,,172.26.127.157,pilot.kyplans.ky.gov,,,,,YES
+Conversion,PILOT-APP-1,HFSNE121-037298,,CONV,,172.26.126.143,conv.kywaiver.chfsinet.ky.gov,,,,,YES
+Conversion,PILOT-APP-1,HFSNE121-037298,,CONV,,172.26.126.144,conv.kynect.chfsinet.ky.gov ,,,,,
+Conversion,PILOT-APP-1,HFSNE121-037298,,CONV,,172.26.126.145,conv.kyserve.chfsinet.ky.gov ,,,,,
+Conversion,PILOT-APP-1,HFSNE121-037298,,CONV,,172.26.126.146,conv.kyissuer.chfsinet.ky.gov ,,,,,
+Conversion,PILOT-APP-1,HFSNE121-037298,,CONV,,172.26.126.147,conv.kyshop.chfsinet.ky.gov ,,,,,
+Conversion,PILOT-APP-1,HFSNE121-037298,,CONV,,172.26.126.148,conv.kyshopping.chfsinet.ky.gov ,,,,,
+Conversion,PILOT-APP-1,HFSNE121-037298,,CONV,,172.26.126.149,conv.kyplans.chfsinet.ky.gov,,,,,
+Conversion,PILOT-APP-1,HFSNE121-037298,,PILOT,,172.26.127.159,pilot.kyserve.chfsinet.ky.gov,172.26.127.158,,,,
+Conversion,PILOT-APP-1,HFSNE121-037298,,CONV,,172.26.127.143,conv.kywaiver.chfsinet.ky.gov,,,,,
+Conversion,PILOT-APP-1,HFSNE121-037298,,CONV,,172.26.127.42,ccap.kynect.chfsinet.ky.gov,,,,,
+Conversion,PILOT-APP-1,HFSNE121-037298,,CONV,,172.26.127.43,ccap.kyservices.chfsinet.ky.gov,,,,,
+Conversion,PILOT-APP-1,HFSNE121-037298,,CONV,,172.26.127.44,ccap.kyserve.chfsinet.ky.gov,,,,,
+Conversion,PILOT-APP-2,HFSNE121-037342,,PILOT,,172.26.127.160,pilot.kyserve.chfsinet.ky.gov,,,,,
+Conversion,PILOT-DB-1,HFSNE121-037299,,PILOT,,,,,,,,
+Conversion,PILOT-DB-2,HFSNE121-037351,,PILOT,,,,,,,,
+Conversion,CONV-INITIATE-DB,HFSNE121-037306,,CONV,,,,,,,,
+Conversion,CONV-INITIATE-FE,HFSNE121-037307,,CONV,,,,,,,,
+Conversion,PILOT-RULES-2,HFSNE121-037380,,CCAP,,172.26.131.187,ccap.kyrules.chfsinet.ky.gov,,,,,
+Conversion,PILOT-RULES-2,HFSNE121-037380,,CCAP,,172.26.130.232,pilot.kyrules.chfsinet.ky.gov,172.26.131.162,,,,
+Conversion,PILOT-RULES-3,HFSNE121-037321,,PILOT,,172.26.130.216,pilot.kyrules.chfsinet.ky.gov,,,,,
+Conversion,PILOT-RULES-4,HFSNE121-037330,,PILOT,,172.26.130.223,pilot.kyrules.chfsinet.ky.gov,,,,,
+Conversion,PILOT-RULES-5,HFSNE121-037329,,PILOT,,172.26.130.222,pilot.kyrules.chfsinet.ky.gov,,,,,
+Conversion,PILOT-RULES-6,HFSNE121-037328,,PILOT,,172.26.130.221,pilot.kyrules.chfsinet.ky.gov,,,,,
+Conversion,PILOT-RULES-7,HFSNE121-037327,,PILOT,,172.26.130.220,pilot.kyrules.chfsinet.ky.gov,,,,,
+Conversion,PILOT-FORMS-1,HFSNE121-037318,,CONV,,172.26.130.213,conv.kyforms.chfsinet.ky.gov,,,,,
+Conversion,PILOT-FORMS-1,HFSNE121-037318,,PILOT,,172.26.130.152,pilot.kyforms.chfsinet.ky.gov,,,,,
+Conversion,PILOT-BT-1,HFSNE121-037346,,PILOT,,172.26.131.165,conv.workflow.chfsinet.ky.gov,,,,,
+Conversion,PILOT-BT-2,HFSNE121-037347,,PILOT,,,,,,,,
+Conversion,PILOT-BT-3,HFSNE121-037348,,PILOT,,,,,,,,
+Conversion,PILOT-BT-DB-1,HFSNE121-037352,,PILOT,,,,,,,,
+Conversion,PILOT-K2-DB-1,HFSNE121-037353,,PILOT,,,,,,,,
+Conversion,PILOT-RULES-1,HFSNE121-037344,,PILOT,,172.26.130.232,pilot.kyrules.chfsinet.ky.gov,,,,,
+Conversion,PILOT-WF-1,HFSNE121-037345,,PILOT,,172.26.130.233,pilot.kyworkflow.chfsinet.ky.gov,,,,,

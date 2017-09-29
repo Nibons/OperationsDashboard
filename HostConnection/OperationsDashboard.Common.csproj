@@ -11,6 +11,10 @@
   <ItemGroup>
     <PackageReference Include="CsvHelper" Version="2.16.3" />
     <PackageReference Include="ServiceStack.Redis" Version="4.5.14" />
+    <BoM Include="BoM.csv"/>
   </ItemGroup>
+  <Target Name="CopyFiles">
+    <Copy SourceFiles="@(BoM)"/>
+  </Target>
 
 </Project>
