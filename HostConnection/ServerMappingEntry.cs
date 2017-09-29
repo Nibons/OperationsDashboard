@@ -36,7 +36,16 @@ namespace OperationsDashboard.Common
                 ListServerMappingEntry.SetValue(key, this);
             }
         }
-        public static ServerMappingEntry GetEntry(string logicalEnvironment = "*",string servername = "*",string function="*",string IPAddress = "*")        
+        public static IList<ServerMappingEntry> GetEntries(string logicalEnvironment = "*",string servername = "*",string function="*",string IPAddress = "*")        
+        {
+            using (var RedisConnection = new RedisClient(EnvVar.AsString("Redis_Hostname"), EnvVar.AsInt("Redis_Port")))
+            {
+                var ListServerMappingEntry = RedisConnection.As<ServerMappingEntry>();
+                string key = string.Format("servermapping:{0}:{1}:{2}", logicalEnvironment, servername, IPAddress);
+                return ListServerMappingEntry.GetValue(key) as IList<ServerMappingEntry>;
+            }
+        }
+        public static ServerMappingEntry GetEntry(string logicalEnvironment = "*", string servername = "*", string function = "*", string IPAddress = "*")
         {
             using (var RedisConnection = new RedisClient(EnvVar.AsString("Redis_Hostname"), EnvVar.AsInt("Redis_Port")))
             {
