@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Net;
 
-namespace HostConnection
+namespace OperationsDashboard.Common
 {
     public class WebTest
     {

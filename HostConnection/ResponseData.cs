@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace HostConnection
+namespace OperationsDashboard.Common
 {
     public class ResponseData : EventArgs
     {

@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pinger", "Pinger\Pinger.csp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebAPI", "WebAPI\WebAPI.csproj", "{C2901668-838F-40FE-A48F-1A124DC38895}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HostConnection", "HostConnection\HostConnection.csproj", "{C1A25AA5-AFD0-4CC3-8446-1EF6A2EE215B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OperationsDashboard.Common", "HostConnection\OperationsDashboard.Common.csproj", "{C1A25AA5-AFD0-4CC3-8446-1EF6A2EE215B}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{F0068895-B815-438E-A247-33D2C4664188}"
 	ProjectSection(SolutionItems) = preProject
