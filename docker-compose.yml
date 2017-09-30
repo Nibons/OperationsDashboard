@@ -1,0 +1,22 @@
+version: '3.3'
+networks:
+  default:
+    external:
+      name: nat
+services:
+  redis:
+    image: redis:nanoserver
+    ports:
+     - 6379:6379
+    hostname: redis
+  webapi:
+    image: operationsdashboard/webapi
+    ports:
+     - 80:80
+    links:
+     - redis
+    hostname: webapi
+  pinger:
+    image: operationsdashboard/pinger
+    links:
+     - redis

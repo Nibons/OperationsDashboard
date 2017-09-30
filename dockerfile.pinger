@@ -1,0 +1,10 @@
+FROM microsoft/dotnet:2.0.0-sdk as build
+COPY . .
+WORKDIR C:/Pinger/
+RUN dotnet restore
+RUN dotnet publish -o C:/app --configuration Debug
+
+FROM microsoft/dotnet:2.0.0-runtime
+ENV Redis_Hostname=redis Redis_Port=6379
+COPY --from=build c:/app .
+ENTRYPOINT ["dotnet","Pinger.dll"]
