@@ -14,4 +14,10 @@
     <ProjectReference Include="..\OperationsDashboard.Common\OperationsDashboard.Common.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Update="BoM.csv">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
 </Project>
