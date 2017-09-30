@@ -20,3 +20,9 @@ services:
     image: operationsdashboard/pinger
     links:
      - redis
+  dashboard:
+    image: operationsdashboard/dashboard
+    ports:
+     - 5000:80
+    links:
+     - webapi
