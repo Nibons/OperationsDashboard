@@ -2,6 +2,7 @@
 
 #destination stuff for running a build
 wwwroot/*
+app
 
 # compiled output
 /dist
