@@ -4,8 +4,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 15.0.26730.16
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pinger", "Pinger\Pinger.csproj", "{D03A8CEC-BDB2-41D4-A39C-0681C965417A}"
+	ProjectSection(ProjectDependencies) = postProject
+		{C1A25AA5-AFD0-4CC3-8446-1EF6A2EE215B} = {C1A25AA5-AFD0-4CC3-8446-1EF6A2EE215B}
+	EndProjectSection
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OperationsDashboard.Common", "HostConnection\OperationsDashboard.Common.csproj", "{C1A25AA5-AFD0-4CC3-8446-1EF6A2EE215B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OperationsDashboard.Common", "OperationsDashboard.Common\OperationsDashboard.Common.csproj", "{C1A25AA5-AFD0-4CC3-8446-1EF6A2EE215B}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{F0068895-B815-438E-A247-33D2C4664188}"
 	ProjectSection(SolutionItems) = preProject

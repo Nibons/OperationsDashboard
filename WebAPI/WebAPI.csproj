@@ -22,7 +22,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\HostConnection\OperationsDashboard.Common.csproj" />
+    <ProjectReference Include="..\OperationsDashboard.Common\OperationsDashboard.Common.csproj" />
   </ItemGroup>
 
 </Project>
