@@ -12,14 +12,18 @@
       "commandName": "IISExpress",
       "launchBrowser": true,
       "environmentVariables": {
-        "ASPNETCORE_ENVIRONMENT": "Development"
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "Redis_Hostname": "redis",
+        "Redis_Port": "6379"
       }
     },
     "WebAPI": {
       "commandName": "Project",
       "launchBrowser": true,
       "environmentVariables": {
-        "ASPNETCORE_ENVIRONMENT": "Development"
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "Redis_Hostname": "redis",
+        "Redis_Port": "6379"
       },
       "applicationUrl": "http://localhost:63492/"
     }
