@@ -5,9 +5,9 @@
       "commandLineArgs": "NiceTest",
       "environmentVariables": {
         "BoM_CsvFileName": "BoM.csv",
-        "redis_hostname": "redis",
-        "ASPNETCORE_ENVIRONMENT": "Development",
-        "redis_port": "6379"
+        "Redis_Hostname": "redis",
+        "Redis_Port": "6379",
+        "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
     "Production": {
