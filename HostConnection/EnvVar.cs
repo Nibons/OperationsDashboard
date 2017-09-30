@@ -2,7 +2,7 @@
 
 namespace OperationsDashboard.Common
 {
-    class EnvVar
+    public class EnvVar
     {
         public static string AsString(string key)
         {
