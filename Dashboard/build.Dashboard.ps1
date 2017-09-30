@@ -11,6 +11,7 @@ dotnet restore
 dotnet build --configuration $configuration --framework $framework --output $outputPath --verbosity $verbosity
 
 #compile the angular4App to wwwroot
+npm install
 $wwwRootOutputPath = "$outputPath/wwwroot"
 if($configuration -eq 'Production'){
     #build as Production
