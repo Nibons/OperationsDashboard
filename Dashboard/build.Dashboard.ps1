@@ -2,7 +2,7 @@ param([string]$configuration="Development",
 [string]$framework="netcoreapp2.0",
 [string]$outputPath="obj/$configuration/$framework/",
 [validateset("quiet","minimal","normal","detailed","diagnostic")]
-[string]$verbosity
+[string]$verbosity='normal'
 )
 
 #compile the angular4App to wwwroot
