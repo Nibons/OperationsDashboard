@@ -6,11 +6,13 @@ namespace OperationsDashboard.Common
     {
         public static string AsString(string key)
         {
-            return Environment.GetEnvironmentVariable(key);
+            string environmentVariableValue = Environment.GetEnvironmentVariable(key);
+            return environmentVariableValue;
         }
         public static int AsInt(string key)
         {
-            return int.Parse(EnvVar.AsString(key));
+            int environmentVariableValue = int.Parse(EnvVar.AsString(key));
+            return environmentVariableValue;
         }
     }
 }

@@ -30,9 +30,9 @@ namespace OperationsDashboard.Common
             WebClient.Headers[HttpRequestHeader.Host] = this.Hostname;
             WebClient.DownloadDataAsync(new Uri(ipUrl));
         }
-        public delegate void OnCompleteEventHandler(object obj, EventArgs e);
+        //public delegate void OnCompleteEventHandler(object obj, EventArgs e);
 
-        public event OnCompleteEventHandler<EventArgs> OnComplete;
+        //public event OnCompleteEventHandler<EventArgs> OnComplete;
         
 
         //void HandleDownloadComplete( object sender, EventArgs e)

@@ -4,6 +4,7 @@
       "commandName": "Project",
       "commandLineArgs": "NiceTest",
       "environmentVariables": {
+        "BoM_CsvFileName": "BoM.csv",
         "redis_hostname": "redis",
         "ASPNETCORE_ENVIRONMENT": "Development",
         "redis_port": "6379"

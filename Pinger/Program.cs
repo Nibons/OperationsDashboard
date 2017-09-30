@@ -1,4 +1,5 @@
 ﻿using System;
+using OperationsDashboard.Common;
 
 namespace Pinger
 {
@@ -9,10 +10,9 @@ namespace Pinger
             //var redishost = Startup.getEnv();
             //Console.WriteLine(redishost);
             //Console.ReadLine();
-            var redisExample = new RedisExample();
+            //var redisExample = new RedisExample();
+            var Bom = new BoMServerMapping();
             Console.ReadLine();
         }
-
-
     }
 }

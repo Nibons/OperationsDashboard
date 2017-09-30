@@ -1,10 +1,10 @@
 ﻿using System.Collections.Generic;
 using CsvHelper;
-
+using System.Linq;
 
 namespace OperationsDashboard.Common
 {
-    class BoMServerMapping
+    public class BoMServerMapping
     {
         private IEnumerable<ServerMappingEntry> ListServerMapping;
 
@@ -14,7 +14,10 @@ namespace OperationsDashboard.Common
         {
             using(System.IO.TextReader textReader = new System.IO.StreamReader(filename)){
                 var csv = new CsvReader(textReader);
-                this.ListServerMapping = csv.GetRecords<ServerMappingEntry>();
+                //this.ListServerMapping = csv.GetRecords<ServerMappingEntryMap>();
+                csv.Configuration.HasHeaderRecord = true;
+                csv.Configuration.RegisterClassMap<ServerMappingEntryMap>();                
+                this.ListServerMapping = csv.GetRecords<ServerMappingEntry>().ToList();
             }
         }
 
@@ -34,8 +37,6 @@ namespace OperationsDashboard.Common
             this.ReadBomAsCsv(filename);
             this.AddAllToRedis();
         }
-        
-
         //public string FilePath { get; set; }
         //public IList<ServerMappingEntry> GetServerMappingEntryList() => GetServerMappingEntryList(EnvVar.AsString("BoM_URL"));
         //public IList<ServerMappingEntry> GetServerMappingEntryList(string url)
