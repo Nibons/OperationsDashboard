@@ -1,0 +1,1 @@
+docker build -t operationsdashboard/webapi -f dockerfile.webapi --network external_ethernet ..\
