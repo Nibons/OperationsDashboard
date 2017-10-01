@@ -6,7 +6,8 @@
         "BoM_CsvFileName": "BoM.csv",
         "redis_hostname": "redis",
         "ASPNETCORE_ENVIRONMENT": "Development",
-        "redis_port": "6379"
+        "redis_port": "6379",
+        "Servermapping_Limit": "10"
       }
     }
   }

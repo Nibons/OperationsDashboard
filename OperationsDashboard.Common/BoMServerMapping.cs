@@ -22,6 +22,13 @@ namespace OperationsDashboard.Common
                 csv.Configuration.HasHeaderRecord = true;
                 csv.Configuration.RegisterClassMap<ServerMappingEntryMap>();                
                 this.ListServerMapping = csv.GetRecords<ServerMappingEntry>().ToList();
+
+                //this section will limit how many entries we get **FOR TESTING**
+                int Servermapping_Limit = EnvVar.AsInt("Servermapping_Limit");
+                if (Servermapping_Limit > 0)
+                {
+                    this.ListServerMapping = this.ListServerMapping.Take(Servermapping_Limit);
+                }
             }
         }
 
@@ -32,12 +39,7 @@ namespace OperationsDashboard.Common
                 var ListServerMappingContext = RedisConnection.As<ServerMappingEntry>();
                 foreach (ServerMappingEntry ServerMappingEntry in ListServerMapping)
                 {
-                    ServerMappingEntry.id = ListServerMappingContext.GetNextSequence();
-
-                    //removed because it wasn't nearly as fast
-                    //string key = string.Format("servermapping:{0}:{1}:{2}", ServerMappingEntry.LogicalEnvironment, ServerMappingEntry.Servername, ServerMappingEntry.IPAddress);
-                    //ListServerMappingContext.SetValue(key, ServerMappingEntry);
-                    //ListServerMappingContext.Store(ServerMappingEntry);
+                    ServerMappingEntry.id = ListServerMappingContext.GetNextSequence();                    
                 }
                 ListServerMappingContext.StoreAll(ListServerMapping);
             }
