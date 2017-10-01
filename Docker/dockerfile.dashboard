@@ -1,13 +1,14 @@
 FROM compulim/nanoserver-node as angular-build
-#generate dependencies first
-COPY project.json .
-RUN npm install
 
 #install the angular builder
 RUN ng install @angular/cli
 
+#generate dependencies first
+COPY Dashboard/project.json .
+RUN npm install ;
+
 #copy our source code
-COPY src .
+COPY Dashboard/ .
 
 #build the Angular4 application
 RUN ng build --output-path=c:/wwwroot
@@ -24,7 +25,6 @@ COPY --from=angular-build c:/wwwroot c:/app/
 
 #put it all in our final image
 FROM microsoft/aspnetcore:2.0.0-2.0.0-nanoserver
-ENV Redis_Hostname=redis Redis_Port=6379
 EXPOSE 80
 
 COPY --from=asp-build c:/app .

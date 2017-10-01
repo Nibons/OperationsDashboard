@@ -1,0 +1,1 @@
+docker build -t operationsdashboard/dashboard -f dockerfile.dashboard --network external_ethernet ..\
