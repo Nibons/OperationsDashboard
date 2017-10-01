@@ -26,4 +26,6 @@ services:
     image: operationsdashboard/dataseed
     links:
      - webapi
-    restart: never
+    restart: on-failure
+    environment:
+     - Servermapping_Limit=10

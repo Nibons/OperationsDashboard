@@ -15,6 +15,6 @@ RUN dotnet publish --output C:/app
 
 #create the runtime image
 FROM microsoft/dotnet:2.0.0-runtime
-ENV Redis_Hostname=redis Redis_Port=6379 BoM_CsvFileName=BoM.csv
+ENV Redis_Hostname=redis Redis_Port=6379 BoM_CsvFileName=BoM.csv Servermapping_Limit=10
 COPY --from=build c:/app .
 ENTRYPOINT ["dotnet","DataSeed.dll"]
