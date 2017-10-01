@@ -1,9 +1,19 @@
 FROM microsoft/aspnetcore-build:2.0.0-nanoserver as build
-COPY . .
-WORKDIR C:/WebAPI/
-RUN dotnet restore
-RUN dotnet publish -o C:/app --configuration Debug
+ARG BuildObjectName=WebAPI
+WORKDIR C:/${BuildObjectName}/
 
+#Restore all dependencies
+COPY OperationsDashboard.Common/OperationsDashboard.Common.csproj C:/OperationsDashboard.Common/
+COPY ${BuildObjectName}/${BuildObjectName}.csproj C:/${BuildObjectName}/
+RUN dotnet restore
+
+#copy the remaining source assets, and build
+COPY OperationsDashboard.Common/ C:/OperationsDashboard.Common/
+COPY ${BuildObjectName}/ C:/${BuildObjectName}/
+ARG RuntimeConfig=Debug
+RUN dotnet publish --output C:/app -c ${RuntimeConfig}
+
+#Create the runtime image
 FROM microsoft/aspnetcore:2.0.0-nanoserver
 ENV Redis_Hostname=redis Redis_Port=6379
 EXPOSE 80

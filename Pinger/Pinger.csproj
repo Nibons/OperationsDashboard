@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp2.0</TargetFramework>
-    <NoWarn>NE1701</NoWarn>
+    <NoWarn>NU1701</NoWarn>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
@@ -12,12 +12,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\OperationsDashboard.Common\OperationsDashboard.Common.csproj" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <None Update="BoM.csv">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </None>
   </ItemGroup>
 
 </Project>

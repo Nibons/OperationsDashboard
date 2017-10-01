@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "Development": {
+      "commandName": "Executable",
+      "environmentVariables": {
+        "BoM_CsvFileName": "BoM.csv",
+        "redis_hostname": "redis",
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "redis_port": "6379"
+      }
+    }
+  }
+}

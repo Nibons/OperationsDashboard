@@ -1,4 +1,5 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
 using CsvHelper;
 using System.Linq;
 using ServiceStack.Redis;
@@ -14,6 +15,7 @@ namespace OperationsDashboard.Common
 
         void ReadBomAsCsv(string filename)
         {
+            Console.WriteLine("Reading file " + filename);
             using(System.IO.TextReader textReader = new System.IO.StreamReader(filename)){
                 var csv = new CsvReader(textReader);
                 //this.ListServerMapping = csv.GetRecords<ServerMappingEntryMap>();
@@ -43,10 +45,12 @@ namespace OperationsDashboard.Common
         }
         public BoMServerMapping(string filename = "")
         {
+            
             if (filename == "")
             {
                 filename = EnvVar.AsString("BoM_CsvFileName");
             }
+            Console.WriteLine("Loading BoMServerMapping from file" + filename);
             this.ReadBomAsCsv(filename);
             this.AddAllToRedis();            
         }        

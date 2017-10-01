@@ -1,10 +1,20 @@
 FROM microsoft/dotnet:2.0.0-sdk as build
-COPY . .
-WORKDIR C:/Pinger/
-RUN dotnet restore
-RUN dotnet publish -o C:/app --configuration Debug
+ARG BuildObjectName=Pinger 
+WORKDIR C:/${BuildObjectName}/
 
+#Restore all dependencies
+COPY OperationsDashboard.Common/OperationsDashboard.Common.csproj C:/OperationsDashboard.Common/
+COPY ${BuildObjectName}/${BuildObjectName}.csproj C:/${BuildObjectName}/
+RUN dotnet restore
+
+#copy the remaining source assets, and build
+COPY OperationsDashboard.Common/ C:/OperationsDashboard.Common/
+COPY ${BuildObjectName}/ C:/${BuildObjectName}/
+ARG RuntimeConfig=Development
+RUN dotnet publish --output C:/app
+
+#create the runtime image
 FROM microsoft/dotnet:2.0.0-runtime
-ENV Redis_Hostname=redis Redis_Port=6379
+ENV Redis_Hostname=redis Redis_Port=6379 BoM_CsvFileName=BoM.csv
 COPY --from=build c:/app .
 ENTRYPOINT ["dotnet","Pinger.dll"]
