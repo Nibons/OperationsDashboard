@@ -3,12 +3,18 @@ networks:
   default:
     external:
       name: nat
+volumes:
+  redis_data:
+    external: true
 services:
   redis:
     image: redis:nanoserver
     ports:
      - 6379:6379
     hostname: redis
+    restart: always
+    volumes:
+     - redis_data:c:/data
   webapi:
     image: operationsdashboard/webapi
     ports:
@@ -16,6 +22,7 @@ services:
     links:
      - redis
     hostname: webapi
+    restart: always
   pinger:
     image: operationsdashboard/pinger
     links:
