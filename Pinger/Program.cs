@@ -12,7 +12,7 @@ namespace Pinger
             //Console.ReadLine();
             //var redisExample = new RedisExample();
             var Bom = new BoMServerMapping();
-            Console.ReadLine();
+            //Console.ReadLine();
         }
     }
 }
