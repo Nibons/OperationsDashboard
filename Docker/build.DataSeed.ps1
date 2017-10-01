@@ -1,0 +1,1 @@
+docker build -t operationsdashboard/dataseed -f dockerfile.dataseed --network external_ethernet ..\

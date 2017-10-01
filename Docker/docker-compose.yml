@@ -4,8 +4,7 @@ networks:
     external:
       name: nat
 volumes:
-  redis_data:
-    external: true
+  redis:
 services:
   redis:
     image: redis:nanoserver
@@ -14,7 +13,7 @@ services:
     hostname: redis
     restart: always
     volumes:
-     - redis_data:c:/data
+     - redis:c:/data
   webapi:
     image: operationsdashboard/webapi
     ports:
@@ -23,13 +22,8 @@ services:
      - redis
     hostname: webapi
     restart: always
-  pinger:
-    image: operationsdashboard/pinger
-    links:
-     - redis
-  dashboard:
-    image: operationsdashboard/dashboard
-    ports:
-     - 5000:80
+  dataseed:
+    image: operationsdashboard/dataseed
     links:
      - webapi
+    restart: never
