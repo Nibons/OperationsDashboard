@@ -3,7 +3,7 @@ FROM compulim/nanoserver-node as angular-build
 #ARG Prod='--Prod'
 ARG Prod=''
 #install the angular builder
-RUN ng install @angular/cli
+RUN ["ng","install","@angular/cli"]
 
 #generate dependencies first
 COPY Dashboard/project.json .
