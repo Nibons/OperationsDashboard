@@ -1,0 +1,15 @@
+<div class="servermapping">
+    This sure is a nice table....
+    <table>
+        <tr>
+            <th>Servername</th>
+            <th>Friendlyname</th>
+            <th>IP Address</th>
+        </tr>
+        <tr *ngFor="let entry of data">
+            <td>{{entry.servername}}</td>
+            <td>{{entry.friendlyName}}</td>
+            <td>{{entry.ipAddress}}</td>
+        </tr>
+    </table>
+</div>
