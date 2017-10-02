@@ -7,7 +7,7 @@ export class ServermappingService {
   private apiurl = 'http://webapi/api/servermapping';
   private data: ServerMappingEntry[];
   // tslint:disable-next-line:max-line-length
-  private fakestring = '[{"servername":"hfsne121-037100","friendlyName":"Prod-Web-1"},{"servername":"hfsne121-037104","friendlyName":"Prod-App-1"}]';
+  // private fakestring = '[{"servername":"hfsne121-037100","friendlyName":"Prod-Web-1"},{"servername":"hfsne121-037104","friendlyName":"Prod-App-1"}]';
 
   constructor(private http: Http) {
     console.log('ServermappingService-Constructor is running');
