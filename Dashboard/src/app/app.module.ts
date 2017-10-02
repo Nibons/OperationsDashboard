@@ -1,3 +1,4 @@
+import { ServermappingService } from './servermapping.service';
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
 import {HttpModule } from '@angular/http';
@@ -14,7 +15,7 @@ import { ServermappingComponent } from './servermapping/servermapping.component'
     BrowserModule,
     HttpModule
   ],
-  providers: [],
+  providers: [ServermappingService],
   bootstrap: [AppComponent]
 })
 export class AppModule { }

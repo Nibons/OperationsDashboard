@@ -1,5 +1,7 @@
+import { ServerMappingEntry } from './../server-mapping-entry';
+import { ServermappingService } from './../servermapping.service';
 import { Component, OnInit } from '@angular/core';
-import { Http,Response } from '@angular/http';
+import { Http, Response } from '@angular/http';
 import 'rxjs/add/operator/map';
 
 @Component({
@@ -10,37 +12,17 @@ import 'rxjs/add/operator/map';
 export class ServermappingComponent implements OnInit {
   private apiurl = 'http://webapi/api/servermapping';
   private data: ServerMappingEntry[];
-//should move this to services
-  constructor(private http: Http) { 
-    console.log("component-servermapping-constructor is running");
-    this.getservermapping();
-    this.getdata();
+
+  constructor(service: ServermappingService) {
+    console.log('component-servermapping-constructor is running');
+    this.data = service.Data;
   }
 
   ngOnInit() {
-    console.log("component-servermapping-ngOnInit is running");
+    console.log('component-servermapping-ngOnInit is running');
   }
-  getdata() {
-    return this.http.get(this.apiurl)
-      .map((res: Response) => res.json())
-  }
-  getservermapping() {
-    this.getdata().subscribe(
-      data => {
-        console.log(data);
-        this.data = data
-      }
-    )
-  }
+
+
 }
 
-interface ServerMappingEntry {
-  id: number;
-  servername: string;
-  friendlyname: string;
-  logicalEnvironment: string;
-  environment: string;
-  function: string;
-  ipAddress: string;
-  dnsHost: string;
-}
+
