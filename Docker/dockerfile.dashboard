@@ -1,5 +1,7 @@
 FROM compulim/nanoserver-node as angular-build
 
+#ARG Prod='--Prod'
+ARG Prod=''
 #install the angular builder
 RUN ng install @angular/cli
 
@@ -11,7 +13,7 @@ RUN npm install ;
 COPY Dashboard/ .
 
 #build the Angular4 application
-RUN ng build --output-path=c:/wwwroot
+RUN ng build --output-path=c:/wwwroot ${Prod}
 
 #start building the ASP website
 FROM microsoft/aspnetcore-build:2.0.0-nanoserver as asp-build
